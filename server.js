@@ -7,7 +7,7 @@ var url = require('url');
 app.set('port', (process.env.PORT || 5000))
 
 app.get('/library', function(request, response) {
-	fs.readFile( __dirname + "/public/songs.json", 'utf8', function (err, data) {
+	fs.readFile( __dirname + "/library.json", 'utf8', function (err, data) {
 		console.log("Request for the full library.")
 		response.end(data);
 	});
@@ -15,8 +15,8 @@ app.get('/library', function(request, response) {
 
 app.get('/song', function(request, response) {
 	var songId = url.parse(request.url, true).query.id
-	fs.readFile( __dirname + "/public/" + songId + ".cmpf", 'utf8', function (err, data) {
-		console.log("Request for song "+ songId)
+	fs.readFile( __dirname + "/song/" + songId + ".txt", 'utf8', function (err, data) {
+		console.log("Request for song " + songId + ".")
 		response.end('{ "id": "'+songId+'", "song": "'+data+'" }');
 	});
 })
