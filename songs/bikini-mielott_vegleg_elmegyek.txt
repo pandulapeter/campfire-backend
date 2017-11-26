@@ -1,0 +1,62 @@
+{I}
+[C]            [F]            [x2]
+
+{V_1}
+Nagy [C]magányomban álmodoztam [F]rólad,
+Hogy [C]egy napon majd visszajössz hoz[F]zám.
+[G]Képek[F] amiket [Am]itt hagytál ne[F]kem,
+Egy [C]emlék már amely [F]még mindig [G]él.
+
+{V_2}
+A [*C]rossz perceim vissza-vissza [*F]térnek,
+Ha [*C]véletlenül megtalállak [*F]téged.
+[*G]Nézlek[*F] és én már [*Am]semmit nem ér[*F]tek,
+Hogy [*C]búcsúzóul [*F]miért mondtad ne[*G]kem:
+
+{C}
+Mielőtt [C]vég[Em]leg [Am]elme[F]gyek,
+[C]Kapsz egy [Am]képet [G]rólam,
+Ha hiányzom ezt [C]mindig [Em]nézhe[Am]ted,  [F]
+[C]Szét is [Am]téphe[G]ted.
+
+{B}
+[C]            [F]            [x2]
+
+{V_3}
+Egy [*C]szürke fal, egy rádió, egy [*F]asztal,
+Egy [*C]nagy trikó,ezt még tőled [*F]kaptam,
+[*G]Képek,[*F] én már [*Am]semmit nem [*F]értek,
+Hogy [*C]búcsúzóul [*F]miért mondtad ne[*G]kem:
+
+{C}
+Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
+[*C]Kapsz egy [*Am]képet [*G]rólam,
+Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
+[*C]Szét is [*Am]téphe[*G]ted.
+
+{C}
+Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
+[*C]Kapsz egy [*Am]képet [*G]rólam,
+Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
+[*C]Szét is [*Am]téphe[*G]ted.
+
+{S}
+[(]  [C]            [Em]             [Am]             [F]
+  [C]            [Am]             [G]             [G )]              [x2]
+
+{C}
+Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
+[*C]Kapsz egy [*Am]képet [*G]rólam,
+Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
+[*C]Szét is [*Am]téphe[*G]ted.
+
+{C}
+Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
+[*C]Kapsz egy [*Am]képet [*G]rólam,
+Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
+[*C]Szét is [*Am]téphe[*G]ted.
+
+{O}
+[(]  [C]            [Em]             [Am]             [F]
+  [C]            [Am]             [G]             [G )]              [x4]
+  [C]
