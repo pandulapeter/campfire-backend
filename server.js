@@ -15,7 +15,7 @@ app.get('/library', function(request, response) {
 
 app.get('/song', function(request, response) {
 	var songId = url.parse(request.url, true).query.id
-	fs.readFile( __dirname + "/song/" + songId + ".txt", 'utf8', function (err, data) {
+	fs.readFile( __dirname + "/songs/" + songId + ".txt", 'utf8', function (err, data) {
 		console.log("Request for song " + songId + ".")
 		response.end('{ "id": "'+songId+'", "song": "'+data+'" }');
 	});
