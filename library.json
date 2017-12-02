@@ -10,11 +10,13 @@
 	},{
 		"id": "artist_a-test_song_3",
 		"title" : "Test Song 3",
-		"artist" : "Artist A"
+		"artist" : "Artist A",
+		"version" : 1
 	},{
 		"id": "4_non_blondes-whats_up",
 		"title" : "What's Up",
-		"artist" : "4 Non Blondes"
+		"artist" : "4 Non Blondes",
+		"language" : "en"
 	},{
 		"id": "bikini-mielott_vegleg_elmegyek",
 		"title" : "Mielőtt végleg elmegyek",
@@ -23,7 +25,9 @@
 	},{
 		"id": "jason_mraz-im_yours",
 		"title" : "I'm Yours",
-		"artist" : "Jason Mraz"
+		"artist" : "Jason Mraz",
+		"language" : "en",
+		"version" : 1
 	},{
 		"id": "kispal_es_a_borz-elj_vele_bologan",
 		"title" : "Élj vele boldogan",
