@@ -21,11 +21,11 @@ app.get('/v1/song', function(request, response) {
 	});
 })
 
-//app.put('/v1/opened', function(request, response) {
-//	var songId = url.parse(request.url, true).query.id
-//	console.log("Request to increase popularity of song " + songId + ".")
-//	response.end('{ "id": "'+songId+'", "song": "'+data+'" }');
-//})
+app.put('/v1/opened', function(request, response) {
+	var songId = url.parse(request.url, true).query.id
+	console.log("Request to increase popularity of song " + songId + ".")
+	response.end("{}");
+})
 
 app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost:" + app.get('port'))
