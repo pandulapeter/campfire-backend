@@ -1,4 +1,4 @@
 # Campfire (backend)
-The server part of Campfire.
+*Explore a hand-picked library of high quality song lyrics and chords.*
 
-Work in progress.
+Find the Android project [here](https://github.com/pandulapeter/campfire-android).
