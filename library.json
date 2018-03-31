@@ -1,59 +1,80 @@
 [
-	{
-		"id": "artist_a-test_song_1",
-		"title" : "Test Song 1",
-		"artist" : "Artist A"
-	},{
-		"id": "artist_a-test_song_2",
-		"title" : "Test Song 2",
-		"artist" : "Artist A"
-	},{
-		"id": "artist_a-test_song_3",
-		"title" : "Test Song 3",
-		"artist" : "Artist A",
-		"version" : 1
-	},{
-		"id": "4_non_blondes-whats_up",
-		"title" : "What's Up",
-		"artist" : "4 Non Blondes",
-		"language" : "en"
-	},{
-		"id": "bikini-mielott_vegleg_elmegyek",
-		"title" : "Mielőtt végleg elmegyek",
-		"artist" : "Bikini",
-		"language" : "hu"
-	},{
-		"id": "jason_mraz-im_yours",
-		"title" : "I'm Yours",
-		"artist" : "Jason Mraz",
-		"language" : "en",
-		"version" : 1
-	},{
-		"id": "kispal_es_a_borz-elj_vele_bologan",
-		"title" : "Élj vele boldogan",
-		"artist" : "Kispál és a Borz",
-		"language" : "hu",
-		"version" : 2
-	},{
-		"id": "quimby-most_mulik_pontosan",
-		"title" : "Most múlik pontosan",
-		"artist" : "Quimby",
-		"language" : "hu"
-	},{
-		"id": "takats_tamas_dirty_blues_band-pocsolyaba_leptem",
-		"title" : "Pocsolyába léptem",
-		"artist" : "Takáts Tamás Dirty Blues Band",
-		"language" : "hu",
-		"isExplicit" : "true"
-	},{
-		"id": "tankcsapda-be_vagyok_rugva",
-		"title" : "Be vagyok rúgva",
-		"artist" : "Tankcsapda",
-		"language" : "hu"
-	},{
-		"id": "tankcsapda-orokke_tart",
-		"title" : "Örökké tart",
-		"artist" : "Tankcsapda",
-		"language" : "hu"
-	}
+  {
+    "id": "artist_a-test_song_1",
+    "title": "Test Song 1",
+    "artist": "Artist A",
+    "popularity": 0
+  },
+  {
+    "id": "artist_a-test_song_2",
+    "title": "Test Song 2",
+    "artist": "Artist A",
+    "popularity": 0
+  },
+  {
+    "id": "artist_a-test_song_3",
+    "title": "Test Song 3",
+    "artist": "Artist A",
+    "version": 1,
+    "popularity": 0
+  },
+  {
+    "id": "4_non_blondes-whats_up",
+    "title": "What's Up",
+    "artist": "4 Non Blondes",
+    "language": "en",
+    "popularity": 5
+  },
+  {
+    "id": "bikini-mielott_vegleg_elmegyek",
+    "title": "Mielőtt végleg elmegyek",
+    "artist": "Bikini",
+    "language": "hu",
+    "popularity": 2
+  },
+  {
+    "id": "jason_mraz-im_yours",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "language": "en",
+    "version": 1,
+    "popularity": 6
+  },
+  {
+    "id": "kispal_es_a_borz-elj_vele_bologan",
+    "title": "Élj vele boldogan",
+    "artist": "Kispál és a Borz",
+    "language": "hu",
+    "version": 2,
+    "popularity": 3
+  },
+  {
+    "id": "quimby-most_mulik_pontosan",
+    "title": "Most múlik pontosan",
+    "artist": "Quimby",
+    "language": "hu",
+    "popularity": 4
+  },
+  {
+    "id": "takats_tamas_dirty_blues_band-pocsolyaba_leptem",
+    "title": "Pocsolyába léptem",
+    "artist": "Takáts Tamás Dirty Blues Band",
+    "language": "hu",
+    "isExplicit": "true",
+    "popularity": 3
+  },
+  {
+    "id": "tankcsapda-be_vagyok_rugva",
+    "title": "Be vagyok rúgva",
+    "artist": "Tankcsapda",
+    "language": "hu",
+    "popularity": 5
+  },
+  {
+    "id": "tankcsapda-orokke_tart",
+    "title": "Örökké tart",
+    "artist": "Tankcsapda",
+    "language": "hu",
+    "popularity": 6
+  }
 ]
