@@ -19,6 +19,14 @@
     "popularity": 0
   },
   {
+    "id": "artist_b-test_song_4",
+    "title": "Test Song 4",
+    "artist": "Artist B",
+    "language": "ro",
+    "version": 1,
+    "popularity": 1
+  },
+  {
     "id": "4_non_blondes-whats_up",
     "title": "What's Up",
     "artist": "4 Non Blondes",
