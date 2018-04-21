@@ -1,0 +1,13 @@
+[
+  {
+    "id": "test-collection-1",
+    "title": "Test Collection 1",
+    "description": "The first Collection ever in Campfire",
+    "imageUrl": "http://www.guitarnoise.com/images/features/acoustic-guitar-1024x680-1024x585.jpg",
+    "songs": "['artist_a-test_song_1','artist_a-test_song_2',artist_a-test_song_3]]",
+    "language": "en",
+    "popularity": 3,
+    "isExplicit": "false",
+    "date": 1524323982782
+  }
+]
