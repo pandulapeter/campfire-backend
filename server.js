@@ -40,6 +40,20 @@ app.put('/v1/collectionOpened', function(request, response) {
 	response.end();
 })
 
+app.get('/v1/privacy-policy', function(request, response) {
+	fs.readFile( __dirname + "/privacy-policy.html", 'utf8', function (err, data) {
+		console.log("Request for the Privacy Policy.")
+		response.end(data);
+	});
+})
+
+app.get('/v1/open-source-licenses', function(request, response) {
+	fs.readFile( __dirname + "/open-source-licenses.html", 'utf8', function (err, data) {
+		console.log("Request for the Open-source licenses.")
+		response.end(data);
+	});
+})
+
 app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost:" + app.get('port'))
 })
