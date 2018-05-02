@@ -40,6 +40,13 @@ app.put('/v1/collectionOpened', function(request, response) {
 	response.end();
 })
 
+app.get('/v1/terms-and-conditions', function(request, response) {
+	fs.readFile( __dirname + "/terms-and-conditions.html", 'utf8', function (err, data) {
+		console.log("Request for the Terms and Conditions.")
+		response.end(data);
+	});
+})
+
 app.get('/v1/privacy-policy', function(request, response) {
 	fs.readFile( __dirname + "/privacy-policy.html", 'utf8', function (err, data) {
 		console.log("Request for the Privacy Policy.")
