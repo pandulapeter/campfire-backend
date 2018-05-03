@@ -1,6 +1,6 @@
 {I}
-[A]            [G]            [A]            [G]                  [x7]
-[F]            [G]            [C]
+[A]   [G]   [A]   [G]      [x7]
+[F]   [G]   [C]
 
 {C}
 [C]Élj vele boldogan, [F]áldásom [G]rád.
@@ -24,8 +24,8 @@ Idáig [G]szenved[F]tem [G]éppen [F]eleget,
 És [*Em]bárhogy is [*Am]számolom, [*F]egy csep[*G]pet se [*C]bánt.
 
 {S}
-[A]            [G]            [A]            [G]                  [x7]
-[F]            [G]            [C]
+[A]   [G]   [A]   [G]      [x7]
+[F]   [G]   [C]
 
 {B}
 Most [*G]élek [*F]majd [*G]végre [*F]szabadon,
