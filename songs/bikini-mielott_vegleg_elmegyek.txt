@@ -42,7 +42,7 @@ Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
 
 {S}
 [(]  [C]   [Em]   [Am]   [F]
-   [C]   [Am]   [G]   [G]   [)]   [x2]
+     [C]   [Am]   [G]   [G]   [)]   [x2]
 
 {C}
 Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
@@ -57,6 +57,6 @@ Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
 [*C]Szét is [*Am]téphe[*G]ted.
 
 {O}
-[(]  [C]            [Em]             [Am]             [F]
-  [C]            [Am]             [G]             [G )]              [x4]
-  [C]
+[(]  [C]   [Em]   [Am]   [F]
+     [C]   [Am]   [G]   [G]   [)]   [x4]
+[C]
