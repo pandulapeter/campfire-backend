@@ -1,16 +1,16 @@
 {I}
-[E]            [A][/][E]                  [x2]
+[E]            [A/E]                  [x2]
 
 {V_1}
-Gyere, [E]mondd el, mi a baj béb' én figyelek [A][/][E]rád.
-Előttem [E]ne legyen titkod, én nem vagyok az a[A][/][E]pád.
-[E]Látom van valami, ami a szívedet [A][/][E]nyomja,
+Gyere, [E]mondd el, mi a baj béb' én figyelek [A/E]rád.
+Előttem [E]ne legyen titkod, én nem vagyok az a[A/E]pád.
+[E]Látom van valami, ami a szívedet [A/E]nyomja,
 Tudom az [D]élet súlya, tudom a világ [E]gondja.
 
 {V_2}
-Gyere [E]ne félj tőlem én nem verlek [A][/][E]át,
-Ha [E]belekezdtél hát folytasd to[A][/][E]vább,
-Ha akarod [E]suttoghatsz, nekem az is elég hogy [A][/][E]halljam,
+Gyere [E]ne félj tőlem én nem verlek [A/E]át,
+Ha [E]belekezdtél hát folytasd to[A/E]vább,
+Ha akarod [E]suttoghatsz, nekem az is elég hogy [A/E]halljam,
 És én majd [D]ott leszek és segítek ha [E]baj van.
 
 {C}
@@ -20,18 +20,18 @@ Ha [C]nem hiszed el hogy az élet [G]tényleg örökké tart,
 [D]Hiába úszol belefulladsz, pedig ott van a másik part.
 
 {B}
-[E]            [A][/][E]                  [x2]
+[E]            [A/E]                  [x2]
 
 {V_3}
-Na jól van, [E]borítsunk fátylat a [A][/][E]múltra,
-A dolgok [E]jönnek aztán mennek hirte[A][/][E]len,
-És néha [E]elvisznek magukkal arra az [A][/][E]útra,
+Na jól van, [E]borítsunk fátylat a [A/E]múltra,
+A dolgok [E]jönnek aztán mennek hirte[A/E]len,
+És néha [E]elvisznek magukkal arra az [A/E]útra,
 Ahol az [D]érzelmek laknak nem az érte[E]lem.
 
 {V_4}
-Gyere [E]ne félj tőlem, én jól tudom mi [A][/][E]bánt,
-Néha [E]mindenki elkövet néhány hi[A][/][E]bát,
-De ha [E]magadba nézel és azt látod, [A][/][E]hogy a szíved tiszta,
+Gyere [E]ne félj tőlem, én jól tudom mi [A/E]bánt,
+Néha [E]mindenki elkövet néhány hi[A/E]bát,
+De ha [E]magadba nézel és azt látod, [A/E]hogy a szíved tiszta,
 Akkor [D]jó az út amin jársz és többé [E]ne is fordulj vissza.
 
 {C}
@@ -41,9 +41,9 @@ Ha [C]nem hiszed el hogy az élet [G]tényleg örökké tart,
 [D]Hiába úszol belefulladsz, pedig ott van a másik part.
 
 {V_1}
-Gyere, [E]mondd el, mi a baj béb' én figyelek [A][/][E]rád.
-Előttem [E]ne legyen titkod, én nem vagyok az a[A][/][E]pád.
-[E]Látom van valami, ami a szívedet [A][/][E]nyomja,
+Gyere, [E]mondd el, mi a baj béb' én figyelek [A/E]rád.
+Előttem [E]ne legyen titkod, én nem vagyok az a[A/E]pád.
+[E]Látom van valami, ami a szívedet [A/E]nyomja,
 Tudom az [D]élet súlya, tudom a világ [E]gondja.
 
 {O}
