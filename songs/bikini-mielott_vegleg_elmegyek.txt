@@ -1,5 +1,5 @@
 {I}
-[C]            [F]            [x2]
+[C]   [F]   [x2]
 
 {V_1}
 Nagy [C]magányomban álmodoztam [F]rólad,
@@ -20,7 +20,7 @@ Ha hiányzom ezt [C]mindig [Em]nézhe[Am]ted,  [F]
 [C]Szét is [Am]téphe[G]ted.
 
 {B}
-[C]            [F]            [x2]
+[C]   [F]   [x2]
 
 {V_3}
 Egy [*C]szürke fal, egy rádió, egy [*F]asztal,
@@ -41,8 +41,8 @@ Ha hiányzom ezt [*C]mindig [*Em]nézhe[*Am]ted,  [*F]
 [*C]Szét is [*Am]téphe[*G]ted.
 
 {S}
-[(]  [C]            [Em]             [Am]             [F]
-  [C]            [Am]             [G]             [G )]              [x2]
+[(]  [C]   [Em]   [Am]   [F]
+   [C]   [Am]   [G]   [G]   [)]   [x2]
 
 {C}
 Mielőtt [*C]vég[*Em]leg [*Am]elme[*F]gyek,
