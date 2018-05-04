@@ -7,51 +7,51 @@ Pocsolyába léptem, sáros lett az új ci[A]pőm.
 [G]Hiába keféltem, [A]elhagyott a [D]nőm.
 
 {V_2}
-Hát akkor [*D]minden jót bébi, kérlek, ne sírjál.
-Minden jót bébi, kérlek, ne sír[*A]jál.
-[*G]Sírtál volna akkor, [*A]mikor elhagy[*D]tál.
+Hát akkor [D]minden jót bébi, kérlek, ne sírjál.
+Minden jót bébi, kérlek, ne sír[A]jál.
+[G]Sírtál volna akkor, [A]mikor elhagy[D]tál.
 
 {V_1}
-Egy-két-há-négy! [*D]pocsolyába léptem, sáros lett az új cipőm,
-Pocsolyába léptem, sáros lett az új ci[*A]pőm.
-[*G]Hiába keféltem, [*A]elhagyott a [*D]nőm.
+Egy-két-há-négy! [D]pocsolyába léptem, sáros lett az új cipőm,
+Pocsolyába léptem, sáros lett az új ci[A]pőm.
+[G]Hiába keféltem, [A]elhagyott a [D]nőm.
 
 {V_2}
-[*D]Minden jót bébi, kérlek, ne sírjál.
-Minden jót bébi, kérlek, ne sír[*A]jál.
-[*G]Sírtál volna akkor, [*A]mikor elhagy[*D]tál.
+[D]Minden jót bébi, kérlek, ne sírjál.
+Minden jót bébi, kérlek, ne sír[A]jál.
+[G]Sírtál volna akkor, [A]mikor elhagy[D]tál.
 
 {S}
-[D]      [D]      [D]      [D]
-[D]      [D]      [A]      [A]
-[G]      [A]      [D]      [A7]
+[D]    [D]    [D]    [D]
+[D]    [D]    [A]    [A]
+[G]    [A]    [D]    [A7]
 
 {V_2}
-Hééé [*D]minden jót bébi, kérlek, ne sírjál.
-Minden jót bébi, kérlek, ne sír[*A]jál.
-[*G]Sírtál volna akkor, [*A]mikor elhagy[*D]tál.
+Hééé [D]minden jót bébi, kérlek, ne sírjál.
+Minden jót bébi, kérlek, ne sír[A]jál.
+[G]Sírtál volna akkor, [A]mikor elhagy[D]tál.
 
 {S}
-[D]      [D]      [D]      [D]
-[D]      [D]      [A]      [A]
-[G]      [A]      [D]      [A7]
+[D]    [D]    [D]    [D]
+[D]    [D]    [A]    [A]
+[G]    [A]    [D]    [A7]
 
 {V_1}
-[*D]Pocsolyába léptem, sáros lett az új cipőm,
-Pocsolyába léptem, sáros lett az új ci[*A]pőm.
-Bizony [*G]hiába keféltem, [*A]elhagyott a [*D]nőm.
+[D]Pocsolyába léptem, sáros lett az új cipőm,
+Pocsolyába léptem, sáros lett az új ci[A]pőm.
+Bizony [G]hiába keféltem, [A]elhagyott a [D]nőm.
 
 {V_3}
-[*D]Hiába mondtam neki, fényesebbre kefélje,
-Hiába mondtam neki, fényesebbre kefél[*A]je.
-[*G]Fényes volt a cipője, [*A]azért voltam a nő[*D]je.
+[D]Hiába mondtam neki, fényesebbre kefélje,
+Hiába mondtam neki, fényesebbre kefél[A]je.
+[G]Fényes volt a cipője, [A]azért voltam a nő[D]je.
 
 {V_2}
-[*D]Minden jót bébi, kérlek, ne sírjál.
-Minden jót bébi, kérlek, ne sír[*A]jál.
-[*G]Sírtál volna akkor, [*A]mikor elhagy[*D]tál.
+[D]Minden jót bébi, kérlek, ne sírjál.
+Minden jót bébi, kérlek, ne sír[A]jál.
+[G]Sírtál volna akkor, [A]mikor elhagy[D]tál.
 
 {V_2}
-[*D]Minden jót bébi, kérlek, ne sírjál.
-Minden jót bébi, kérlek, ne sír[*A]jál.
-[*G]Sírtál volna akkor, [-]mikor elhagy[*D]tál.
+[D]Minden jót bébi, kérlek, ne sírjál.
+Minden jót bébi, kérlek, ne sír[A]jál.
+[G]Sírtál volna akkor, [-]mikor elhagy[D]tál.

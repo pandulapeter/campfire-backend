@@ -1,6 +1,6 @@
 {I}
-[A]   [G]   [A]   [G]      [x7]
-[F]   [G]   [C]
+[A]    [G]    [A]    [G]    [x7]
+[F]    [G]    [C]
 
 {C}
 [C]Élj vele boldogan, [F]áldásom [G]rád.
@@ -18,29 +18,29 @@ Idáig [G]szenved[F]tem [G]éppen [F]eleget,
 [G]Száz évig...
 
 {C}
-[*C]Élj vele boldogan, [*F]áldásom [*G]rád.
-[*C]Ő talán elvisel [*F]minden vi[*G]tát.
-[*C]Én már [*Am]távozom,[*F] ezt megúsztam szárazon
-És [*Em]bárhogy is [*Am]számolom, [*F]egy csep[*G]pet se [*C]bánt.
+[C]Élj vele boldogan, [F]áldásom [G]rád.
+[C]Ő talán elvisel [F]minden vi[G]tát.
+[C]Én már [Am]távozom,[F] ezt megúsztam szárazon
+És [Em]bárhogy is [Am]számolom, [F]egy csep[G]pet se [C]bánt.
 
 {S}
-[A]   [G]   [A]   [G]      [x7]
-[F]   [G]   [C]
+[A]    [G]    [A]    [G]    [x7]
+[F]    [G]    [C]
 
 {B}
-Most [*G]élek [*F]majd [*G]végre [*F]szabadon,
-[*G]Gond nél[*F]kül [*G]járok [*F]utamon,
-[*G]Morcos[*F]kám, [*G]nem [*F]szólhatsz [*C]rám.
-Idáig [*G]szenved[*F]tem [*G]éppen [*F]eleget,
-[*G]Holnap[*F]tól [*G]én is [*F]nevetek,
-[*G]Úgy, mint [*F]más, [*G]ez jobb szo[*C]kás.
-[*G]Száz évig...
+Most [G]élek [F]majd [G]végre [F]szabadon,
+[G]Gond nél[F]kül [G]járok [F]utamon,
+[G]Morcos[F]kám, [G]nem [F]szólhatsz [C]rám.
+Idáig [G]szenved[F]tem [G]éppen [F]eleget,
+[G]Holnap[F]tól [G]én is [F]nevetek,
+[G]Úgy, mint [F]más, [G]ez jobb szo[C]kás.
+[G]Száz évig...
 
 {C}
-[*C]Élj vele boldogan, [*F]áldásom [*G]rád.
-[*C]Ő talán elvisel [*F]minden vi[*G]tát.
-[*C]́n már [*Am]távozom,[*F] ezt megúsztam szárazon
-És [*Em]bárhogy is [*Am]számolom, [*F]egy csep[*G]pet se [*C]bánt.
+[C]Élj vele boldogan, [F]áldásom [G]rád.
+[C]Ő talán elvisel [F]minden vi[G]tát.
+[C]́n már [Am]távozom,[F] ezt megúsztam szárazon
+És [Em]bárhogy is [Am]számolom, [F]egy csep[G]pet se [C]bánt.
 
 {O}
 [F]Egy csep[G]pet se [C]bánt.

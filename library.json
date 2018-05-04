@@ -1,44 +1,10 @@
 [
   {
-    "id": "artist_a-test_song_1",
-    "title": "Test Song 1",
-    "artist": "Artist A",
-    "popularity": 0
-  },
-  {
-    "id": "artist_a-test_song_2",
-    "title": "Test Song 2",
-    "artist": "Artist A",
-    "popularity": 0
-  },
-  {
-    "id": "artist_a-test_song_3",
-    "title": "Test Song 3",
-    "artist": "Artist A",
-    "version": 1,
-    "popularity": 0
-  },
-  {
-    "id": "artist_b-test_song_4",
-    "title": "Test Song 4",
-    "artist": "Artist B",
-    "language": "ro",
-    "version": 1,
-    "popularity": 1
-  },
-  {
-    "id": "artist_b-test_song_5",
-    "title": "Test Song 5",
-    "artist": "Artist B",
-    "language": "ro",
-    "version": 2,
-    "popularity": 2
-  },
-  {
     "id": "4_non_blondes-whats_up",
     "title": "What's Up",
     "artist": "4 Non Blondes",
     "language": "en",
+    "version": 1,
     "popularity": 5
   },
   {
@@ -46,7 +12,7 @@
     "title": "Mielőtt végleg elmegyek",
     "artist": "Bikini",
     "language": "hu",
-    "version": 4,
+    "version": 6,
     "popularity": 2
   },
   {
@@ -54,7 +20,7 @@
     "title": "I'm Yours",
     "artist": "Jason Mraz",
     "language": "en",
-    "version": 1,
+    "version": 2,
     "popularity": 6
   },
   {
@@ -62,7 +28,7 @@
     "title": "Élj vele boldogan",
     "artist": "Kispál és a Borz",
     "language": "hu",
-    "version": 3,
+    "version": 4,
     "popularity": 3
   },
   {
@@ -70,6 +36,7 @@
     "title": "Most múlik pontosan",
     "artist": "Quimby",
     "language": "hu",
+    "version": 1,
     "popularity": 4
   },
   {
@@ -77,6 +44,7 @@
     "title": "Pocsolyába léptem",
     "artist": "Takáts Tamás Dirty Blues Band",
     "language": "hu",
+    "version": 1,
     "isExplicit": "true",
     "popularity": 3
   },
@@ -85,13 +53,14 @@
     "title": "Be vagyok rúgva",
     "artist": "Tankcsapda",
     "language": "hu",
+    "version": 1,
     "popularity": 5
   },
   {
     "id": "tankcsapda-orokke_tart",
     "title": "Örökké tart",
     "artist": "Tankcsapda",
-    "version": 2,
+    "version": 3,
     "language": "hu",
     "popularity": 6
   }

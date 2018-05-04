@@ -1,5 +1,5 @@
 {I}
-[E]            [A/E]                  [x2]
+[E]    [A/E]    [x2]
 
 {V_1}
 Gyere, [E]mondd el, mi a baj béb' én figyelek [A/E]rád.
@@ -20,7 +20,7 @@ Ha [C]nem hiszed el hogy az élet [G]tényleg örökké tart,
 [D]Hiába úszol belefulladsz, pedig ott van a másik part.
 
 {B}
-[E]            [A/E]                  [x2]
+[E]    [A/E]    [x2]
 
 {V_3}
 Na jól van, [E]borítsunk fátylat a [A/E]múltra,
