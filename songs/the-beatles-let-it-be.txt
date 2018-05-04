@@ -44,7 +44,7 @@ Let it [Am]be, let it [G]be, let it [F]be, let it [C]be.
 
 {S}
 [(]    [C]    [G]    [Am]    [F]
-     [C]    [G]    [F]    [C]    [)]    [x2]
+        [C]    [G]    [F]    [C]    [)]    [x2]
 
 {C}
 Let it [Am]be, let it [G]be, let it [F]be, let it [C]be.
