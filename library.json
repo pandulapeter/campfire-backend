@@ -92,7 +92,7 @@
     "id": "the-beatles-let-it-be",
     "title": "Let It Be",
     "artist": "The Beatles",
-    "version": 1,
+    "version": 2,
     "language": "en",
     "popularity": 7
   },
@@ -111,5 +111,13 @@
     "version": 0,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "green-day-good-riddance",
+    "title": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
   }
 ]
