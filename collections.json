@@ -10,20 +10,21 @@
         "quimby-most_mulik_pontosan",
         "tankcsapda-be_vagyok_rugva",
         "tankcsapda-orokke_tart"
+        "jason_mraz-im_yours",
     ],
     "language": [
         "en",
-        "ro"
+        "hu"
     ],
     "popularity": 1,
     "isExplicit": "false",
     "date": 1524323982782
 },
     {
-    "id": "hungraian-songs-1",
-    "title": "Magyar dalok",
-    "description": "Próba csak magyar dalokkal. Ennek némileg hosszabb a leírása, hogy ne férjen ki egy sorba.",
-    "imageUrl": "http://www.reimerseeds.com/Images/products/sweetpepper/sweetpeppersH/Hungarian-Spice-Paprika-Peppers.jpg",
+    "id": "test-collection-2",
+    "title": "Test Collection 2",
+    "description": "Test collection with a longer description. This should not fit on the list item and should only appear in full in the detail screen.",
+    "imageUrl": "https://images.pexels.com/photos/165971/pexels-photo-165971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "songs": [
         "bikini-mielott_vegleg_elmegyek",
         "kispal_es_a_borz-elj_vele_bologan",
