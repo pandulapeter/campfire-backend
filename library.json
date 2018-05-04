@@ -87,5 +87,13 @@
     "version": 0,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "the-beatles-let-it-be",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "version": 0,
+    "language": "en",
+    "popularity": 7
   }
 ]
