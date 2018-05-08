@@ -135,5 +135,14 @@
     "version": 0,
     "language": "hu",
     "popularity": 3
+  },
+  {
+    "id": "beatrice-nyolc_ora_munka",
+    "title": "Nyolc óra munka",
+    "artist": "Beatrice",
+    "version": 0,
+    "isExplicit": "true",
+    "language": "hu",
+    "popularity": 4
   }
 ]
