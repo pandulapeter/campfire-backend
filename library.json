@@ -65,7 +65,7 @@
     "popularity": 6
   },
   {
-    "id": "fools-garden-lemon-tree",
+    "id": "fools_garden-lemon_tree",
     "title": "Lemon Tree",
     "artist": "Fools Garden",
     "version": 0,
@@ -73,7 +73,7 @@
     "popularity": 6
   },
   {
-    "id": "john-denver-country-roads",
+    "id": "john_denver-country_roads",
     "title": "Country Roads",
     "artist": "John Denver",
     "version": 0,
@@ -81,7 +81,7 @@
     "popularity": 4
   },
   {
-    "id": "bon-jovi-its-my-life",
+    "id": "bon_jovi-its_my_life",
     "title": "It's My Life",
     "artist": "Bon Jovi",
     "version": 0,
@@ -89,7 +89,7 @@
     "popularity": 5
   },
   {
-    "id": "the-beatles-let-it-be",
+    "id": "the_beatles-let_it_be",
     "title": "Let It Be",
     "artist": "The Beatles",
     "version": 2,
@@ -97,7 +97,7 @@
     "popularity": 7
   },
   {
-    "id": "daniel-powter-bad-day",
+    "id": "daniel_powter-bad_day",
     "title": "Bad Day",
     "artist": "Daniel Powter",
     "version": 0,
@@ -105,7 +105,7 @@
     "popularity": 5
   },
   {
-    "id": "elton-john-can-you-feel-the-love-tonight",
+    "id": "elton_john-can_you_feel_the_love_tonight",
     "title": "Can You Feel the Love Tonight",
     "artist": "Elton John",
     "version": 0,
@@ -113,11 +113,19 @@
     "popularity": 5
   },
   {
-    "id": "green-day-good-riddance",
-    "title": "Good Riddance (Time of Your Life)",
+    "id": "green_day-good_riddance",
+    "title": "Good Riddance",
     "artist": "Green Day",
     "version": 0,
     "language": "en",
     "popularity": 4
+  },
+  {
+    "id": "scorpions-wind_of_change",
+    "title": "Wind of Change",
+    "artist": "Scorpions",
+    "version": 0,
+    "language": "en",
+    "popularity": 5
   }
 ]
