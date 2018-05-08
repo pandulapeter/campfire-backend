@@ -1,0 +1,79 @@
+{I}
+[Am]        [Am]
+[Am]        [Am]    [-]    [C5/A]
+[Am]        [Am]
+[Am]        [F]    [G]
+
+{V_1}
+[Am]Kör közepén állok,[C5/A]
+[Am]Körbevesznek [Dm]jó barátok
+[Am]Körbevesznek [Em]jó barátok és [Am]rosszak.  [F]    [G]
+
+{V_2}
+[Am]Kör közepén állok,[C5/A]
+[Am]Így könnyen [Dm]eltaláltok
+[Am]Így könnyen [Em]eltaláltok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{V_3}
+[Am]Bohóc vagyok, de bátor,[C5/A]
+[Am]Pofonoktól [Dm]ég az arcom
+[Am]Pofonoktól [Em]piros az arcom, [Am]kaptam.  [F]    [G]
+
+{V_4}
+[Am]Nem adom fel, tudjátok,[C5/A]
+[Am]Láthatatlan, [Dm]lapos sumákok
+[Am]Istenem, de [Em]sokan vagytok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{S}
+[(]   [Am]        [Am]    [-]    [C5/A]
+      [Am]        [Dm]
+      [Am]        [Em]
+      [Am]        [F]    [G]    [)]    [x2]
+[(]   [C]        [G]
+      [Am]        [Em]
+      [F]        [Em]
+      [Am]        [Am]    [)]    [x2]
+      [Am]        [F]    [G]
+
+{V_5}
+[Am]Hitványak az álmok,[C5/A]
+[Am]Ha mindent [Dm]eltakartok,
+[Am]Fekete függöny [Em]mögé zavartok, [Am]rosszak.  [F]    [G]
+
+{V_6}
+[Am]Könyöröghetek bárhogy,[C5/A]
+[Am]Éles késsel [Dm]rám vadásztok,
+[Am]Ha megtaláltok, [Em]kicsináltok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{C}
+[C]Ha egyszer [G]odébbállok,
+A [Am]kör közepébõl [Em]majd hiányzok,
+[F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
+
+{O}
+[Am]

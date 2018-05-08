@@ -152,5 +152,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 4
+  },
+  {
+    "id": "edda-a_kor",
+    "title": "A kör",
+    "artist": "Edda",
+    "version": 0,
+    "language": "hu",
+    "popularity": 4
   }
 ]
