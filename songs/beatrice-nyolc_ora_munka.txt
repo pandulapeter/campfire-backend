@@ -33,7 +33,7 @@ A [C]kocsmában, ott van a nagy élet,
 
 {S}
 [C]        [G]    [x2]
-[F]    [C    [G]    [C]    [x2]
+[F]    [C]    [G]    [C]    [x2]
 
 {V_1}
 De a [C]munkának vége, kijössz a gyárból,
