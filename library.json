@@ -127,5 +127,13 @@
     "version": 0,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "beatrice-azok_a_boldog_szep_napok",
+    "title": "Azok a boldog szép napok",
+    "artist": "Beatrice",
+    "version": 0,
+    "language": "hu",
+    "popularity": 3
   }
 ]
