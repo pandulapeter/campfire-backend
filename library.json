@@ -92,7 +92,7 @@
     "id": "the_beatles-let_it_be",
     "title": "Let It Be",
     "artist": "The Beatles",
-    "version": 2,
+    "version": 3,
     "language": "en",
     "popularity": 7
   },
@@ -165,7 +165,7 @@
     "id": "ocho_macho-jo_nekem",
     "title": "Jó nekem",
     "artist": "Ocho Macho",
-    "version": 0,
+    "version": 1,
     "language": "hu",
     "popularity": 3
   },

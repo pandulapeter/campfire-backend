@@ -1,5 +1,6 @@
 {I}
-[Em]    [C]    [G]    [D]    [Em]
+[Em]    [C]    [G]    [D]
+[Em]
 
 {V_1}
 Reggel mikor [C]kinéztem és lát[G]tam,
@@ -25,7 +26,8 @@ Azt hogy [Em]jó, jó, [C]jó, jó, de jó ne[G]kem,
 Jó ne[D]kem.
 
 {B}
-[Em]    [C]    [G]    [D]    [x2]    [Em]
+[Em]    [C]    [G]    [D]    [x2]
+[Em]
 
 {V_4}
 Azt mondják, hogy [C]pozitívan éljek,[G]
@@ -45,7 +47,8 @@ Azt hogy [Em]jó, jó, [C]jó, jó, de jó ne[G]kem,
 Jó ne[D]kem.
 
 {B}
-[Em]    [C]    [G]    [D]    [x4]    [Em]
+[Em]    [C]    [G]    [D]    [x4]
+[Em]
 
 {V_1}
 Reggel mikor [C]kinéztem és lát[G]tam,
