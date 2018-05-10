@@ -41,9 +41,9 @@ Szentjános[C]bogarak[C/B]    [Am]
 Fényében [G]tündököl.    [D]
 
 {S}
-[G]    [D]    [Em]    [C]
-[G]    [D]    [C]    [C/B]    [Am]
-[G]    [D]
+[G]        [D]        [Em]        [C]
+[G]        [D]        [C]    [C/B]    [Am]
+[G]        [D]
 
 {B_3}
 [B]Egy indián lidérc kísért itt [Em]bennem.
