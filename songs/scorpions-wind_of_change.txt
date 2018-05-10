@@ -1,6 +1,6 @@
 {I}
-[F]    [Dm]    [x2]
-[C]    [Dm]    [-]    [Am]    [G]    [C]
+[F]        [Dm]    [x2]
+[C]        [Dm]    [Am]    [G]    [C]
 
 {V_1}
 I follow the Mosk[Dm]va, down to Gorky [C]Park,
@@ -9,8 +9,8 @@ An August summer [Dm]night soldiers passing [C]by,
 Listening to the [Dm]wind of [Am]chan[G]ge.   [C]
 
 {B_1}
-[F]    [Dm]    [x2]
-[C]    [Dm]    [-]    [Am]    [G]    [C]
+[F]        [Dm]    [x2]
+[C]        [Dm]    [Am]    [G]    [C]
 
 {V_2}
 The world is closing [Dm]in, did you ever [C]think,
@@ -75,5 +75,5 @@ Where the [Dm]children of to[G]morrow
 Dream a[Am]way [F]in the wind of [G]change.
 
 {O}
-[F]    [Dm]    [x2]
-[C]    [Dm]    [-]    [Am]    [G]    [C]
+[F]        [Dm]    [x2]
+[C]        [Dm]    [Am]    [G]    [C]
