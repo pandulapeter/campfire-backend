@@ -12,7 +12,7 @@
     "title": "Mielőtt végleg elmegyek",
     "artist": "Bikini",
     "language": "hu",
-    "version": 6,
+    "version": 7,
     "popularity": 2
   },
   {
@@ -108,7 +108,7 @@
     "id": "elton_john-can_you_feel_the_love_tonight",
     "title": "Can You Feel the Love Tonight",
     "artist": "Elton John",
-    "version": 0,
+    "version": 1,
     "language": "en",
     "popularity": 5
   },
