@@ -225,5 +225,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 5
+  },
+  {
+    "id": "edda-elhagyom_a_varost",
+    "title": "Elhagyom a várost",
+    "artist": "Edda",
+    "version": 0,
+    "language": "hu",
+    "popularity": 4
   }
 ]
