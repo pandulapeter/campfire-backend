@@ -201,5 +201,21 @@
     "language": "hu",
     "isExplicit": "true",
     "popularity": 3
+  },
+  {
+    "id": "magna_cum_laude-palinka_dal",
+    "title": "Pálinka dal",
+    "artist": "Magna Cum Laude",
+    "version": 0,
+    "language": "hu",
+    "popularity": 5
+  },
+  {
+    "id": "republic-a_67_es_ut",
+    "title": "A 67-es út",
+    "artist": "Republic",
+    "version": 0,
+    "language": "hu",
+    "popularity": 4
   }
 ]
