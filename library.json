@@ -157,7 +157,7 @@
     "id": "edda-a_kor",
     "title": "A kör",
     "artist": "Edda",
-    "version": 1,
+    "version": 2,
     "language": "hu",
     "popularity": 4
   },
@@ -176,5 +176,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 3
+  },
+  {
+    "id": "illes-keglidal",
+    "title": "Kéglidal",
+    "artist": "Illés",
+    "version": 0,
+    "language": "hu",
+    "popularity": 2
   }
 ]

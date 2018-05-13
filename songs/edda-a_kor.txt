@@ -45,11 +45,11 @@ A [Am]kör közepébõl [Em]majd hiányzok,
 [F]Rám többé [Em]nem találtok, [Am]rosszak.  [F]    [G]
 
 {S}
-[(]  [Am]        [Am]    [-]  [C5/A]
+[(] [Am]        [Am]    [-]  [C5/A]
     [Am]        [Dm]
     [Am]        [Em]
     [Am]        [F]    [G]    [)]  [x2]
-[(]  [C]        [G]
+[(] [C]        [G]
     [Am]        [Em]
     [F]        [Em]
     [Am]        [Am]    [)]  [x2]
