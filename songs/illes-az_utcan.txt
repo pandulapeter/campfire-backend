@@ -49,7 +49,7 @@ Bár tudnám, [A7]hova, de [A/C#]hova, de [D]hova, de [E]hova megyek,
 
 {V_4}
 [A]Vannak, akik [D]végigmérnek,
-[E7]"Szép kis alak", [A]így beszélnek.
+[E7]\"Szép kis alak\", [A]így beszélnek.
 A [A]fejükre is [D]állhatnának,
 [E7]Érdekelni [A]nem tudnának [E]ők.
 
