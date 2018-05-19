@@ -16,7 +16,7 @@ The [F]answer is
 [G]Blowin' in the [C]wind.
 
 {S}
-      [F]    [G]    [C]
+         [F]    [G]    [C]
 [C]    [F]    [C]    [C]
 [C]    [F]    [G]    [C]
 [C]    [F]    [G]    [G]
@@ -36,7 +36,7 @@ The [F]answer is
 [G]Blowin' in the [C]wind.
 
 {S}
-      [F]    [G]    [C]
+         [F]    [G]    [C]
 [C]    [F]    [C]    [C]
 [C]    [F]    [G]    [C]
 [C]    [F]    [G]    [G]
@@ -56,7 +56,7 @@ The [F]answer is
 [G]Blowin' in the [C]wind.
 
 {S}
-      [F]    [G]    [C]
+         [F]    [G]    [C]
 [C]    [F]    [C]    [C]
 [C]    [F]    [G]    [C]
 [C]    [F]    [G]    [G]
