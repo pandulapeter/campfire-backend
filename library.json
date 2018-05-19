@@ -361,5 +361,14 @@
     "version": 0,
     "language": "hu",
     "popularity": 3
+  },
+  {
+    "id": "tankcsapda-az_elet_a_legjobb_mereg",
+    "title": "Az élet a legjobb méreg",
+    "artist": "Tankcsapda",
+    "isExplicit": "true",
+    "version": 0,
+    "language": "hu",
+    "popularity": 5
   }
 ]
