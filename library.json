@@ -268,7 +268,7 @@
   },
   {
     "id": "fonograf-jojj_kedvesem",
-    "title": "Jöjj kedvesem",
+    "title": "Jöjj, kedvesem!",
     "artist": "Fonográf",
     "version": 0,
     "language": "hu",
@@ -281,5 +281,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 2
+  },
+  {
+    "id": "bikini-megussem_vagy_ne_ussem",
+    "title": "Megüssem vagy ne üssem?",
+    "artist": "Bikini",
+    "version": 0,
+    "language": "hu",
+    "popularity": 4
   }
 ]
