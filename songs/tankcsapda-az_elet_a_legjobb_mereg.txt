@@ -51,10 +51,8 @@ Az [C]idő jó, de rossz a hely,
 [D]Dugd fel a botodat magadnak,
 
 {B}
-Seggfej!
-[A]    [C]    [D]    [D]    [x2]
-Seggfej!
-[A]    [C]    [D]    [D]    [x2]
+[(]Segg[A]fej!    [C]    [D]    [D]
+    [A]    [C]    [D]    [D]    [)]  [x2]
 
 {V_8}
 Ez [A]dzsungel, ez börtön,

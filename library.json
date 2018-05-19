@@ -60,7 +60,7 @@
     "id": "tankcsapda-orokke_tart",
     "title": "Örökké tart",
     "artist": "Tankcsapda",
-    "version": 3,
+    "version": 4,
     "language": "hu",
     "popularity": 6
   },
@@ -367,7 +367,7 @@
     "title": "Az élet a legjobb méreg",
     "artist": "Tankcsapda",
     "isExplicit": "true",
-    "version": 0,
+    "version": 1,
     "language": "hu",
     "popularity": 5
   }
