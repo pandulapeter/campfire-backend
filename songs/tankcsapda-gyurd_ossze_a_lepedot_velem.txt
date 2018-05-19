@@ -1,0 +1,68 @@
+{I}
+[A5]    [C5/A]    [D5/A]     [G5/A]      [x15]
+Elhagyott, mint a kifutópályát a gép.
+Újra egyedül, tudtam, hogy lelép.
+Ő az égen, én meg a repülőtéren.
+Tekerek gyorsan, talán még utolérem.
+[A5]    [A5]    [A5]     [A5]
+[A5]    [C5]    [D5]     [G5]    [x3]
+[A5]    [C5]    [D5]     [D5]
+
+{V_1}
+A [A5]hüvelykujjam az égre mutat, a [G5]csizmámon vastag a [D5]por.
+[A5]Látom magam előtt az utat, [D5]ki vesz fel ilyen[G5]kor?
+Előttem [A5]kilométerek, [G5]mögötte mérföl[D5]dek,
+[A5]Néhány óra múlva egy új vi[D5]lágban ér föl[G5]det.
+
+{B_1}
+[F]Várom, hogy [G]szóljon a telefon,
+[F]Látod, [G]könnyítek magamon.
+[F]Várom, hogy [G]újra itt legyen,
+[F]Elég, ha szól,
+
+{C}
+[G -]Gyűrd össze a lepedőt [A5]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
+
+{V_3}
+[A5]Elhagyott, mint a kifutópályát a [G5]gép.   [D5]
+[A5]Újra egyedül, tudtam, hogy le[D5]lép.   [G5]
+Ő az [A5]égen, én meg a repülő[G5]téren.   [D5]
+[A5]Tekerek gyorsan, talán még utol[D5]érem.   [G]
+
+{B_1}
+[F]Várom, hogy [G]szóljon a telefon,
+[F]Látod, [G]könnyítek magamon.
+[F]Várom, hogy [G]újra itt legyen,
+[F]Elég, ha szól,
+
+{C}
+[G5 -]Gyűrd össze a lepedőt [A5]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
+
+{S}
+[Em]    [Em]    [C5]     [C5]    [x3]
+[Em]    [Em]    [D5]     [C5]
+
+{B_2}
+[A5]    [C5/A]    [D5/A]     [G5/A]    [x4]
+[A5]    [C5]    [D5]     [G5]    [x4]
+
+{B_1}
+[F]Várom, hogy [G]szóljon a telefon,
+[F]Látod, [G]könnyítek magamon.
+[F]Várom, hogy [G]újra itt legyen,
+[F]Elég, ha szól,
+
+{C}
+[G -]Gyűrd össze a lepedőt [A5]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
+[D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
+
+{O}
+[A5]
