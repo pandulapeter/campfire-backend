@@ -424,8 +424,16 @@
     "title": "Gyűrd össze a lepedőt velem",
     "artist": "Tankcsapda",
     "isExplicit": "true",
-    "version": 0,
+    "version": 1,
     "language": "hu",
     "popularity": 4
+  },
+  {
+    "id": "koncz_zsuzsa-ha_en_rozsa_volnek",
+    "title": "Ha én rózsa volnék",
+    "artist": "Koncz Zsuzsa",
+    "version": 0,
+    "language": "hu",
+    "popularity": 3
   }
 ]
