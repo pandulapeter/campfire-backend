@@ -313,5 +313,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 2
+  },
+  {
+    "id": "omega-petroleumlampa",
+    "title": "Petróleumlámpa",
+    "artist": "Omega",
+    "version": 0,
+    "language": "hu",
+    "popularity": 3
   }
 ]
