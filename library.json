@@ -435,5 +435,13 @@
     "version": 0,
     "language": "hu",
     "popularity": 3
+  },
+  {
+    "id": "charlie-jeg_dupla_whiskyvel",
+    "title": "Jég dupla whiskyvel",
+    "artist": "Charlie",
+    "version": 0,
+    "language": "hu",
+    "popularity": 6
   }
 ]
