@@ -375,7 +375,7 @@
     "id": "olivia_newton_jogn-the_banks_of_the_ohio",
     "title": "The Banks of the Ohio",
     "artist": "Olivia Newton-John",
-    "version": 1,
+    "version": 2,
     "language": "en",
     "popularity": 3
   },
@@ -383,7 +383,7 @@
     "id": "bob_dylan-blowin_in_the_wind",
     "title": "Blowin' in the Wind",
     "artist": "Bob Dylan",
-    "version": 0,
+    "version": 1,
     "language": "en",
     "popularity": 5
   }
