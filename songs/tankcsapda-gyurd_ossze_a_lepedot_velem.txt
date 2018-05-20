@@ -21,7 +21,7 @@ Előttem [A5]kilométerek, [G5]mögötte mérföl[D5]dek,
 [F]Elég, ha szól,
 
 {C}
-[GGyűrd össze a lepedőt [A5]velem!   [C5]
+[G5]Gyűrd össze a lepedőt [A5]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
@@ -59,7 +59,7 @@ Előttem [A5]kilométerek, [G5]mögötte mérföl[D5]dek,
 [F]Elég, ha szól,
 
 {C}
-[GGyűrd össze a lepedőt [A5]velem!   [C5]
+[G5]Gyűrd össze a lepedőt [A5]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
