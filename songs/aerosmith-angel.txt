@@ -1,5 +1,5 @@
 {I}
-    [E]        [B]    [A]
+        [E]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
@@ -47,7 +47,7 @@ You're [B]my [E]angel,   [B]
 Come and save me [B]tonight!
 
 {S}
-     [E]        [B]    [A]
+         [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
@@ -80,6 +80,6 @@ Come and save me [B]toni[A]ght,
 Come and save me [B]toni[C#m]ght,
 Come and save me [B]toni[A]ght,
 Come and save me [B]toni[E]ght!
-            [B]    [A]
+                      [B]    [A]
 [B]    [C#m]        [B]    [A]
 [B]    [E]
