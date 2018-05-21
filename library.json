@@ -457,7 +457,7 @@
     "title": "Angel",
     "artist": "Aerosmith",
     "language": "en",
-    "version": 6,
+    "version": 7,
     "popularity": 2
   },
   {
@@ -494,10 +494,10 @@
   },
   {
     "id": "ac_dc-dirty_deeds_done_dirt_cheap",
-    "title": "Dirty Deeds Done Dirt Cheap'",
+    "title": "Dirty Deeds Done Dirt Cheap",
     "artist": "AC/DC",
     "language": "en",
-    "version": 0,
+    "version": 1,
     "popularity": 5
   }
 ]
