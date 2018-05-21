@@ -476,6 +476,13 @@
     "id": "aerosmith-crazy",
     "title": "Crazy",
     "artist": "Aerosmith",
+    "version": 1,
+    "popularity": 4
+  },
+  {
+    "id": "aerosmith-cryin",
+    "title": "Cryin'",
+    "artist": "Aerosmith",
     "version": 0,
     "popularity": 4
   }
