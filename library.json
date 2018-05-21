@@ -36,7 +36,7 @@
     "title": "Most múlik pontosan",
     "artist": "Quimby",
     "language": "hu",
-    "version": 2,
+    "version": 3,
     "popularity": 4
   },
   {
@@ -443,5 +443,12 @@
     "version": 1,
     "language": "hu",
     "popularity": 6
+  },
+  {
+    "id": "aerosmith-amazing",
+    "title": "Amazing",
+    "artist": "Aerosmith",
+    "version": 0,
+    "popularity": 3
   }
 ]
