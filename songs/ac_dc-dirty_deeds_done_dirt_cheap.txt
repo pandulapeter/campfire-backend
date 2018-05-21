@@ -1,6 +1,6 @@
 {I}
-[(]     [E5]        [G5]    [E5]
-  [A5]    [E5]        [D5]    [E5]    [)]  [x2]
+[(]  [E5]        [G5]    [E5]
+  [A5]    [E5]        [D5]    [E5]    [)]  [x4]
 
 {V_1}
 [D5]If you're [E5]havin' trouble with the high school head,
@@ -27,7 +27,7 @@ That's when the teardrops start, fella.   [D5]
 [E5]Pick up the phone, I'm here alone,
 Or make a social call.   [D5]
 [E5]Come right in, [D5]forge[E5]t about him,   [D5]
-[E5]We'll have ourselves [D5]a b[E5]all.
+[E5]We'll have ourselves[D5] a bal[E5]l.
 
 {C}
 [A5]Dirty deeds, [A5]done [G5]dirt [A5]cheap.
@@ -41,7 +41,7 @@ Dirty deeds and they're done dirt cheap.
 [B5]        [-]  [A5]
 [B5]        [-]  [A5]
 [B5]        [-]  [D5]
-[(]     [E5]        [G5]    [E5]
+[(]  [E5]        [G5]    [E5]
   [A5]    [E5]        [D5]    [E5]    [)]  [x2]
 
 {V_3}
@@ -51,7 +51,7 @@ But you ain't got the guts.   [D5]
 Enough to drive ya nuts.   [D5]
 [E5]Pick up the phone, leave her alone,
 It's time you made a stand.   [D5]
-[E5]For a fee [D5]I'm [E5]happy to be   [D5]
+[E5]For a fee[D5] I'm ha[E5]ppy to be   [D5]
 [E5]Your back [D5]door [E5]man.
 
 {C}
