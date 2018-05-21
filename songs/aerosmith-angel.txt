@@ -1,13 +1,13 @@
 {I}
-[-]    [E]        [B]    [A]
+    [E]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
-[Asus4]    [A]
+[Asus4]        [A]
 
 {V_1}
 I'm a[E]lone,
-Yeah, I don't know if I can [A]face the night.   [Asus4]    [A]
+Yeah, I don't know if I can [A]face the night.   [Asus4]       [A]
 I'm in [E]tears,
 And the [C#m]cryin' that I do is for [G#m]you.   [A]
 
@@ -23,7 +23,7 @@ I've [A]suffered and I've seen the [B]light, baby,
 You're my [E]angel,   [B]
 [A]Come and save me [B]ton[C#m]ight!   [B]    [A]
 You're [B]my [E]angel,   [B]
-[A]Come and make it [B]all r[C#m]ight!   [B]    [A]    [Asus4]    [A]
+[A]Come and make it [B]all r[C#m]ight!   [B]    [A]    [Asus4]       [A]
 
 {V_2}
 [E]Don't know what I'm gonna do
@@ -47,7 +47,7 @@ You're [B]my [E]angel,   [B]
 Come and save me [B]tonight!
 
 {S}
-[-]    [E]        [B]    [A]
+     [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
 [B]    [E]        [B]    [A]
 [B]    [C#m]        [B]    [A]
@@ -80,6 +80,6 @@ Come and save me [B]toni[A]ght,
 Come and save me [B]toni[C#m]ght,
 Come and save me [B]toni[A]ght,
 Come and save me [B]toni[E]ght!
-[-]    [-]        [B]    [A]
+            [B]    [A]
 [B]    [C#m]        [B]    [A]
 [B]    [E]
