@@ -455,7 +455,7 @@
     "id": "aerosmith-angel",
     "title": "Angel",
     "artist": "Aerosmith",
-    "version": 5,
+    "version": 6,
     "popularity": 2
   },
   {
@@ -471,5 +471,12 @@
     "artist": "Steppenwolf",
     "version": 1,
     "popularity": 3
-  }
+  },
+  {
+    "id": "aerosmith-crazy",
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "version": 0,
+    "popularity": 4
+  },
 ]
