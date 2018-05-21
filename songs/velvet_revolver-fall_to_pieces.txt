@@ -43,7 +43,7 @@
 
 {S}
 [(]  [D]    [D]    [C]    [G]    [)]  [x3]
-  [Em]    [Em]    [G]    [A]
+   [Em]    [Em]    [G]    [A]
 
 {C}
 [D]Every time I'[C]m fa[G]lling down,
