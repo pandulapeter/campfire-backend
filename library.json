@@ -455,7 +455,7 @@
     "id": "aerosmith-angel",
     "title": "Angel",
     "artist": "Aerosmith",
-    "version": 3,
+    "version": 4,
     "popularity": 2
   },
   {
@@ -464,5 +464,12 @@
     "artist": "Aerosmith",
     "version": 0,
     "popularity": 2
+  },
+  {
+    "id": "steppenwolf-born_to_be_wild",
+    "title": "Born to be Wild",
+    "artist": "Steppenwolf",
+    "version": 0,
+    "popularity": 3
   }
 ]
