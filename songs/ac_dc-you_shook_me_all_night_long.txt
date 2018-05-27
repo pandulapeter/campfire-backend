@@ -1,7 +1,7 @@
 {I}
-[G]    [G]
-[D]    [D]
-[G]    [G]
+[G]        [G]
+[D]        [D]
+[G]        [G]
 [D]
 [G]        [C]   [G]   [C]   [G]
 [D]        [G]   [D]   [G]   [D]
@@ -30,8 +30,8 @@ The [C]earth [G]was [C]quaking,
 And [D7]we were making it and...
 
 {C}
-[G]You shook me [G/C]all [G/B]night l[D]ong, [G/C]    [G/B]
-Yeah [G]you shook [G/C]all [G/B]night l[D]ong. [G/C]    [G/B]
+[G]You shook me[G/C] all ni[G/B]ght lo[D]ng,   [G/C]    [G/B]
+Yeah [G]you shook me[G/C] all ni[G/B]ght lo[D]ng.   [G/C]    [G/B]
 
 {V_4}
 Working [G]double time
@@ -55,34 +55,34 @@ The [C]earth [G]was [C]quaking,
 And [D7]we were making it and...
 
 {C}
-[G]You shook me [G/C]all [G/B]night l[D]ong, [G/C]    [G/B]
-Yeah [G]you shook [G/C]all [G/B]night l[D]ong.
+[G]You shook me[G/C] all ni[G/B]ght lo[D]ng,   [G/C]    [G/B]
+Yeah [G]you shook me[G/C] all ni[G/B]ght lo[D]ng.
 You [G/C]knocked me [G/B]out and then
 
 {C}
-[G]You shook me [G/C]all [G/B]night l[D]ong, [G/C]
+[G]You shook me[G/C] all ni[G/B]ght lo[D]ng, [G/C]
 You had me [G/B]shakin' and
-[G]You shook me [G/C]all [G/B]night l[D]ong.
+[G]You shook me[G/C] all ni[G/B]ght l[D]ong.
 
 {B_2}
 [G]Yeah you shook me,
 [D]Well you took me!
 
 {S}
-[(]  [G]        [G/C]    [G/B]
-    [D]        [G/C]    [G/B]    [)]  [x3]
-    [G]        [G/C]    [G/B]
+[(]  [G]            [G/C]      [G/B]
+    [D]            [G/C]      [G/B]    [)]  [x3]
+    [G]            [G/C]      [G/B]
     [D]
 
 {C}
 [G/C]You really [G/B]took me and
-[G]You shook me [G/C]all [G/B]night l[D]ong, [G/C]
-[G/B]Oh, [G]you shook me [G/C]all [G/B]night l[D]ong. [G/C]
+[G]You shook me[G/C] all ni[G/B]ght lo[D]ng,   [G/C]
+[G/B]Oh, [G]you shook me[G/C] all ni[G/B]ght lo[D]ng.   [G/C]
 
 {C}
-[G/B]Yeah, yeah, [G]you shook me [G/C]all [G/B]night l[D]ong, [G/C]
+[G/B]Yeah, yeah, [G]you shook me[G/C] all ni[G/B]ght lo[D]ng, [G/C]
 You really [G/B]took me and
-[G]You shook me [G/C]all [G/B]night l[D]ong.
+[G]You shook me[G/C] all ni[G/B]ght lo[D]ng.
 
 {O}
 [G/C]Yeah you [G/B]shook me,   [D]
