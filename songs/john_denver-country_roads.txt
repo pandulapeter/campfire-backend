@@ -2,10 +2,10 @@
 [G]
 
 {V_1}
-[G]Almost Heaven,[G/F#m]
+[G]Almost Heaven,[D/F#]
 [Em]West Virginia,
 [D]Blue Ridge Mountains, [C]Shenandoah [G]River.
-[G]Life is old [G/F#m]there,
+[G]Life is old [D/F#]there,
 [Em]Older than the trees,
 [D]Younger than the mountains, [C]growin' like a [G]breeze.
 
@@ -17,10 +17,10 @@ Take me [C]home,[C/B]    [Am]
 Country [G]roads.
 
 {V_2}
-[G]All my memories,[G/F#m]
+[G]All my memories,[D/F#]
 [Em]Gather round her,
 [D]Modest lady, [C]stranger to blue [G]water.
-[G]Dark and dusty,[G/F#m]
+[G]Dark and dusty,[D/F#]
 [Em]Painted on the sky,
 [D]Misty taste of moonshine, [C]teardrop in my [G]eye.
 
