@@ -9,7 +9,7 @@
 
 {C}
 [C]And then she [D]asks me,
-[G]\"Do I [Bm/F#]look all ri[Em]ght?\"
+[G]\"Do I [F#/Bm]look all ri[Em]ght?\"
 And I say, \"[C]Yes,
 You look [D]wonderful to[G]night.\"   [D/F#]        [C]        [D]
 
@@ -21,13 +21,13 @@ You look [D]wonderful to[G]night.\"   [D/F#]        [C]        [D]
 
 {C}
 [C]And then she [D]asks me,
-[G]\"Do you [Bm/F#]feel all ri[Em]ght?\"
+[G]\"Do you [F#/Bm]feel all ri[Em]ght?\"
 And I say, \"[C]Yes,
 I feel [D]wonderful to[G]night.\"    [G]
 
 {B}
 I feel [C]wonderful be[D]cause I see
-The [G]love light[Bm/F#] in your ey[Em]es.
+The [G]love light[F#/Bm] in your ey[Em]es.
 And the [C]wonder of it [D]all
 Is that you [C]just don't rea[D]lize how much I [G]love you.
 
@@ -43,9 +43,9 @@ Is that you [C]just don't rea[D]lize how much I [G]love you.
 
 {C}
 [C]And then I [D]tell her,
-[G]As I [Bm/F#]turn out the [Em]light,
+[G]As I [F#/Bm]turn out the [Em]light,
 I say, \"My [C]darling,
-You were [D]wonderful to[G]night.\"   [Bm/F#]       [Em]
+You were [D]wonderful to[G]night.\"   [F#/Bm]       [Em]
 
 {O}
 Oh my [C]darling,
