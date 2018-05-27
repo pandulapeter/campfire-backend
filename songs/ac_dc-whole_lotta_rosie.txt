@@ -12,16 +12,16 @@
 
 {V_1}
 [A5]Never had a woman,
-Ne[A5]ver [C5]had [A5]a wo[D5]ma[A5]n lik[C5]e you.   [A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
+Ne[A5]ver [C5]had [A5]a wo[D5]man[A5] like[C5] you.[A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
 [A5]Doin' all the things,
-Do[A5]in' [C5]all [A5]the [D5]thin[A5]gs y[C5]ou do.   [A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
-[A5]Ain't no fairy story,   [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
-[A5]Ain't no skin and bones,   [A5]    [C5]    [A5]    [D5]    [A5]
+Do[A5]in' [C5]all [A5]the [D5]thin[A5]gs y[C5]ou do.[A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
+[A5]Ain't no fairy sto[A5]ry,   [C5]    [A5]    [D5]    [A5]    [C5]
+[A5]Ain't no skin and bones,[A5]    [C5]    [A5]    [D5]    [A5]
 [C5]But you [A5]give it all you got,
-Weigh[A5]in' [C5]in [A5]at [D5]nine[A5]teen[C5] ston[A5]e.
+Weigh[A5]in' [C5]in a[A5]t ni[D5]nete[A5]en s[C5]tone.[A5]        [A5]
 
 {C}
-You're a whole lotta [F]woman,
+[C5]You're[A5] a wh[D5]ole [A5]lott[C5]a wo[F]man,
 A whole lotta [D]woman,
 Whole lotta [A]Rosie.   [G]
 Whole lotta [A]Rosie.   [G]
@@ -39,10 +39,10 @@ Do[A5] it [C5]to m[A5]e al[D5]l ni[A5]ght [C5]long.   [A5]        [A5]    [C5]  
 [A5]All through the night time,   [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
 [A5]Right around the clock,   [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
 [A5]To my [A5]surpr[C5]ise,  [A5]    [D5]    [A5]    [C5]
-[A5]Rosie never stops!
+[A5]Rosie never stops! [A5]
 
 {C}
-She was a whole lotta [F]woman,
+[C5]You're[A5] a wh[D5]ole [A5]lott[C5]a wo[F]man,
 Whole lotta [D]woman,
 Whole lotta [A]Rosie.   [G]
 Whole lotta [A]Rosie.   [G]
@@ -56,10 +56,11 @@ A whole lotta [G]woman. [D]    [G]    [D]    [G]    [D]
 [(]  [-]            [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [)]  [x6]
     [-]
     [-]            [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]
-[(]  [A5]            [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [)]  [x8]
+[(]  [A5]            [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [)]  [x7]
+    [A5]
 
 {C}
-Oh, you're a whole lotta [F]woman,
+[A5]Oh, [C5]you're[A5] a wh[D5]ole [A5]lott[C5]a wo[F]man,
 A whole lotta [D]woman,
 Whole lotta [A]Rosie.   [G]
 Whole lotta [A]Rosie.   [G]
