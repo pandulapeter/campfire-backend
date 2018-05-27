@@ -529,7 +529,7 @@
     "title": "Wonderful Tonight",
     "artist": "Eric Clapton",
     "language": "en",
-    "version": 1,
+    "version": 2,
     "popularity": 5
   },
   {
@@ -537,7 +537,7 @@
     "title": "Whole Lotta Rosie",
     "artist": "AC/DC",
     "language": "en",
-    "version": 0,
+    "version": 1,
     "popularity": 4
   }
 ]

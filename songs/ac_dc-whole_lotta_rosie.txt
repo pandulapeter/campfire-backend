@@ -1,30 +1,37 @@
 {I}
-[(]  [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [-]  [)]  [x5]
-Wanna tell you sto[A5]ry   [C5]    [A5]    [D5]    [A5]    [C5]    [A5] 
-About woman I know. [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5] 
-When it comes to lovin' [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5] 
-She steals the show. [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5] 
-She ain't exactly pretty, [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5] 
-Ain't exactly small. [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
-[A5]Fourt'two thirt'ninefiftysix,
-You could say she's got it all!
-[(]  [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [A5]  [)]  [x5]
+[(]  [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [-]  [)]  [x4]
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  Wanna tell you story
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  About woman I know.
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  When it comes to lovin'
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  She steals the show.
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  She ain't exactly pretty,
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  Ain't exactly small.
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  Fourt'two thirt'ninefiftysix,
+You could say she's got it all!    [A5]    [C5]    [A5]    [D5]    [A5]    [C5]
+[(]  [A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [)]  [x4]
 
 {V_1}
-[A5]Never had a woman,
-Never had a woman like you.
-Doin' all the things
-Doin' all the things you do
-Ain't no fairy story
-Ain't no skin and bones
-But you give it all you got
-Weighin' in at nineteen stone
-You're a whole lotta woman
-A whole lotta woman
-Whole lotta Rosie
-Whole lotta Rosie
-Whole lotta Rosie
-And you're a whole lotta woman
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]Never had a woman,
+Ne[A5]ver [C5]had [A5]a w[D5]oma[A5]n li[C5]ke you.   [A5]
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]  Doin' all the things,
+Do[A5]in' [C5]all [A5]the [D5]thin[A5]gs y[C5]ou do.   [A5]
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]Ain't no fairy story,
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]    Ai[A5]n't no skin and bones,
+[A5]    [C5]    [A5]    [D5]    [A5]    [C5]But [A5]you give it all you got,
+Weigh[A5]in' [C5]in [A5]at [D5]nin[A5]ete[C5]en [A5]stone.
+
+{C}
+You're a whole lotta [F]woman,
+A whole lotta [D]woman,
+Whole lotta [A]Rosie.   [G]
+Whole lotta [A]Rosie.   [G]
+Whole lotta [A]Rosie.   [G]
+And you're a whole lotta [G]woman. [D]    [G]    [D]    [G]    [D]
+
+{B}
+[(]  [A5]        [A5]    [C5]    [A5]    [D5]    [A5]    [C5]    [A5]    [)]  [x2]
+
+{V_2}
 Honey you can do it
 Do it to me all night long
 Only one who turn me
