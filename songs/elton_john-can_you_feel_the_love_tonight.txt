@@ -1,6 +1,6 @@
 {I}
 [G]        [D/F#]        [C]        [G]
-[C]        [G]    [D/F#]    [-]    [G]    [D]
+[C]        [G]        [D/F#]    [G]    [D]
 
 {V_1}
 [C]There's a calm sur[G]render
@@ -24,7 +24,7 @@ Be[Am]lieve [G]the [C]very [G]best.
 
 {B}
 [G]        [D/F#]        [C]        [G]
-[C]        [G]    [D/F#]    [-]    [G]    [D]
+[C]        [G]        [D/F#]    [G]    [D]
 
 {V_2}
 [C]There's a time for [G]everyone
