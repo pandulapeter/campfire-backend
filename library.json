@@ -343,7 +343,7 @@
     "title": "'74-'75",
     "artist": "The Connels",
     "version": 0,
-    "language": "hu",
+    "language": "en",
     "popularity": 2
   },
   {
@@ -546,6 +546,14 @@
     "artist": "Luis Armstrong",
     "language": "en",
     "version": 1,
+    "popularity": 6
+  },
+  {
+    "id": "bryan_adams-summer_of_69",
+    "title": "Summer of '69",
+    "artist": "Bryan Adams",
+    "language": "en",
+    "version": 0,
     "popularity": 6
   }
 ]
