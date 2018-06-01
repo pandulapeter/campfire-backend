@@ -1,6 +1,6 @@
 {I}
 [(]  [E]        [D]    [A]        [B]    [)]   [x3]
-     [B]            [B]
+     [B]             [B]
 
 {C}
 [E]Living [D]after [A]midnight,   [B]
@@ -48,7 +48,7 @@ Then I'm [B]gone, I'm [B]gone.
 
 {S}
 [(]  [E]        [D]    [A]        [B]    [)]   [x3]
-     [B]            [B]
+     [B]             [B]
 
 {V_3}
 [E]The air's electric, sparkin' power,
