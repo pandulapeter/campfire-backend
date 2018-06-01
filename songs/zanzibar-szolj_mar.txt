@@ -1,0 +1,59 @@
+{I}
+[(]  [A/C#]      [D]      [A]      [E]    [)]  [x2]
+
+{V_1}
+[A/C#]Kifogytunk [D]csendben az [A]ünne[E]pekből,
+A [A/C#]szép percek [D]elmúltak [A]rég.   [E]
+[A/C#]Csak a [D]félelem a [A]féle[E]lemtől,
+[A/C#]Ami együtt [D]tart minket [A]még.   [E]
+
+{V_2}
+Mint régi [A/C#]filmeke[D]n a h[A]ajnali [E]táj,
+[A/C#]Egyszerre [D]szép és [A]egyszerre [E]fáj.
+Az a [A/C#]pillana[D]t, ha [A]eljön az [E]érzés,
+Hogy [A/C#]elköszö[D]nni musz[A]áj.   [E]
+
+{B}
+[C#m]Veled [D]ébredek, s a [A]hajnal hangja [E]téged éltet,
+[C#m]Hol van a [D]szó, [F]tiszta szemed [G]el nem rejthet.
+
+{C}
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár.
+[Em]Mért kínzol, [F]szólj már, ha [Dm]te is így gondo[E]lod.
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár,
+[Em]Mért kínzol, [F]szólj már, a [Dm]tiéd már nem va[E]gyok.
+
+{V_3}
+[A/C#]Vártam a [D]reggelt, hogy [A]álmosan rám fi[E]gyelj.
+[A/C#]Vártam a [D]nappalt, hogy [A]mindenre fel[E]elj.
+[A/C#]Minden percem [D]érted élt, de [A]nem számít, [E]tudom.
+[A/C#]Álmaimban [D]azt reméltem, [A]te vagy a holna[E]pom.
+
+{B}
+[C#m]Veled [D]ébredek, s a [A]hajnal hangja [E]téged éltet,
+[C#m]Hol van a [D]szó, [F]tiszta szemed [G]el nem rejthet.
+
+{C}
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár.
+[Em]Mért kínzol, [F]szólj már, ha [Dm]te is így gondo[E]lod.
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár,
+[Em]Mért kínzol, [F]szólj már, a [Dm]tiéd már nem va[E]gyok.
+
+{S}
+[(]  [A/C#]      [D]      [A]      [E]    [)]  [x4]
+
+{B}
+[C#m]Veled [D]ébredek, s a [A]hajnal hangja [E]téged éltet,
+[C#m]Hol van a [D]szó, [F]tiszta szemed [G]el nem rejthet.
+
+{C}
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár.
+[Em]Mért kínzol, [F]szólj már, ha [Dm]te is így gondo[E]lod.
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár,
+[Em]Mért kínzol, [F]szólj már, a [Dm]tiéd már nem va[E]gyok.
+
+{C}
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár.
+[Em]Mért kínzol, [F]szólj már, ha [Dm]te is így gondo[E]lod.
+[Am]Szólj már, a [Dm]szívem rég csak egy [G]szót vár,
+[Em]Mért kínzol, [F]szólj már, a [Dm]tiéd már nem va[E]gyok.
