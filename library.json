@@ -571,5 +571,13 @@
     "language": "ro",
     "version": 0,
     "popularity": 2
+  },
+  {
+    "id": "iris-strada_ta",
+    "title": "Strada ta",
+    "artist": "Iris",
+    "language": "ro",
+    "version": 0,
+    "popularity": 3
   }
 ]
