@@ -39,10 +39,10 @@ Te aș[E]tept mereu,   [B]    [A]
 Fără [A]tine mi-e [B]greu.   [A/B]      [G#/B]      [F#/B]
 
 {S}
-[C#m]        [A]
-[C#m]        [A]
-[C#m]        [A]
-[B]    [A/B]    [G#/B]    [F#/B]
+[C#m]          [A]
+[C#m]          [A]
+[C#m]          [A]
+[B]    [A/B]      [G#/B]       [F#/B]
 
 {B}
 [C#m]Doar o pri[A]vire,
