@@ -643,5 +643,13 @@
     "language": "hu",
     "version": 0,
     "popularity": 3
+  },
+  {
+    "id": "the_rolling_stones-sympathy_for_the_devil",
+    "title": "Sympathy for the Devil",
+    "artist": "The Rolling Stones",
+    "language": "en",
+    "version": 0,
+    "popularity": 7
   }
 ]
