@@ -651,5 +651,13 @@
     "language": "en",
     "version": 0,
     "popularity": 7
+  },
+  {
+    "id": "lynyrd_skynyrd-sweet_home_alabama",
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "language": "en",
+    "version": 0,
+    "popularity": 9
   }
 ]
