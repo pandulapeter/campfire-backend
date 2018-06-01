@@ -1,7 +1,7 @@
 {I}
 Bang! Bang!
-[(]  [A]        [D]        [G]    [D]    [A]
-    [D/F#]        [G]        [G/E]    [D]    [A]    [)]  [x2]
+[(]  [A]        [D]          [G]      [D]    [A]
+    [D/F#]        [G]          [G/E]      [D]    [A]    [)]  [x2]
 [(]  [G]        [A]    [)]  [x2]
 
 {V_1}
@@ -31,10 +31,9 @@ I [G]must've been crazy!
 I [D/F#]gave you my [G]love and you [G/E]shot [D]me [A]down.
 [A]Bang [D]bang, [G]you're so [A]cool,
 [D/F#]Playin' a [G]game, someday you'[G/E]re gon[D]na l[A]ose.
-[D]Bang! [G]Bang!
 
 {B}
-        [A]
+[D]Bang! [G]Bang!   [A]
 [G]        [A]
 
 {V_3}
