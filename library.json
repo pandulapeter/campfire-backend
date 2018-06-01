@@ -563,5 +563,13 @@
     "language": "en",
     "version": 6,
     "popularity": 4
+  },
+  {
+    "id": "talisman-numai_una",
+    "title": "Numai una",
+    "artist": "Talisman",
+    "language": "ro",
+    "version": 0,
+    "popularity": 2
   }
 ]
