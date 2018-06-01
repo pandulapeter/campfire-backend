@@ -41,4 +41,5 @@ Mai [A]bine-ap[C#]rind tot [F#m]satul.
 
 
 {O}
-[A]    [F#m]    [A]
+[A]    [F#m]
+[A]

@@ -2,7 +2,7 @@
 [(]  [E]        [B]        [A]        [B]
     [E]        [B]        [A]        [B]
     [E]        [B]        [A]        [A]
-    [B]    [Bsus4]      [B]    [Bsus4]      [B]    [)]  [x2]
+    [B]    [Bsus4]        [B]    [Bsus4]        [B]    [)]  [x2]
 
 {V_1}
 [E]Ieri am tre[B]cut pe strada [A]ta,   [B]
@@ -13,7 +13,7 @@
 {B}
 [C#m]Doar o pri[A]vire,
 [C#m]Atâta aștep[A]tam,
-[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]    [G#/B]    [F#/B]
+[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]      [G#/B]      [F#/B]
 
 {V_2}
 [E]Ai apă[B]rut la geam târ[A]ziu,   [B]
@@ -24,19 +24,19 @@
 {B}
 [C#m]Doar o pri[A]vire,
 [C#m]Atâta aștep[A]tam,
-[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]    [G#/B]    [F#/B]
+[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]      [G#/B]      [F#/B]
 
 {C}
 Te voi [E]aștepta,   [B]   [A]
 [B]Voi veni pe [E]strada ta,   [B]    [A]    [B]
 Te aș[E]tept mereu,   [B]    [A]
-Fără [A]tine mi-e [B]greu.   [A/B]    [G#/B]    [F#/B]
+Fără [A]tine mi-e [B]greu.   [A/B]      [G#/B]      [F#/B]
 
 {C}
 Te voi [E]aștepta,   [B]   [A]
 [B]Voi veni pe [E]strada ta,   [B]    [A]    [B]
 Te aș[E]tept mereu,   [B]    [A]
-Fără [A]tine mi-e [B]greu.   [A/B]    [G#/B]    [F#/B]
+Fără [A]tine mi-e [B]greu.   [A/B]      [G#/B]      [F#/B]
 
 {S}
 [C#m]        [A]
@@ -47,25 +47,25 @@ Fără [A]tine mi-e [B]greu.   [A/B]    [G#/B]    [F#/B]
 {B}
 [C#m]Doar o pri[A]vire,
 [C#m]Atâta aștep[A]tam,
-[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]    [G#/B]    [F#/B]
+[C#m]Doar o pri[A]vire mai spe[B]ram.   [A/B]      [G#/B]      [F#/B]
 
 {C}
 Te voi [E]aștepta,   [B]   [A]
 [B]Voi veni pe [E]strada ta,   [B]    [A]    [B]
 Te aș[E]tept mereu,   [B]    [A]
-Fără [A]tine mi-e [B]greu.   [A/B]    [G#/B]    [F#/B]
+Fără [A]tine mi-e [B]greu.   [A/B]      [G#/B]      [F#/B]
 
 {C}
 Te voi [E]aștepta,   [B]   [A]
 [B]Voi veni pe [E]strada ta,   [B]    [A]    [B]
 Te aș[E]tept mereu,   [B]    [A]
-Fără [A]tine mi-e [B]greu.   [A/B]    [G#/B]    [F#/B]
+Fără [A]tine mi-e [B]greu.   [A/B]      [G#/B]      [F#/B]
 
 {C}
 Te voi [E]aștepta,   [B]   [A]
 [B]Voi veni pe [E]strada ta,   [B]    [A]    [B]
 Te aș[E]tept mereu,   [B]    [A]
-Fără [A]tine mi-e [B]greu.   [Bsus4]      [B]    [Bsus4]      [B]
+Fără [A]tine mi-e [B]greu.   [Bsus4]        [B]    [Bsus4]        [B]
 
 {C}
 Da, te voi [F#]aștepta,   [C#]   [B]
