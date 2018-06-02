@@ -42,7 +42,7 @@ Do the walk of [A]life,
 [B]Yeah, he do the walk of [E]life.
 
 {S}
-               [A]
+                [A]
 [B]        [A]    [B]
 [E]        [A]
 [B]        [A]    [B]
