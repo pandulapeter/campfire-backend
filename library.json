@@ -685,11 +685,19 @@
     "popularity": 5
   },
   {
-    "id": "edda_haromszor",
+    "id": "edda-haromszor",
     "title": "Háromszor",
     "artist": "Edda",
     "language": "hu",
     "version": 0,
     "popularity": 3
+  },
+  {
+    "id": "edda-gyere_orult",
+    "title": "Gyere őrült",
+    "artist": "Edda",
+    "language": "hu",
+    "version": 0,
+    "popularity": 4
   }
 ]
