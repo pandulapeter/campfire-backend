@@ -17,8 +17,8 @@ A [D]tapétával [Dsus2]megpróbálok [Dsus4]összebú[D]jni,
 [G]Bolond va[E/G#]gyok, ez [A]természe[F#/A#]tes, kicsit [Bm]őrült.   [D]    [A]
 
 {V_3}
-Ha [D]holnap[Dsus2] este el[Dsus4]indul[D]ok,
-[D]Azt, hogy[Dsus2] kivel ta;[Dsus4]álkozomD],
+Ha [D]holnap[Dsus2] este el[Dsus4]indulok,  [D]
+[D]Azt, hogy[Dsus2] kivel tal[Dsus4]álkozom,  [D]
 Azt [G]senki nem [E/G#]mondja, [A]nem mondja [F#/A#]meg nekem e[Bm]lőre.   [A]
 
 {B_2}
@@ -80,10 +80,10 @@ Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
     [Bm]          [D]    [A]    [F#m]
     [G]          [F#m]    [F#m]    [Em]
     [G]          [F#m]    [F#m]    [A]    [)]  [x2]
-[D]        [D]        [D]        [D]
-[G]        [E/G#]        [A]        [F#/A#]
-[D]        [D]        [D]        [D]
-[G]    [E/G#]    [A]    [F#/A#]    [Bm]    [Bm]    [D]    [A]
+[D]          [D]          [D]          [D]
+[G]          [E/G#]          [A]          [F#/A#]
+[D]          [D]          [D]          [D]
+[G]    [E/G#]      [A]    [F#/A#]      [Bm]    [Bm]    [D]    [A]
 
 {C}
 Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
