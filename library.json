@@ -683,5 +683,13 @@
     "language": "en",
     "version": 1,
     "popularity": 5
+  },
+  {
+    "id": "edda_haromszor",
+    "title": "Háromszor",
+    "artist": "Edda",
+    "language": "hu",
+    "version": 0,
+    "popularity": 3
   }
 ]
