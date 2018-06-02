@@ -713,7 +713,15 @@
     "title": "Every Rose Has Its Thorn",
     "artist": "Poison",
     "language": "en",
-    "version": 0,
+    "version": 1,
     "popularity": 5
+  },
+  {
+    "id": "queen-crazy_little_thing_called_love",
+    "title": "Crazy Little Thing Called Love",
+    "artist": "Queen",
+    "language": "en",
+    "version": 0,
+    "popularity": 7
   }
 ]
