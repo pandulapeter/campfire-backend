@@ -658,7 +658,7 @@
     "artist": "Lynyrd Skynyrd",
     "language": "en",
     "version": 0,
-    "popularity": 9
+    "popularity": 6
   },
   {
     "id": "carlos_santana-smooth",
@@ -719,6 +719,14 @@
   {
     "id": "queen-crazy_little_thing_called_love",
     "title": "Crazy Little Thing Called Love",
+    "artist": "Queen",
+    "language": "en",
+    "version": 1,
+    "popularity": 7
+  },
+  {
+    "id": "queen-i_want_to_break_free",
+    "title": "I Want to Break Free",
     "artist": "Queen",
     "language": "en",
     "version": 0,
