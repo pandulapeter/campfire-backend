@@ -2,9 +2,9 @@
 [(]  [D]    [Dsus2]        [Dsus4]        [D]    [)]  [x2]
 
 {V_1}
-Az [D]élet [Dsus2]az ma cso[Dsus4]dás dol[D]og,
+Az [D]élet [Dsus2]az ma cso[Dsus4]dás dolo[D]g,
 [D]És [Dsus2]én hozzá [Dsus4]idomulo[D]k,
-[G]Ezért [E/G#]vagyok [A]őrü[F#/A#]lt, kicsit [Bm]őrült.
+[G]Ezért [E/G#]vagyok [A]őrü[F#/A#]lt, kicsit [Bm]őrült.   [A]
 
 {B_1}
 [D]        [D]
@@ -13,27 +13,27 @@ Az [D]élet [Dsus2]az ma cso[Dsus4]dás dol[D]og,
 
 {V_2}
 A [D]tapétával [Dsus2]megpróbálok [Dsus4]összebú[D]jni,
-[D]S nem [Dsus2]ártani [Dsus4]senkinek, [D]
+[D]S nem[Dsus2] ártani [Dsus4]senkinek, [D]
 [G]Bolond va[E/G#]gyok, ez [A]természe[F#/A#]tes, kicsit [Bm]őrült.   [D]    [A]
 
 {V_3}
-Ha [D]holnap [Dsus2]este e[Dsus4]lindul[D]ok,
-[D]Azt, hogy [Dsus2]kivel ta[Dsus4]lálkozo[D]m,
-Azt [G]senki nem [E/G#]mondja, [A]nem mondja [F#/A#]meg nekem e[Bm]lőre.
+Ha [D]holnap[Dsus2] este el[Dsus4]indul[D]ok,
+[D]Azt, hogy[Dsus2] kivel ta;[Dsus4]álkozomD],
+Azt [G]senki nem [E/G#]mondja, [A]nem mondja [F#/A#]meg nekem e[Bm]lőre.   [A]
 
 {B_2}
 [D]Lehet [D]őrült!
 
 {V_4}
-[D]Társra [Dsus2]vágyom [Dsus4]én is, [D]értsd meg,
-[D]Ugyan[Dsus2]úgy, mint [Dsus4]te. Ne [D]kérdezd!
+[D]Társra [Dsus2]vágyom [Dsus4]én is, ért[D]sd meg,
+[D]Ugyan[Dsus2]úgy, mint [Dsus4]te. Ne ké[D]rdezd!
 [G]Őrült le[E/G#]gyen, vagy [A]nem kell [F#/A#]senki se[Bm]m.
 Legyen[D] őrül[A]t!
 
 {V_5}
 [D]Csak én va[Dsus2]gyok, aki [Dsus4]megért [D]téged,
 [D]Persze csak [Dsus2]akkor, ha [Dsus4]rám hagyo[D]d.
-[G]Társ le[E/G#]gyen, de [A]őrült[F#/A#]et akar[Bm]ok!   [D]    [A]
+[G]Társ le[E/G#]gyen, de [A]őrül[F#/A#]tet akar[Bm]ok!   [D]    [A]
 
 {C}
 Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
@@ -52,15 +52,15 @@ Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
 [D]        [A]
 
 {V_4}
-[D]Társra [Dsus2]vágyom [Dsus4]én is, [D]értsd meg,
-[D]Ugyan[Dsus2]úgy, mint [Dsus4]te. Ne [D]kérdezd!
+[D]Társra [Dsus2]vágyom [Dsus4]én is, ért[D]sd meg,
+[D]Ugyan[Dsus2]úgy, mint [Dsus4]te. Ne ké[D]rdezd!
 [G]Őrült le[E/G#]gyen, vagy [A]nem kell [F#/A#]senki se[Bm]m.
 Legyen[D] őrül[A]t!
 
 {V_5}
 [D]Csak én va[Dsus2]gyok, aki [Dsus4]megért [D]téged,
 [D]Persze csak [Dsus2]akkor, ha [Dsus4]rám hagyo[D]d.
-[G]Társ le[E/G#]gyen, de [A]őrült[F#/A#]et akar[Bm]ok!   [D]    [A]
+[G]Társ le[E/G#]gyen, de [A]őrül[F#/A#]tet akar[Bm]ok!   [D]    [A]
 
 {C}
 Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
@@ -76,14 +76,14 @@ Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
 
 {S}
 [E]    [-]
-[(]  [Bm]        [D]    [A]    [F#m]
-    [Bm]        [D]    [A]    [F#m]
-    [G]        [F#m]    [F#m]    [Em]
-    [G]        [F#m]    [F#m]    [A]    [)]  [x2]
-    [D]                [D]
-    [G]        [E/G#]        [A]        [F#/A#]
-    [D]                [D]
-    [G]    [E/G#]    [A]    [F#/A#]    [Bm]    [Bm]    [D]    [A]
+[(]  [Bm]          [D]    [A]    [F#m]
+    [Bm]          [D]    [A]    [F#m]
+    [G]          [F#m]    [F#m]    [Em]
+    [G]          [F#m]    [F#m]    [A]    [)]  [x2]
+[D]        [D]        [D]        [D]
+[G]        [E/G#]        [A]        [F#/A#]
+[D]        [D]        [D]        [D]
+[G]    [E/G#]    [A]    [F#/A#]    [Bm]    [Bm]    [D]    [A]
 
 {C}
 Gyere [Bm]őrült, gyere [D]őrül[A]t,   [F#m]
