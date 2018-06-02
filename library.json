@@ -731,5 +731,13 @@
     "language": "en",
     "version": 0,
     "popularity": 7
+  },
+  {
+    "id": "nickelback-rockstar",
+    "title": "Rockstar",
+    "artist": "Nickelback",
+    "language": "en",
+    "version": 0,
+    "popularity": 4
   }
 ]
