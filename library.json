@@ -705,7 +705,15 @@
     "title": "Still Got the Blues",
     "artist": "Gary Moore",
     "language": "en",
-    "version": 1,
+    "version": 2,
     "popularity": 7
+  },
+  {
+    "id": "poison-every_rose_has_its_thorn",
+    "title": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "language": "en",
+    "version": 0,
+    "popularity": 5
   }
 ]

@@ -37,7 +37,7 @@ Where you used to [Am]be.
 
 {S}
 [Dm7]          [Dm7/G]          [Cmaj7]          [Fmaj7]
-[Bm7b5]          [E]          [Am]     [Am/B]     [Am/C]
+[Bm7b5]          [E]          [Am]    [Am/B]      [Am/C]
 [Dm7]          [Dm7/G]          [Cmaj7]          [Fmaj7]
 [Bm7b5]          [Bm7b5]          [E]          [E]
 
@@ -49,6 +49,6 @@ For you.
 
 {O}
 [(]  [Dm7]          [Dm7/G]          [Cmaj7]          [Fmaj7]
-    [Bm7b5]          [E]          [Am]     [Am/B]     [Am/C]
+    [Bm7b5]          [E]          [Am]    [Am/B]      [Am/C]
     [Dm7]          [Dm7/G]          [Cmaj7]          [Fmaj7]
     [Bm7b5]          [E]          [Am]          [Am]    [)]  [x4]
