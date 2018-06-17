@@ -1,8 +1,8 @@
 {I}
 [(]  [E]        [B]        [A]        [B]
-    [E]        [B]        [A]        [B]
-    [E]        [B]        [A]        [A]
-    [B]    [Bsus4]        [B]    [Bsus4]        [B]    [)]  [x2]
+   [E]        [B]        [A]        [B]
+   [E]        [B]        [A]        [A]
+   [B]    [Bsus4]        [B]    [Bsus4]        [B]    [)]  [x2]
 
 {V_1}
 [E]Ieri am tre[B]cut pe strada [A]ta,   [B]
