@@ -457,7 +457,7 @@
     "title": "Angel",
     "artist": "Aerosmith",
     "language": "en",
-    "version": 10,
+    "version": 11,
     "popularity": 2
   },
   {
@@ -760,7 +760,7 @@
     "id": "the_proclaimers-im_gonna_be",
     "title": "I'm Gonna Be (500 Miles)",
     "artist": "The Proclaimers",
-    "version": 1,
+    "version": 2,
     "language": "en",
     "popularity": 6
   }
