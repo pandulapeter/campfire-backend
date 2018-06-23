@@ -768,8 +768,16 @@
     "id": "ham_ko_ham-elloptak_a_biciklim",
     "title": "Ellopták a biciklim",
     "artist": "Ham Ko Ham",
-    "version": 0,
+    "version": 1,
     "language": "hu",
+    "popularity": 4
+  },
+  {
+    "id": "vunk-pleaca",
+    "title": "Pleacă",
+    "artist": "Vunk",
+    "version": 0,
+    "language": "ro",
     "popularity": 4
   }
 ]
