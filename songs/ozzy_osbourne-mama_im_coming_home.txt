@@ -44,16 +44,15 @@ I'm coming [C]home.   [D]    [B]
 {S}
 [(]  [G]    [A]    [E]    [E]    [)]  [x3]
     [B]
-[A]                [E]
-[A]                [E]
-[A]        [B]        [C#m]    [B]    [A]
-[B]
+[(]  [A]                [E]    [)]  [x2]
+    [A]        [B]        [C#m]    [B]    [A]
+    [B]
 
 {B_1}
 You [C#m]took me in and you [A]drove me out,
 Yeah, you [E]had me hypnotized.
 [C#m]Lost and found and [A]turned around,
-By the [B]fire in your eyes.
+By the [B]fire in your eyes.   [F#]    [G#]
 
 {C}
 [A]I've seen your face a thousand [E]times,
