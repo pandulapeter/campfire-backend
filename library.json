@@ -787,5 +787,13 @@
     "version": 1,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "cargo-daca_ploaia_sar_opri",
+    "title": "Dacă ploaia s-ar opri",
+    "artist": "Cargo",
+    "version": 0,
+    "language": "ro",
+    "popularity": 5
   }
 ]
