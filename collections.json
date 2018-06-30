@@ -153,5 +153,22 @@
     "popularity": 3,
     "isExplicit": "false",
     "date": 1530362601
+},
+    {
+    "id": "magyar-blues",
+    "title": "Magyar Blues",
+    "description": "Többnyire Hobo Blues Band és Charlie dalok",
+    "imageUrl": "https://www.guitarhabits.com/wp-content/uploads/expandguitar.jpg",
+    "songs": [
+    	"takats_tamas_dirty_blues_band-pocsolyaba_leptem",
+    	"charlie-jeg_dupla_whiskyvel",
+    	"edda-elhagyom_a_varost"
+    ],
+    "language": [
+        "hu"
+    ],
+    "popularity": 2,
+    "isExplicit": "true",
+    "date": 1530362601
 }
 ]
