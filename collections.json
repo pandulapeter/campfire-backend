@@ -136,5 +136,22 @@
     "popularity": 4,
     "isExplicit": "true",
     "date": 1530362601
+},
+    {
+    "id": "mulatos",
+    "title": "Mulatós",
+    "description": "Ittasan üvölthető nóták",
+    "imageUrl": "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/themes/TrellisFoundation-child/assets/img/global-default-fallback.jpg",
+    "songs": [
+        "parno_graszt-a_muki_fia",
+        "magna_cum_laude-palinka_dal",
+        "ham_ko_ham-elloptak_a_biciklim"
+    ],
+    "language": [
+        "hu"
+    ],
+    "popularity": 3,
+    "isExplicit": "false",
+    "date": 1530362601
 }
 ]
