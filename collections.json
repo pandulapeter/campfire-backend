@@ -1,40 +1,90 @@
 [
     {
-    "id": "test-collection-1",
-    "title": "Test Collection 1",
-    "description": "The first Collection ever in Campfire",
-    "imageUrl": "http://www.guitarnoise.com/images/features/acoustic-guitar-1024x680-1024x585.jpg",
+    "id": "slow-acoustic",
+    "title": "Slow Acoustic",
+    "description": "Mostly sad songs that are easy to play and easy to sing",
+    "imageUrl": "https://wallup.net/wp-content/uploads/2018/03/19/555602-musical_instrument-rose-flowers-guitar-red_flowers.jpg",
     "songs": [
-        "bikini-mielott_vegleg_elmegyek",
-        "kispal_es_a_borz-elj_vele_bologan",
-        "tankcsapda-orokke_tart",
-        "jason_mraz-im_yours"
+        "bob_dylan-blowin_in_the_wind",
+        "luis_armstrong-what_a_wonderful_world",
+        "eric_clapton-tears_in_heaven",
+        "the_beatles-yesterday",
+        "the_connels-74_75",
+        "elvis_presley-cant_help_falling_in_love_with_you",
+        "the_beatles-let_it_be",
+        "guns_n_roses-patience",
+        "eric_clapton-wonderful_tonight",
+        "4_non_blondes-whats_up"
     ],
     "language": [
-        "en",
-        "hu"
+        "en"
     ],
-    "popularity": 1,
+    "popularity": 2,
     "isExplicit": "false",
-    "date": 1524323982782
+    "date": 1530362601
 },
-    {
-    "id": "test-collection-2",
-    "title": "Test Collection 2",
-    "description": "Test collection with a longer description. This should not fit on the list item and should only appear in full in the detail screen.",
-    "imageUrl": "https://images.pexels.com/photos/165971/pexels-photo-165971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+ {
+    "id": "power-ballads",
+    "title": "Power Ballads",
+    "description": "Slow, sentimental songs from the  80s",
+    "imageUrl": "https://pbs.twimg.com/media/DWezOm9X4AEd83o.jpg",
     "songs": [
-        "bikini-mielott_vegleg_elmegyek",
-        "kispal_es_a_borz-elj_vele_bologan",
-        "quimby-most_mulik_pontosan",
-        "tankcsapda-be_vagyok_rugva",
-        "tankcsapda-orokke_tart"
+    	"aerosmith-angel",
+        "poison-every_rose_has_its_thorn",
+        "mr_big-to_be_with_you",
+        "aerosmith-amazing",
+        "guns_n_roses-dont_cry",
+        "skid_row-i_remember_you",
+        "scorpions-wind_of_change"
     ],
     "language": [
-        "hu"
+        "en"
     ],
     "popularity": 3,
     "isExplicit": "false",
-    "date": 1524398766184
+    "date": 1530362601
+},
+    {
+    "id": "essential-rock",
+    "title": "Essential Rock Songs",
+    "description": "The most recognizable rock anthems from the late 60s to the early 2000s",
+    "imageUrl": "https://www.thoughtco.com/thmb/zBE2CV7VB-5MpxxrMIAAK_0a5XI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/cheering-crowd-at-a-concert--805394354-59e62cadb501e80011bbb996.jpg",
+    "songs": [
+    	"the_rolling_stones-sympathy_for_the_devil",
+    	"queen-crazy_little_thing_called_love",
+    	"steppenwolf-born_to_be_wild",
+    	"ac_dc-you_shook_me_all_night_long",
+    	"judas_priest-living_after_midnight",
+    	"aerosmith-cryin",
+    	"ac_dc-dirty_deeds_done_dirt_cheap",
+    	"velvet_revolver-fall_to_pieces",
+    	"ozzy_osbourne-mama_im_coming_home",
+    	"ac_dc-whole_lotta_rosie",
+    	"dire_straits-walk_of_life",
+    	"queen-i_want_to_break_free"
+    ],
+    "language": [
+        "en"
+    ],
+    "popularity": 4,
+    "isExplicit": "false",
+    "date": 1530362601
+},
+    {
+    "id": "best-of-glam-metal",
+    "title": "Best of Glam Metal",
+    "description": "Catchy riffs, high-pitched screams, makeup, spandex and hairspray",
+    "imageUrl": "https://gbmedia.azureedge.net/usercontent/gear/3380869/p1_uxf4jswtj_so.jpg",
+    "songs": [
+        "bon_jovi-its_my_life",
+        "danger_danger-bang_bang",
+        "twisted_sister-we_re_not_gonna_take_it"
+    ],
+    "language": [
+        "en"
+    ],
+    "popularity": 3,
+    "isExplicit": "false",
+    "date": 1530362601
 }
 ]
