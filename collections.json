@@ -26,7 +26,7 @@
  {
     "id": "power-ballads",
     "title": "Power Ballads",
-    "description": "Slow, sentimental songs from the  80s",
+    "description": "Slow, sentimental songs from the 80s",
     "imageUrl": "https://pbs.twimg.com/media/DWezOm9X4AEd83o.jpg",
     "songs": [
     	"aerosmith-angel",
@@ -84,6 +84,30 @@
         "en"
     ],
     "popularity": 3,
+    "isExplicit": "false",
+    "date": 1530362601
+},
+    {
+    "id": "pop-rock-hits",
+    "title": "Pop Rock Hits",
+    "description": "The best earworms from the radio",
+    "imageUrl": "https://s3.amazonaws.com/live_object_images/17235/1.jpeg",
+    "songs": [
+        "the_proclaimers-im_gonna_be",
+        "daniel_powter-bad_day",
+        "eddy_grant-gimme_hope_joanna",
+        "nickelback-rockstar",
+        "fools_garden-lemon_tree",
+        "smokie-living_next_door_to_alice",
+        "carlos_santana-smooth",
+        "jason_mraz-im_yours",
+        "bryan_adams-summer_of_69",
+        "green_day-good_riddance"
+    ],
+    "language": [
+        "en"
+    ],
+    "popularity": 5,
     "isExplicit": "false",
     "date": 1530362601
 }
