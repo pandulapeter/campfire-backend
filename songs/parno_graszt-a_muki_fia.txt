@@ -1,6 +1,6 @@
 {I}
 [D]        [G]        [E]        [A]
-[D]        [G]    [Em]    [-]    [A]    [D]    [x2]
+[D]        [G]        [Em]    [A]    [D]    [x2]
 
 {V_1}
 [D]Nem tudjátok, [G]hogy ki vagyok,
@@ -32,7 +32,7 @@ De [D]ránézek a [G]hosszú nyelű késre,
 
 {B}
 [D]        [G]        [E]        [A]
-[D]        [G]    [Em]    [-]    [A]    [D]    [x2]
+[D]        [G]        [Em]    [A]    [D]    [x2]
 
 {V_1}
 [D]Nem tudjátok, [G]hogy ki vagyok,
@@ -84,4 +84,4 @@ De [D]ránézek a [G]hosszú nyelű késre,
 
 {O}
 [D]        [G]        [E]        [A]
-[D]        [G]    [Em]    [-]    [A]    [D]    [x2]
+[D]        [G]        [Em]    [A]    [D]    [x2]

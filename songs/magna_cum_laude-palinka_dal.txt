@@ -3,11 +3,11 @@
 
 {C}
 [Am]Álmaim kéklő egén,
-Gyümölcsfáim tete[Dm]jén,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Gyümölcsfáim tetején,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 [Am]Nyújtsd hát a karod felém,
-Nélküled meghalok [Dm]én,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Nélküled meghalok én,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 
 {V_1}
 Ha egyszer [Am]elindulunk lefelé,
@@ -22,11 +22,11 @@ Te [Dm]légy a búfelej[E]tő!
 
 {C}
 [Am]Álmaim kéklő egén,
-Gyümölcsfáim tete[Dm]jén,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Gyümölcsfáim tetején,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 [Am]Nyújtsd hát a karod felém,
-Nélküled meghalok [Dm]én,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Nélküled meghalok én,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 
 {V_2}
 Az [Am]istenek könnycseppje gyógyír
@@ -41,11 +41,11 @@ Az [Am]istenek könnycseppje gyógyír
 
 {C}
 [Am]Álmaim kéklő egén,
-Gyümölcsfáim tete[Dm]jén,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Gyümölcsfáim tetején,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 [Am]Nyújtsd hát a karod felém,
-Nélküled meghalok [Dm]én,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Nélküled meghalok én,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 
 {B_2}
 [Dm]De nekem így is [Am]megérte,
@@ -55,19 +55,19 @@ Egy [E]életen át [Am]várni [A7]rád.
 
 {C}
 [Am]Álmaim kéklő egén,
-Gyümölcsfáim tete[Dm]jén,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Gyümölcsfáim tetején,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 [Am]Nyújtsd hát a karod felém,
-Nélküled meghalok [Dm]én,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Nélküled meghalok én,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 
 {C}
 [Am]Álmaim kéklő egén,
-Gyümölcsfáim tete[Dm]jén,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Gyümölcsfáim tetején,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 [Am]Nyújtsd hát a karod felém,
-Nélküled meghalok [Dm]én,
-Pálinka, szerelmem, [E]légy az enyém!
+[Am]Nélküled meghalok én,
+[Dm]Pálinka, szerelmem, [E]légy az enyém!
 
 {O}
 [Am]
