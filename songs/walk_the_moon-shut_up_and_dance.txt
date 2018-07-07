@@ -11,7 +11,7 @@ Shut [A#m]up and [G#]dance with me!
 
 {B_1}
 [F#]        [G#]        [A#m]        [G#]
-[F#]        [G#]        [C#]        [C#/C]     [A#m]
+[F#]        [G#]        [C#]      [C#/C]      [A#m]
 
 {V_1}
 We [F#]were victims [G#]of the night,   [A#m]
@@ -73,7 +73,7 @@ Shut [A#m]up and [G#]dance with me!   [F#]
 
 {B_5}
 [(]  [C#]        [F#/C#]
-   [C#]        [G#/C#]      [)]  [x2]
+    [C#]        [G#/C#]      [)]  [x2]
 
 {B_6}
 Oh don't you [C#]dare look [F#/C#]back,
@@ -98,4 +98,4 @@ Shut [A#m]up and [G#]dance with me!
 [C#]Oh oh [F#]oh, shut [A#m]up and [G#]dance with me!
 [C#]    [F#]    [A#m]    [G#]
 [C#]Oh oh [F#]oh, shut [A#m]up and [G#]dance with me!
-[A#m]    [C#]    [F#]    [G#]
+[A#m]     [C#]     [F#]     [G#]
