@@ -817,10 +817,19 @@
   {
     "id": "jonathan_coulton-still_alive",
     "title": "Still Alive",
-    "artist": "Johathan Coulton",
+    "artist": "Jonathan Coulton",
     "isExplicit": "false",
     "version": 0,
     "language": "en",
     "popularity": 2
+  },
+  {
+    "id": "katrina_the_waves-walking_on_sunshine",
+    "title": "Walking on Sunshine",
+    "artist": "Katrina & The Waves",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 5
   }
 ]
