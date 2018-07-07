@@ -1,5 +1,6 @@
 {I}
-[C#]    [F#/C#]    [C#]    [G#/C#]
+[C#]        [F#/C#]
+[C#]        [G#/C#]
 Oh don't you [C#]dare look [F#/C#]back,
 Just keep your [C#]eyes on [G#/C#]me.
 I said you're [C#]holding [F#/C#]back,
@@ -10,7 +11,7 @@ Shut [A#m]up and [G#]dance with me!
 
 {B_1}
 [F#]        [G#]        [A#m]        [G#]
-[F#]        [G#]        [C#]        [C#/C]    [A#m]
+[F#]        [G#]        [C#]        [C#/C]     [A#m]
 
 {V_1}
 We [F#]were victims [G#]of the night,   [A#m]
@@ -71,7 +72,8 @@ Shut [A#m]up and [G#]dance with me!   [F#]
 [F#]We took the [G#]floor and she [G#]said...
 
 {B_5}
-[(]  [C#]    [F#/C#]    [C#]    [G#/C#]    [)]  [x2]
+[(]  [C#]        [F#/C#]
+   [C#]        [G#/C#]      [)]  [x2]
 
 {B_6}
 Oh don't you [C#]dare look [F#/C#]back,
