@@ -35,7 +35,7 @@ A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [D5]Csakis [E5]mi győzhe[A5]tünk!    [A5]
 
 {B_1}
-                          [G5]        [G#5]
+[A5]        [A5]        [G5]        [G#5]
 [A5]        [C5/A]        [D5/A]        [D5/A]
 [A5]        [C5/A]        [G5]        [G5]
 [A5]        [C5/A]        [D5/A]        [D5/A]
