@@ -32,6 +32,7 @@ app.get('/v1/image', function(request, response) {
 	var imageId = request.query.id
 	fs.readFile( __dirname + "/images/" + imageId + ".png", 'utf8', function (err, data) {
 		console.log("Request for image " + imageId + ".")
+		response.writeHead(200,{'Content-type':'image/png'});
 		response.end(data);
 	});
 })
