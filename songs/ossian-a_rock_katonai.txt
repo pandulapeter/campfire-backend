@@ -23,16 +23,16 @@ A [A5]rock ka[C5/A]tonái új[G5]ra együtt vannak.
 [F5]Aki csak [C5]él!    [D5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Bárki [E5]jön elle[A5]nünk!
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Csakis [E5]mi győzhe[A5]tünk!    [A5]
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
 
 {B_1}
 [A5]        [A5]        [G5]        [G#5]
@@ -60,16 +60,16 @@ A [A5]rock kat[C5/A]onái e[Csus2]gyütt énekelnek.
 [F5]Aki csak [C5]él!    [D5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Bárki [E5]jön elle[A5]nünk!
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Csakis [E5]mi győzhe[A5]tünk!    [A5]
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
 
 {B_2}
 [(]  [B5]        [C5]    [B5]
@@ -81,16 +81,16 @@ A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [E5]        [B5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Bárki [E5]jön elle[A5]nünk!
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
 
 {C}
-[A5]Elhagynak [F5/A]százak, [D5]jönnek [E5]ezrek,
+[A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
-[A5]Állj közénk [B5]te is, [C5]harcolj ve[F5]lünk,
-[D5]Csakis [E5]mi győzhe[A5]tünk!    [A5]
+[A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
+[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
 
 {O}
 [A5]    [x13]
