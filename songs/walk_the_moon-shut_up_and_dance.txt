@@ -10,11 +10,11 @@ She said [C#]oh oh [F#/C#]oh!
 Shut [A#m]up and [G#]dance with me!
 
 {B_1}
-[F#]        [G#]        [A#m]        [G#]
-[F#]        [G#]        [C#]      [C#/C]      [A#m]
+[F#]    [G#]    [A#m]    [G#]
+[F#]    [G#]    [C#]    [C#/C]
 
 {V_1}
-We [F#]were victims [G#]of the night,   [A#m]
+[A#m]We were [F#]victims [G#]of the night,   [A#m]
 The [G#]chemical, [F#]physical, [G#]kryptonite,   [C#]
 [C#/C]Helpless [A#m]to the [F#]bass and the [G#]fading [A#m]light.
 [G#]Oh we were [F#]bound to get to[G#]gether,
@@ -35,7 +35,7 @@ She said [C#]oh oh [F#]oh!
 Shut [A#m]up and [G#]dance with me!
 
 {B_3}
-[F#]        [G#]        [A#m]
+[F#]    [G#]    [A#m]
 
 {V_2}
 A [G#]backless [F#]dress and some [G#]beat up sneaks,   [A#m]
