@@ -1,16 +1,16 @@
 
 {I}
-[(]  [G]    [D]    [C]    [D]    [)]  [x2]
+[(]  [G]    [D]    [Cadd9]    [D]    [)]  [x2]
 
 {V_1}
-[G]It's a[D]mazing how [C]you
-Can speak [D]right to my [G]heart.   [D]    [C]    [D]
-[G]Without [D]saying a [C]word,
-You can [D]light up the [G]dark.   [D]    [C]    [D]
+[G]It's a[D]mazing how [Cadd9]you
+Can speak [D]right to my [G]heart.   [D]    [Cadd9]    [D]
+[G]Without [D]saying a [Cadd9]word,
+You can [D]light up the [G]dark.   [D]    [Cadd9]    [D]
 
 {P_1}
 [Cadd9]Try as I may, I could [D]never explain
-[G]What I [D]hear when you [Cadd9]don't say a [D]thing.
+[G]What I [D]hear when you [Cadd9]don't say a [D]thing.   [D]
 
 {C}
 The [G]smile on your [D]face
@@ -23,13 +23,13 @@ Wherever I [D]fall.   [Cadd9]    [D]
 When you say nothing at all.
 
 {B}
-[(]  [G]    [D]    [C]    [D]    [)]  [x2]
+[(]  [G]    [D]    [Cadd9]    [D]    [)]  [x2]
 
 {V_2}
-[G]All day [D]long I can [C]hear
-People [D]talking out [G]loud,   [D]    [C]    [D]
-[Em]But when [D]you hold me [C]near,
-You [D]drown out the [G]crowd.   [D]    [C]    [D]
+[G]All day [D]long I can [Cadd9]hear
+People [D]talking out [G]loud,   [D]    [Cadd9]    [D]
+[Em]But when [Bm]you hold me [Cadd9]near,
+You [D]drown out the [G]crowd.   [D]    [Cadd9]    [D]
 
 {P_2}
 [Cadd9]Try as they may, they can [D]never define
@@ -47,14 +47,24 @@ When you say nothing at all.
 
 {S}
 [(]  [E]    [B]    [A]    [B]    [)]  [x3]
-    [E]        [B]
+    [A]        [B]
 
 {C}
 The [G]smile on your [D]face
 Lets me [Cadd9]know that you [D]need me,
 There's a [G]truth in your [D]eyes
-Saying [Cadd9]you'll never [D]leave me,
+Saying [Cadd9]you'll never [-]leave me,
 The [G]touch of your [D]hand says you'll [Cadd9]catch me,
 Wherever I [D]fall.   [Cadd9]    [D]
 [Cadd9]You say it best   [D]
 When you say nothing at all.
+
+{O}
+[(]  [G]    [D]    [Cadd9]    [D]    [)]  [x2]
+([G]You say it [D]best,  when you say [Cadd9]nothing at [D]all)
+([G]You say it [D]best,  when you say [Cadd9]nothing at [D]all)
+That [G]smile on your [D]face,
+The [Cadd9]truth in your [D]eyes,
+The [G]touch of your [D]hand,
+Lets me [Cadd9]know that you [D]need me.
+[(]  [G]    [D]    [Cadd9]    [D]    [)]  [x2]
