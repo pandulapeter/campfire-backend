@@ -1,18 +1,18 @@
 {I}
 [A5]        [C5/A]        [D5/A]        [D5/A]
-[A5]        [C5/A]        [G5]         [G5]
+[A5]        [C5/A]        [G5]         [E5]
 [A5]        [C5/A]        [D5/A]        [D5/A]
 [A5]        [C5/A]        [G5]        [-]
 
 {V_1}
 [A5]Fölvi[C5/A]rradt a n[D5/A]agy nap,
-A [A5]rock ka[C5/A]tonái új[G5]ra együtt vannak.
+A [A5]rock ka[C5/A]tonái új[G5]ra együtt van[E5]nak.
 [A5]Reggel [C5/A]óta me[D5/A]gszállták a várost,
 [A5]Amerre [C5/A]nézek ro[Csus2]ckereket látok.
 
 {V_2}
 [A5]Jelvén[C5/A]yek és zá[D5/A]szlók,
-[A5]Farmerek, [C5/A]bőrök, f[G5]elvarrók és láncok.
+[A5]Farmerek, [C5/A]bőrök, f[G5]elvarrók és lán[E5]cok.
 [A5]Cigivel, [C5/A]sörrel kí[D5/A]nálnak meg engem,
 [A5]Mindenki [C5/A]várja, jö[Csus2]jjön már az este.
 
@@ -26,30 +26,29 @@ A [A5]rock ka[C5/A]tonái új[G5]ra együtt vannak.
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
+[Dm]Bárki [E]jön elle[A5]nünk!   [G5]    [F5]    [E5]
 
 {C}
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
+[Dm]Csakis [E]mi győzhe[A5]tünk!   [G5]    [F5]    [E5]
+[A5]        [G5]        [F5]        [E]
+[G5]        [G#5]
 
 {B_1}
-[A5]        [A5]        [G5]        [G#5]
-[A5]        [C5/A]        [D5/A]        [D5/A]
-[A5]        [C5/A]        [G5]        [G5]
-[A5]        [C5/A]        [D5/A]        [D5/A]
-[A5]        [C5/A]        [G5]        [-]
+[(]  [A5]        [C5/A]        [D5/A]        [D5/A]
+    [A5]        [C5/A]        [G5]        [E5]    [)]  [x2]
 
 {V_3}
 [A5]Készül[C5/A]már a b[D5/A]anda,
-A[A5] néző[C5/A]téren p[G5]okoli a lárma.
+A[A5] néző[C5/A]téren p[G5]okoli a [E5]lárma.
 [A5]Hangfal[C5/A] ágyúk b[D5/A]evetésre készek,
 [A5]Gitárp[C5/A]uskák a c[Csus2]élpontra néznek.
 
 {V_4}
 [A5]Szikra[C5/A]eső vi[D5/A]llan,
-[A5]Földübö[C5/A]rög és m[G5]egremeg a színpad.
+[A5]Földübö[C5/A]rög és m[G5]egremeg a [E5]színpad.
 [A5]Füstfelhőn[C5/A] át, fö[D5/A]lgyúlnak a fények,
 A [A5]rock kat[C5/A]onái e[Csus2]gyütt énekelnek.
 
@@ -63,38 +62,38 @@ A [A5]rock kat[C5/A]onái e[Csus2]gyütt énekelnek.
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
+[Dm]Bárki [E]jön elle[A5]nünk!   [G5]    [F5]    [E5]
 
 {C}
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
+[Dm]Csakis [E]mi győzhe[A5]tünk!   [G5]    [F5]    [E5]
+[A5]        [G5]        [F5]        [E]
 
 {B_2}
 [(]  [B5]        [C5]    [B5]
     [B5]        [G5]    [F#5]    [)]  [x2]
 
 {S}
-[E5]        [E5]
-[E5]        [D5]
-[E5]        [B5]
+[(]  [E5]        [E5]
+    [E5]        [D5]    [)]  [x2]
 
 {C}
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Bárki [E]jön elle[A5]nünk!   [A5]
+[Dm]Bárki [E]jön elle[A5]nünk!   [G5]    [F5]    [E5]
 
 {C}
 [A5]Elhagynak [F5/A]százak, [D5/A]jönnek e[A5]zrek,
 A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]Állj közénk [C/B]te is, [C5]harcolj ve[F]lünk,
-[Dm]Csakis [E]mi győzhe[A5]tünk!    [A5]
+[Dm]Csakis [E]mi győzhe[A5]tünk!   [G5]    [F5]    [E5]
+[A5]        [G5]        [F5]        [E]
 
 {O}
-[A5]    [x13]
-[F5]    [E5]
+[A5]    [G5]    [F5]    [E5]    [x6]
 [-]
 Egy, két há' és!
 [A5]        [C5/A]        [D5/A]        [D5/A]
