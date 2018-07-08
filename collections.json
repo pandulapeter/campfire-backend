@@ -3,7 +3,7 @@
     "id": "slow-acoustic",
     "title": "Slow Acoustic",
     "description": "Mostly sad songs that are easy to play and easy to sing",
-    "imageUrl": "https://wallup.net/wp-content/uploads/2018/03/19/555602-musical_instrument-rose-flowers-guitar-red_flowers.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=slow-acoustic",
     "songs": [
         "bob_dylan-blowin_in_the_wind",
         "luis_armstrong-what_a_wonderful_world",
@@ -27,7 +27,7 @@
     "id": "power-ballads",
     "title": "Power Ballads",
     "description": "Slow, sentimental songs from the 80s",
-    "imageUrl": "https://pbs.twimg.com/media/DWezOm9X4AEd83o.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=power-ballads",
     "songs": [
     	"aerosmith-angel",
         "poison-every_rose_has_its_thorn",
@@ -48,7 +48,7 @@
     "id": "essential-rock",
     "title": "Essential Rock",
     "description": "The most recognizable rock anthems from the late 60s to the early 2000s",
-    "imageUrl": "https://www.thoughtco.com/thmb/zBE2CV7VB-5MpxxrMIAAK_0a5XI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/cheering-crowd-at-a-concert--805394354-59e62cadb501e80011bbb996.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=essential-rock",
     "songs": [
     	"the_rolling_stones-sympathy_for_the_devil",
     	"queen-crazy_little_thing_called_love",
@@ -74,7 +74,7 @@
     "id": "best-of-glam-metal",
     "title": "Best of Glam Metal",
     "description": "Catchy riffs, high-pitched screams, makeup, spandex and hairspray",
-    "imageUrl": "https://gbmedia.azureedge.net/usercontent/gear/3380869/p1_uxf4jswtj_so.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=best-of-glam-metal",
     "songs": [
         "bon_jovi-its_my_life",
         "danger_danger-bang_bang",
@@ -91,7 +91,7 @@
     "id": "pop-rock-hits",
     "title": "Pop Rock Hits",
     "description": "The best earworms from the radio",
-    "imageUrl": "https://s3.amazonaws.com/live_object_images/17235/1.jpeg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits",
     "songs": [
         "the_proclaimers-im_gonna_be",
         "daniel_powter-bad_day",
@@ -115,7 +115,7 @@
     "id": "magyar-rock",
     "title": "Magyar Rock",
     "description": "Válogatás többek közt Tankcsapda, Bikini és Edda dalokból",
-    "imageUrl": "http://koronaradio.hu/assets/uploads/newspic/tankcsapda_sliderbe_is.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=magyar-rock",
     "songs": [
         "kispal_es_a_borz-elj_vele_bologan",
         "tankcsapda-gyurd_ossze_a_lepedot_velem",
@@ -141,7 +141,7 @@
     "id": "mulatos",
     "title": "Mulatós",
     "description": "Ittasan üvölthető nóták",
-    "imageUrl": "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/themes/TrellisFoundation-child/assets/img/global-default-fallback.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=mulatos",
     "songs": [
         "parno_graszt-a_muki_fia",
         "magna_cum_laude-palinka_dal",
@@ -158,7 +158,7 @@
     "id": "magyar-blues",
     "title": "Magyar Blues",
     "description": "Többnyire Hobo Blues Band és Charlie dalok",
-    "imageUrl": "https://www.guitarhabits.com/wp-content/uploads/expandguitar.jpg",
+    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=magyar-blues",
     "songs": [
     	"takats_tamas_dirty_blues_band-pocsolyaba_leptem",
     	"charlie-jeg_dupla_whiskyvel",
