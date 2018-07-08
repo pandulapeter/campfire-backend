@@ -873,8 +873,17 @@
     "title": "American Pie",
     "artist": "Don McLean",
     "isExplicit": "false",
-    "version": 2,
+    "version": 3,
     "language": "en",
     "popularity": 4
+  },
+  {
+    "id": "chuck_berry-johnny_b_goode",
+    "title": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 3
   }
 ]
