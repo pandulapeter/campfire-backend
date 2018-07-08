@@ -855,7 +855,7 @@
     "title": "Shut Up and Dance",
     "artist": "Walk the Moon",
     "isExplicit": "false",
-    "version": 3,
+    "version": 4,
     "language": "en",
     "popularity": 5
   },
@@ -867,5 +867,14 @@
     "version": 0,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "don_mclean-american_pie",
+    "title": "American Pie",
+    "artist": "Don McLean",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
   }
 ]
