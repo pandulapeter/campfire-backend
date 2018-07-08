@@ -30,12 +30,12 @@ app.get('/v1/song', function(request, response) {
 
 app.get('/v1/image', function(request, response) {
 	var imageId = request.query.id
-	fs.readFile( __dirname + "/images/" + imageId + ".png", 'utf8', function (err, data) {
+	fs.readFile( __dirname + "/images/" + imageId + ".png", function (err, data) {
 		if (err) {
 			console.log("Request for image " + imageId + " failed.")
 			res.writeHead(400, {'Content-type':'text/html'})
             console.log(err);
-            res.end("No such image");
+            response.end("No such image");
 		} else {
 			console.log("Request for image " + imageId + " successful.")
 			response.writeHead(200,{'Content-type':'image/png'});
