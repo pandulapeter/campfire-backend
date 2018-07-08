@@ -47,10 +47,10 @@ A[A5] néző[C5/A]téren p[G5]okoli a [E5]lárma.
 [A5]Gitárp[C5/A]uskák a c[Csus2]élpontra néznek.
 
 {V_4}
-[A5]Szikra[C5/A]eső vi[D5/A]llan,
-[A5]Földübö[C5/A]rög és m[G5]egremeg a [E5]színpad.
-[A5]Füstfelhőn[C5/A] át, fö[D5/A]lgyúlnak a fények,
-A [A5]rock kat[C5/A]onái e[Csus2]gyütt énekelnek.
+[A5]Szikr[C5/A]aeső vil[D5/A]lan,
+[A5]Földüb[C5/A]örög és [G5]megremeg a [E5]színpad.
+[A5]Füstfelh[C5/A]őn át, f[D5/A]ölgyúlnak a fények,
+A [A5]rock ka[C5/A]tonái eg[Csus2]yütt énekelnek.
 
 {P}
 [E5]Robbanjon a [D5]hang,
@@ -93,7 +93,7 @@ A [A5]rock kat[F5/A]onái egyre [D5]többen [E5]lesznek.
 [A5]        [G5]        [F5]        [E]
 
 {O}
-[A5]    [G5]    [F5]    [E5]    [x6]
+[(]  [A5]    [G5]    [F5]    [E5]    [)]  [x6]
 [-]
 Egy, két há' és!
 [A5]        [C5/A]        [D5/A]        [D5/A]
