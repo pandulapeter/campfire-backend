@@ -1,6 +1,6 @@
 
 {I}
-[(]  [G]        [D]        [Cadd9]        [D]    [)]  [x2]
+[(]  [G]        [D]      [Cadd9]          [D]    [)]  [x2]
 
 {V_1}
 [G]It's a[D]mazing how [Cadd9]you
@@ -23,7 +23,7 @@ Wherever I [D]fall.   [Cadd9]    [D]
 When you say nothing at all.
 
 {B}
-[(]  [G]        [D]        [Cadd9]        [D]    [)]  [x2]
+[(]  [G]        [D]      [Cadd9]          [D]    [)]  [x2]
 
 {V_2}
 [G]All day [D]long I can [Cadd9]hear
@@ -60,11 +60,11 @@ Wherever I [D]fall.   [Cadd9]    [D]
 When you say nothing at all.
 
 {O}
-[(]  [G]        [D]        [Cadd9]        [D]    [)]  [x2]
+[(]  [G]        [D]      [Cadd9]          [D]    [)]  [x2]
 ([G]You say it [D]best,  when you say [Cadd9]nothing at [D]all)
 ([G]You say it [D]best,  when you say [Cadd9]nothing at [D]all)
 That [G]smile on your [D]face,
 The [Cadd9]truth in your [D]eyes,
 The [G]touch of your [D]hand,
 Lets me [Cadd9]know that you [D]need me.
-[(]  [G]        [D]        [Cadd9]        [D]    [)]  [x2]
+[(]  [G]        [D]      [Cadd9]          [D]    [)]  [x2]
