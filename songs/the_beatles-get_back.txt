@@ -1,6 +1,6 @@
 {I}
 [A]         [A]
-[A]         [A]   [G]  [D]
+[A]         [A]   [G]   [D]
 
 {V_1}
 [A]Jojo was a man who thought he was a loner,
@@ -16,7 +16,7 @@ Get [D]back to where you once bel[A]onged.
 
 {S_1}
 [(]  [A]         [A]
-    [D]         [A]   [G]  [D]    [)]  [x2]
+    [D]         [A]   [G]   [D]    [)]  [x2]
 
 {C}
 Get [A]back, get back,
@@ -26,7 +26,7 @@ Get [D]back to where you once bel[A]onged.
 
 {S_2}
 [(]  [A]         [A]
-    [D]         [A]   [G]  [D]    [)]  [x2]
+    [D]         [A]   [G]   [D]    [)]  [x2]
 
 {V_2}
 [A]Sweet Loretta Martin thought she was a woman,
@@ -42,7 +42,7 @@ Get [D]back to where you once bel[A]onged.
 
 {S_3}
 [(]  [A]         [A]
-    [D]         [A]   [G]  [D]    [)]  [x2]
+    [D]         [A]   [G]   [D]    [)]  [x2]
 
 {C}
 Get [A]back, get back,
@@ -52,7 +52,7 @@ Get [D]back to where you once bel[A]onged.
 
 {S_4}
 [(]  [A]         [A]
-    [D]         [A]   [G]  [D]    [)]  [x2]
+    [D]         [A]   [G]   [D]    [)]  [x2]
 
 {C}
 Get [A]back, get back,
