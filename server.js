@@ -32,9 +32,8 @@ app.get('/v1/image', function(request, response) {
 	var imageId = request.query.id
 	fs.readFile( __dirname + "/images/" + imageId + ".png", function (err, data) {
 		if (err) {
-			console.log("Request for image " + imageId + " failed.")
-			res.writeHead(400, {'Content-type':'text/html'})
-            console.log(err);
+			console.log("Request for image " + imageId + " failed (" + err + ")")
+			response.writeHead(400, {'Content-type':'text/html'})
             response.end("No such image");
 		} else {
 			console.log("Request for image " + imageId + " successful.")
