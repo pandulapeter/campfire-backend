@@ -93,6 +93,7 @@
     "description": "The best earworms from the radio",
     "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits",
     "songs": [
+        "walk_the_moon-shut_up_and_dance",
         "the_proclaimers-im_gonna_be",
         "daniel_powter-bad_day",
         "eddy_grant-gimme_hope_joanna",
