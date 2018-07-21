@@ -7,8 +7,9 @@ The app follows the latest Material design guidelines, featuring beautiful anima
 
 Campfire is completely free, without any ads.
 
-* Download from [Google Play](https://play.google.com/store/apps/details?id=com.pandulapeter.campfire)
-* Find the Android project [here](https://github.com/pandulapeter/campfire-android).
+[<img src="https://play.google.com/intl/en_us/badges/images/badge_new.png" />](https://play.google.com/store/apps/details?id=com.pandulapeter.campfire)
+
+You can find the source code of the Android project [here](https://github.com/pandulapeter/campfire-android).
 
 ### Pull requests
 If you'd like to help me by adding more songs to the database, please message me at <pandulapeter@gmail.com> first. I have a long list of songs that I'm planning to add and I also have some standards for the file formatting that are not documented yet.
