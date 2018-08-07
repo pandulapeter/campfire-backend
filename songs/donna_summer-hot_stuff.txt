@@ -39,8 +39,8 @@ I need [G5]hot stuff!   [A#5]    [C5]    [D5]
 Lookin' for [G5]hot love!   [A#5]    [C5]    [D5]
 
 {S}
-[(]  [Gm]    [Cm/G]
-      [Dm/G]    [Gm]    [)]  [x4]
+[(]  [Gm]        [Cm/G]
+      [Dm/G]        [Gm]    [)]  [x4]
 
 {P}
 [Gm]Hot, hot, hot, hot stuff!

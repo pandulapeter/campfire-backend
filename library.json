@@ -927,8 +927,17 @@
     "title": "Hot Stuff",
     "artist": "Donna Summer",
     "isExplicit": "false",
-    "version": 0,
+    "version": 1,
     "language": "en",
     "popularity": 4
+  },
+  {
+    "id": "creedence_clearwater_revival-bad_moon_rising",
+    "title": "Bad Moon Rising",
+    "artist": "Creedence Clearwater Revival",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 3
   }
 ]
