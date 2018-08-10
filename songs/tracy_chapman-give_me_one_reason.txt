@@ -2,7 +2,7 @@
 [E]
 [F#]    [F#]    [B]    [C#]
 [F#]    [F#]    [F#]    [F#]
-[B]    [B]   [B]    [C#]
+[B]    [B]    [B]    [C#]
 [F#]    [F#]    [F#]    [F#]
 [C#]    [C#]    [B]    [B]
 [F#]    [F#]    [F#]    [F#]
@@ -42,7 +42,7 @@ I just [C#]want someone to hold me,
 {S}
 [F#]    [F#]    [B]    [C#]
 [F#]    [F#]    [F#]    [F#]
-[B]    [B]   [B]    [C#]
+[B]    [B]    [B]    [C#]
 [F#]    [F#]    [F#]    [F#]
 [C#]    [C#]    [B]    [B]
 [F#]    [F#]    [F#]    [F#]
@@ -68,8 +68,8 @@ Said I [C#]don't want leave you lonely,
 Give me [C#]just one reason [F#]why.
 [B]Baby just give me one reason,
 Give me [C#]just one reason [F#]why I should stay.
-Said I [C#]told you that I loved you,   [B]
-[-]And there ain't no more to say.
+Said I [C#]told you that I loved you,   [B]    [-]
+And there ain't no more to say.
 
 {O}
 [F#]
