@@ -948,5 +948,14 @@
     "version": 0,
     "language": "en",
     "popularity": 4
+  },
+  {
+    "id": "vama_veche-vara_asta",
+    "title": "Vara asta",
+    "artist": "Vama Veche",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "ro",
+    "popularity": 5
   }
 ]
