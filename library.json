@@ -957,5 +957,14 @@
     "version": 0,
     "language": "ro",
     "popularity": 5
-  }
+  },
+  {
+    "id": "creedence_clearwater_revival-have_you_ever_seen_the_rain",
+    "title": "Have You Ever Seen the Rain",
+    "artist": "Creedence Clearwater Revival",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
+  },
 ]
