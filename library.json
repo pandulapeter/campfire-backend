@@ -983,6 +983,15 @@
     "isExplicit": "false",
     "version": 2,
     "language": "en",
-    "popularity": 5
+    "popularity": 4
+  },
+  {
+    "id": "cher-strong_enough",
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 6
   }
 ]
