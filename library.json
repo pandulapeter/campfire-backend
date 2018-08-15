@@ -1002,5 +1002,14 @@
     "version": 2,
     "language": "ro",
     "popularity": 6
+  },
+  {
+    "id": "compact-trenul_pierdut",
+    "title": "Trenul pierdut",
+    "artist": "Compact",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "ro",
+    "popularity": 4
   }
 ]
