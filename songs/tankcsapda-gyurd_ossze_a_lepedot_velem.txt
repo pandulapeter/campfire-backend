@@ -1,12 +1,12 @@
 {I}
-[A5]    [C5/A]    [D5/A]     [G5/A]      [x15]
+[A5]        [C5/A]        [D5/A]         [G5/A]      [x15]
 Elhagyott, mint a kifutópályát a gép.
 Újra egyedül, tudtam, hogy lelép.
 Ő az égen, én meg a repülőtéren.
 Tekerek gyorsan, talán még utolérem.
-[A5]    [A5]    [A5]     [A5]
-[A5]    [C5]    [D5]     [G5]    [x3]
-[A5]    [C5]    [D5]     [D5]
+[A5]        [A5]        [A5]         [A5]
+[A5]        [C5]        [D5]         [G5]    [x3]
+[A5]        [C5]        [D5]         [D5]
 
 {V_1}
 A [A5]hüvelykujjam az égre mutat, a [G5]csizmámon vastag a [D5]por.
@@ -45,12 +45,12 @@ Előttem [A5]kilométerek, [G5]mögötte mérföl[D5]dek,
 [D5]Gyűrd össze a [G5]lepedőt [A]velem!   [C5]    [D5]
 
 {S}
-[Em]    [Em]    [C5]     [C5]    [x3]
-[Em]    [Em]    [D5]     [C5]
+[Em]        [Em]        [C5]         [C5]      [x3]
+[Em]        [Em]        [D5]         [C5]
 
 {B_2}
-[A5]    [C5/A]    [D5/A]     [G5/A]    [x4]
-[A5]    [C5]    [D5]     [G5]    [x4]
+[A5]        [C5/A]        [D5/A]         [G5/A]      [x4]
+[A5]        [C5]        [D5]         [G5]      [x4]
 
 {B_1}
 [F]Várom, hogy [G]szóljon a telefon,

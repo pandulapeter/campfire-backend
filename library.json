@@ -424,7 +424,7 @@
     "title": "Gyűrd össze a lepedőt velem",
     "artist": "Tankcsapda",
     "isExplicit": "true",
-    "version": 2,
+    "version": 3,
     "language": "hu",
     "popularity": 4
   },
@@ -1020,5 +1020,14 @@
     "version": 0,
     "language": "en",
     "popularity": 7
+  },
+  {
+    "id": "enrique_iglesias-hero",
+    "title": "Hero",
+    "artist": "Enriquie Iglesias",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 6
   }
 ]
