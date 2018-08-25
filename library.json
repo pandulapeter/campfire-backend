@@ -855,7 +855,7 @@
     "title": "Shut Up and Dance",
     "artist": "Walk the Moon",
     "isExplicit": "false",
-    "version": 4,
+    "version": 5,
     "language": "en",
     "popularity": 5
   },
@@ -1038,5 +1038,14 @@
     "version": 1,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "the_rolling_stones-connection",
+    "title": "Connection",
+    "artist": "The Rolling Stones",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 2
   }
 ]
