@@ -26,7 +26,7 @@
   {
     "id": "kispal_es_a_borz-elj_vele_bologan",
     "title": "Élj vele boldogan",
-    "artist": "Kispál és a Borz",
+    "artist": "Závodi Gábor",
     "language": "hu",
     "version": 4,
     "popularity": 3
@@ -1056,5 +1056,14 @@
     "version": 0,
     "language": "hu",
     "popularity": 2
+  },
+  {
+    "id": "demi_lovato-get_back",
+    "title": "Get Back",
+    "artist": "Demi Lovato",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
   }
 ]
