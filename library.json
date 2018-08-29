@@ -1064,6 +1064,15 @@
     "isExplicit": "false",
     "version": 1,
     "language": "en",
+    "popularity": 3
+  },
+  {
+    "id": "lynyrd_skynyrd-simple_man",
+    "title": "Simple Man",
+    "artist": "Lynyrd Skynyrd",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
     "popularity": 4
   }
 ]
