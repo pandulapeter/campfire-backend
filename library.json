@@ -990,7 +990,7 @@
     "title": "Strong Enough",
     "artist": "Cher",
     "isExplicit": "false",
-    "version": 0,
+    "version": 1,
     "language": "en",
     "popularity": 6
   },
@@ -1053,7 +1053,7 @@
     "title": "Éjféli lány",
     "artist": "Ossian",
     "isExplicit": "false",
-    "version": 0,
+    "version": 1,
     "language": "hu",
     "popularity": 2
   },
@@ -1074,5 +1074,14 @@
     "version": 0,
     "language": "en",
     "popularity": 4
+  },
+  {
+    "id": "leonard_cohen-hallelujah",
+    "title": "Hallelujah",
+    "artist": "Leonard Cohen",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 7
   }
 ]
