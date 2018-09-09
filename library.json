@@ -1119,5 +1119,14 @@
     "version": 0,
     "language": "en",
     "popularity": 5
+  },
+  {
+    "id": "bon_jovi-bed_of_roses",
+    "title": "Bed of Roses",
+    "artist": "Bon Jovi",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
   }
 ]
