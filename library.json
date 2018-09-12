@@ -1155,5 +1155,14 @@
     "version": 0,
     "language": "en",
     "popularity": 3
+  },
+  {
+    "id": "kid_rock-all_summer_long",
+    "title": "All Summer Long",
+    "artist": "Kid Rock",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 6
   }
 ]
