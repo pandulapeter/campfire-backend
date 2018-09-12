@@ -1,5 +1,5 @@
 {I}
-[(] [D]    [C]    [G]    [G]    [)]  [x4]
+[(]  [D]    [C]    [G]    [G]    [)]  [x4]
 
 {V_1}
 It was[D] 1989,[C] my thoughts were [G]short my hair was long,
@@ -8,7 +8,7 @@ It was[D] 1989,[C] my thoughts were [G]short my hair was long,
 It was [D]summertime in [C]Northern [G]Michigan.
 
 {B}
-[(] [D]    [C]    [G]    [G]    [)]  [x2]
+[(]  [D]    [C]    [G]    [G]    [)]  [x2]
 
 {V_2}
 [D]Splashing through the [C]sand bar, [G]talking by the campfire,
@@ -40,10 +40,10 @@ Singing [D]Sweet Home Ala[C]bama all [G]summer long.
 
 {S}
 ([G]Sweet Home Alabama, oh!)
-[(] [D]    [C]    [G]    [G]    [)]  [x8]
+[(]  [D]    [C]    [G]    [G]    [)]  [x8]
 
 {B}
-[(] [D]    [C]    [G]    [G]    [)]  [x2]
+[(]  [D]    [C]    [G]    [G]    [)]  [x2]
 
 {V_4}
 Now [D]nothing seems as [C]strange as when the [G]leaves began to change,
@@ -69,4 +69,4 @@ Singing [D]Sweet Home Ala[C]bama all [G]summer long.
 Singing [D]Sweet Home Ala[C]bama all [G]summer long.
 Singing [D]Sweet Home Ala[C]bama all [G]summer long.
 Singing [D]Sweet Home Ala[C]bama all [G]summer long!
-[(] [D]    [C]    [G]    [G]    [)]  [x4]
+[(]  [D]    [C]    [G]    [G]    [)]  [x4]

@@ -1161,7 +1161,7 @@
     "title": "All Summer Long",
     "artist": "Kid Rock",
     "isExplicit": "false",
-    "version": 1,
+    "version": 2,
     "language": "en",
     "popularity": 6
   },
@@ -1170,8 +1170,17 @@
     "title": "Baby Doll",
     "artist": "Top Cats",
     "isExplicit": "false",
-    "version": 0,
+    "version": 1,
     "language": "en",
     "popularity": 3
+  },
+  {
+    "id": "kiss-forever",
+    "title": "Forever",
+    "artist": "Kiss",
+    "isExplicit": "false",
+    "version": 0,
+    "language": "en",
+    "popularity": 4
   }
 ]
