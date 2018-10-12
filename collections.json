@@ -40,7 +40,8 @@
 "id":"best-of-glam-metal","title":"Best of Glam Metal","description":"Catchy riffs, high-pitched screams, makeup, spandex and hairspray","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=best-of-glam-metal","songs":[
     "bon_jovi-its_my_life",
     "danger_danger-bang_bang",
-    "twisted_sister-we_re_not_gonna_take_it"
+    "twisted_sister-we_re_not_gonna_take_it",
+    "skid_row-18_and_life"
 ],"language":["en"],"popularity":3,"isExplicit":"false","date":1530362601},{
 "id":"pop-rock-hits","title":"Pop Rock Hits","description":"The best earworms from the radio","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits","songs":[
     "walk_the_moon-shut_up_and_dance",
