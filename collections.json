@@ -1,204 +1,96 @@
-[
-    {
-    "id": "slow-acoustic",
-    "title": "Slow Acoustic",
-    "description": "Mostly sad songs that are easy to play and easy to sing",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=slow-acoustic",
-    "songs": [
-        "bob_dylan-blowin_in_the_wind",
-        "luis_armstrong-what_a_wonderful_world",
-        "eric_clapton-tears_in_heaven",
-        "leonard_cohen-hallelujah",
-        "the_beatles-yesterday",
-        "the_connels-74_75",
-        "elvis_presley-cant_help_falling_in_love_with_you",
-        "the_beatles-let_it_be",
-        "guns_n_roses-patience",
-        "eric_clapton-wonderful_tonight",
-        "4_non_blondes-whats_up",
-        "ronan_keating-when_you_say_nothing_at_all"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 2,
-    "isExplicit": "false",
-    "date": 1530362601
-},
- {
-    "id": "power-ballads",
-    "title": "Power Ballads",
-    "description": "Slow, sentimental songs from the 80s",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=power-ballads",
-    "songs": [
-    	"aerosmith-angel",
-        "poison-every_rose_has_its_thorn",
-        "mr_big-to_be_with_you",
-        "aerosmith-amazing",
-        "guns_n_roses-dont_cry",
-        "skid_row-i_remember_you",
-        "u2-with_or_without_you",
-        "scorpions-wind_of_change"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 3,
-    "isExplicit": "false",
-    "date": 1530362601
-},
-    {
-    "id": "essential-rock",
-    "title": "Essential Rock",
-    "description": "The most recognizable rock anthems from the late 60s to the early 2000s",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=essential-rock",
-    "songs": [
-    	"the_rolling_stones-sympathy_for_the_devil",
-    	"queen-crazy_little_thing_called_love",
-    	"steppenwolf-born_to_be_wild",
-    	"ac_dc-you_shook_me_all_night_long",
-    	"judas_priest-living_after_midnight",
-    	"aerosmith-cryin",
-    	"ac_dc-dirty_deeds_done_dirt_cheap",
-    	"velvet_revolver-fall_to_pieces",
-    	"ozzy_osbourne-mama_im_coming_home",
-    	"ac_dc-whole_lotta_rosie",
-    	"dire_straits-walk_of_life",
-    	"queen-i_want_to_break_free"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 4,
-    "isExplicit": "false",
-    "date": 1530362601
-},
-    {
-    "id": "best-of-glam-metal",
-    "title": "Best of Glam Metal",
-    "description": "Catchy riffs, high-pitched screams, makeup, spandex and hairspray",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=best-of-glam-metal",
-    "songs": [
-        "bon_jovi-its_my_life",
-        "danger_danger-bang_bang",
-        "twisted_sister-we_re_not_gonna_take_it"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 3,
-    "isExplicit": "false",
-    "date": 1530362601
-},
-    {
-    "id": "pop-rock-hits",
-    "title": "Pop Rock Hits",
-    "description": "The best earworms from the radio",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits",
-    "songs": [
-        "walk_the_moon-shut_up_and_dance",
-        "the_proclaimers-im_gonna_be",
-        "daniel_powter-bad_day",
-        "eddy_grant-gimme_hope_joanna",
-        "nickelback-rockstar",
-        "fools_garden-lemon_tree",
-        "smokie-living_next_door_to_alice",
-        "carlos_santana-smooth",
-        "jason_mraz-im_yours",
-        "bryan_adams-summer_of_69",
-        "ronan_keating-when_you_say_nothing_at_all",
-        "green_day-good_riddance"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 5,
-    "isExplicit": "false",
-    "date": 1530362601
-},
-    {
-    "id": "magyar-rock",
-    "title": "Magyar Rock",
-    "description": "Válogatás többek közt Tankcsapda, Bikini és Edda dalokból",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=magyar-rock",
-    "songs": [
-        "kispal_es_a_borz-elj_vele_bologan",
-        "tankcsapda-gyurd_ossze_a_lepedot_velem",
-        "zanzibar-nem_vagyok_tokeletes",
-        "edda-gyere_orult",
-        "tankcsapda-az_elet_a_legjobb_mereg",
-        "edda-haromszor",
-        "tankcsapda-be_vagyok_rugva",
-        "kispal_es_a_borz-ha_az_eletben",
-        "bikini-ki_visz_majd_haza",
-        "edda-a_kor",
-        "bikini-mielott_vegleg_elmegyek",
-        "ossian-a_rock_katonai",
-        "tankcsapda-azt_mondom_allj"
-    ],
-    "language": [
-        "hu"
-    ],
-    "popularity": 4,
-    "isExplicit": "true",
-    "date": 1530362601
-},
-    {
-    "id": "mulatos",
-    "title": "Mulatós",
-    "description": "Ittasan üvölthető nóták",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=mulatos",
-    "songs": [
-        "parno_graszt-a_muki_fia",
-        "magna_cum_laude-palinka_dal",
-        "ham_ko_ham-elloptak_a_biciklim"
-    ],
-    "language": [
-        "hu"
-    ],
-    "popularity": 3,
-    "isExplicit": "false",
-    "date": 1530362601
-},
-    {
-    "id": "magyar-blues",
-    "title": "Magyar Blues",
-    "description": "Többnyire Hobo Blues Band és Charlie dalok",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=magyar-blues",
-    "songs": [
-        "takats_tamas_dirty_blues_band-pocsolyaba_leptem",
-        "charlie-jeg_dupla_whiskyvel",
-        "edda-elhagyom_a_varost"
-    ],
-    "language": [
-        "hu"
-    ],
-    "popularity": 2,
-    "isExplicit": "true",
-    "date": 1530362601
-},
-    {
-    "id": "classic-rock-collection",
-    "title": "Classic Rock Collection",
-    "description": "Old school rock songs from the 60s and 70s",
-    "imageUrl": "https://campfire-test1.herokuapp.com/v1/image?id=classic-rock-collection",
-    "songs": [
-        "creedence_clearwater_revival-have_you_ever_seen_the_rain",
-        "don_mclean-american_pie",
-        "the_beatles-get_back",
-        "creedence_clearwater_revival-bad_moon_rising",
-        "the_animals-house_of_the_rising_sun",
-        "elvis_presley-cant_help_falling_in_love_with_you",
-        "john_denver-country_roads",
-        "lynyrd_skynyrd-simple_man",
-        "olivia_newton_john-the_banks_of_the_ohio",
-        "the_beatles-yesterday"
-    ],
-    "language": [
-        "en"
-    ],
-    "popularity": 5,
-    "isExplicit": "false",
-    "date": 1535558445
-}
+[{
+"id":"slow-acoustic","title":"Slow Acoustic","description":"Mostly sad songs that are easy to play and easy to sing","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=slow-acoustic","songs":[
+    "bob_dylan-blowin_in_the_wind",
+    "luis_armstrong-what_a_wonderful_world",
+    "eric_clapton-tears_in_heaven",
+    "leonard_cohen-hallelujah",
+    "the_beatles-yesterday",
+    "the_connels-74_75",
+    "elvis_presley-cant_help_falling_in_love_with_you",
+    "the_beatles-let_it_be",
+    "guns_n_roses-patience",
+    "eric_clapton-wonderful_tonight",
+    "4_non_blondes-whats_up",
+    "ronan_keating-when_you_say_nothing_at_all"
+],"language":["en"],"popularity":2,"isExplicit":"false","date":1530362601},{
+"id":"power-ballads","title":"Power Ballads","description":"Slow, sentimental songs from the 80s","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=power-ballads","songs":[
+    "aerosmith-angel",
+    "poison-every_rose_has_its_thorn",
+    "mr_big-to_be_with_you",
+    "aerosmith-amazing",
+    "guns_n_roses-dont_cry",
+    "skid_row-i_remember_you",
+    "u2-with_or_without_you",
+    "scorpions-wind_of_change"
+],"language":["en"],"popularity":3,"isExplicit":"false","date":1530362601},{
+"id":"essential-rock","title":"Essential Rock","description":"The most recognizable rock anthems from the late 60s to the early 2000s","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=essential-rock","songs":[
+    "the_rolling_stones-sympathy_for_the_devil",
+    "queen-crazy_little_thing_called_love",
+    "steppenwolf-born_to_be_wild",
+    "ac_dc-you_shook_me_all_night_long",
+    "judas_priest-living_after_midnight",
+    "aerosmith-cryin",
+    "ac_dc-dirty_deeds_done_dirt_cheap",
+    "velvet_revolver-fall_to_pieces",
+    "ozzy_osbourne-mama_im_coming_home",
+    "ac_dc-whole_lotta_rosie",
+    "dire_straits-walk_of_life",
+    "queen-i_want_to_break_free"
+],"language":["en"],"popularity":4,"isExplicit":"false","date":1530362601},{
+"id":"best-of-glam-metal","title":"Best of Glam Metal","description":"Catchy riffs, high-pitched screams, makeup, spandex and hairspray","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=best-of-glam-metal","songs":[
+    "bon_jovi-its_my_life",
+    "danger_danger-bang_bang",
+    "twisted_sister-we_re_not_gonna_take_it"
+],"language":["en"],"popularity":3,"isExplicit":"false","date":1530362601},{
+"id":"pop-rock-hits","title":"Pop Rock Hits","description":"The best earworms from the radio","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits","songs":[
+    "walk_the_moon-shut_up_and_dance",
+    "the_proclaimers-im_gonna_be",
+    "daniel_powter-bad_day",
+    "eddy_grant-gimme_hope_joanna",
+    "nickelback-rockstar",
+    "fools_garden-lemon_tree",
+    "smokie-living_next_door_to_alice",
+    "carlos_santana-smooth",
+    "jason_mraz-im_yours",
+    "bryan_adams-summer_of_69",
+    "ronan_keating-when_you_say_nothing_at_all",
+    "green_day-good_riddance"
+],"language":["en"],"popularity":5,"isExplicit":"false","date":1530362601},{
+"id":"magyar-rock","title":"Magyar Rock","description":"Válogatás többek közt Tankcsapda, Bikini és Edda dalokból","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=magyar-rock","songs":[
+    "kispal_es_a_borz-elj_vele_bologan",
+    "tankcsapda-gyurd_ossze_a_lepedot_velem",
+    "zanzibar-nem_vagyok_tokeletes",
+    "edda-gyere_orult",
+    "tankcsapda-az_elet_a_legjobb_mereg",
+    "edda-haromszor",
+    "tankcsapda-be_vagyok_rugva",
+    "kispal_es_a_borz-ha_az_eletben",
+    "bikini-ki_visz_majd_haza",
+    "edda-a_kor",
+    "bikini-mielott_vegleg_elmegyek",
+    "ossian-a_rock_katonai",
+    "tankcsapda-azt_mondom_allj"
+],"language":["hu"],"popularity":4,"isExplicit":"true","date":1530362601},{
+"id":"mulatos","title":"Mulatós","description":"Ittasan üvölthető nóták","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=mulatos","songs":[
+    "parno_graszt-a_muki_fia",
+    "magna_cum_laude-palinka_dal",
+    "ham_ko_ham-elloptak_a_biciklim"
+],"language":["hu"],"popularity":3,"isExplicit":"false","date":1530362601},{
+"id":"magyar-blues","title":"Magyar Blues","description":"Többnyire Hobo Blues Band és Charlie dalok","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=magyar-blues","songs":[
+    "takats_tamas_dirty_blues_band-pocsolyaba_leptem",
+    "charlie-jeg_dupla_whiskyvel",
+    "edda-elhagyom_a_varost"
+],"language":["hu"],"popularity":2,"isExplicit":"true","date":1530362601},{
+"id":"classic-rock-collection","title":"Classic Rock Collection","description":"Old school rock songs from the 60s and 70s","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=classic-rock-collection","songs":[
+    "creedence_clearwater_revival-have_you_ever_seen_the_rain",
+    "don_mclean-american_pie",
+    "the_beatles-get_back",
+    "creedence_clearwater_revival-bad_moon_rising",
+    "the_animals-house_of_the_rising_sun",
+    "elvis_presley-cant_help_falling_in_love_with_you",
+    "john_denver-country_roads",
+    "lynyrd_skynyrd-simple_man",
+    "olivia_newton_john-the_banks_of_the_ohio",
+    "the_beatles-yesterday"
+],"language":["en"],"popularity":5,"isExplicit":"false","date":1535558445}
 ]
