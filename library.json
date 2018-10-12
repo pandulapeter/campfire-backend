@@ -1,1231 +1,149 @@
-[
-  {
-    "id": "4_non_blondes-whats_up",
-    "title": "What's Up",
-    "artist": "4 Non Blondes",
-    "language": "en",
-    "version": 2,
-    "popularity": 5
-  },
-  {
-    "id": "bikini-mielott_vegleg_elmegyek",
-    "title": "Mielőtt végleg elmegyek",
-    "artist": "Bikini",
-    "language": "hu",
-    "version": 7,
-    "popularity": 2
-  },
-  {
-    "id": "jason_mraz-im_yours",
-    "title": "I'm Yours",
-    "artist": "Jason Mraz",
-    "language": "en",
-    "version": 2,
-    "popularity": 6
-  },
-  {
-    "id": "kispal_es_a_borz-elj_vele_bologan",
-    "title": "Élj vele boldogan",
-    "artist": "Závodi Gábor",
-    "language": "hu",
-    "version": 4,
-    "popularity": 3
-  },
-  {
-    "id": "quimby-most_mulik_pontosan",
-    "title": "Most múlik pontosan",
-    "artist": "Quimby",
-    "language": "hu",
-    "version": 3,
-    "popularity": 4
-  },
-  {
-    "id": "takats_tamas_dirty_blues_band-pocsolyaba_leptem",
-    "title": "Pocsolyába léptem",
-    "artist": "Takáts Tamás Dirty Blues Band",
-    "language": "hu",
-    "version": 1,
-    "isExplicit": "true",
-    "popularity": 3
-  },
-  {
-    "id": "tankcsapda-be_vagyok_rugva",
-    "title": "Be vagyok rúgva",
-    "artist": "Tankcsapda",
-    "language": "hu",
-    "version": 1,
-    "popularity": 5
-  },
-  {
-    "id": "tankcsapda-orokke_tart",
-    "title": "Örökké tart",
-    "artist": "Tankcsapda",
-    "version": 4,
-    "language": "hu",
-    "popularity": 6
-  },
-  {
-    "id": "fools_garden-lemon_tree",
-    "title": "Lemon Tree",
-    "artist": "Fools Garden",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "john_denver-country_roads",
-    "title": "Country Roads",
-    "artist": "John Denver",
-    "version": 1,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "bon_jovi-its_my_life",
-    "title": "It's My Life",
-    "artist": "Bon Jovi",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "the_beatles-let_it_be",
-    "title": "Let It Be",
-    "artist": "The Beatles",
-    "version": 4,
-    "language": "en",
-    "popularity": 7
-  },
-  {
-    "id": "daniel_powter-bad_day",
-    "title": "Bad Day",
-    "artist": "Daniel Powter",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "elton_john-can_you_feel_the_love_tonight",
-    "title": "Can You Feel the Love Tonight",
-    "artist": "Elton John",
-    "version": 4,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "green_day-good_riddance",
-    "title": "Good Riddance (Time of Your Life)",
-    "artist": "Green Day",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "scorpions-wind_of_change",
-    "title": "Wind of Change",
-    "artist": "Scorpions",
-    "version": 1,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "beatrice-azok_a_boldog_szep_napok",
-    "title": "Azok a boldog szép napok",
-    "artist": "Beatrice",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "beatrice-nyolc_ora_munka",
-    "title": "Nyolc óra munka",
-    "artist": "Beatrice",
-    "version": 1,
-    "isExplicit": "true",
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "bikini-ki_visz_majd_haza",
-    "title": "Ki visz majd haza",
-    "artist": "Bikini",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "edda-a_kor",
-    "title": "A kör",
-    "artist": "Edda",
-    "version": 2,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "ocho_macho-jo_nekem",
-    "title": "Jó nekem",
-    "artist": "Ocho Macho",
-    "version": 1,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "parno_graszt-a_muki_fia",
-    "title": "A Muki fia",
-    "artist": "Parno Graszt",
-    "version": 1,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "illes-keglidal",
-    "title": "Kéglidal",
-    "artist": "Illés",
-    "version": 0,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "illes-az_utcan",
-    "title": "Az utcán",
-    "artist": "Illés",
-    "version": 1,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "kispal_es_a_borz-ha_az_eletben",
-    "title": "Ha az életben",
-    "artist": "Kispál és a Borz",
-    "version": 0,
-    "language": "hu",
-    "isExplicit": "true",
-    "popularity": 3
-  },
-  {
-    "id": "magna_cum_laude-palinka_dal",
-    "title": "Pálinka dal",
-    "artist": "Magna Cum Laude",
-    "version": 1,
-    "language": "hu",
-    "popularity": 5
-  },
-  {
-    "id": "republic-a_67_es_ut",
-    "title": "A 67-es út",
-    "artist": "Republic",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "tankcsapda-egyszeru_dal",
-    "title": "Egyszerű dal",
-    "artist": "Tankcsapda",
-    "version": 0,
-    "language": "hu",
-    "popularity": 5
-  },
-  {
-    "id": "edda-elhagyom_a_varost",
-    "title": "Elhagyom a várost",
-    "artist": "Edda",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "varga_miklos-europa",
-    "title": "Európa",
-    "artist": "Varga Miklós",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "republic-ha_itt_lennel_velem",
-    "title": "Ha itt lennél velem",
-    "artist": "Republic",
-    "version": 0,
-    "language": "hu",
-    "popularity": 6
-  },
-  {
-    "id": "akos-ilyenek_voltunk",
-    "title": "Ilyenek voltunk",
-    "artist": "Ákos",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "kowalsky_meg_a_vega-amilyen-hulye-vagy-ugy-szeretlek",
-    "title": "Amilyen hülye vagy, úgy szeretlek",
-    "artist": "Kowalsky meg a Vega",
-    "version": 0,
-    "language": "hu",
-    "popularity": 6
-  },
-  {
-    "id": "fonograf-jojj_kedvesem",
-    "title": "Jöjj, kedvesem!",
-    "artist": "Fonográf",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "metro-kocos_kis_ordogok_voltunk",
-    "title": "Kócos kis ördögök voltunk",
-    "artist": "Metro",
-    "version": 0,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "bikini-megussem_vagy_ne_ussem",
-    "title": "Megüssem vagy ne üssem?",
-    "artist": "Bikini",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "lgt-neked_irom_a_dalt",
-    "title": "Neked írom a dalt",
-    "artist": "LGT",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "zanzibar-nem_vagyok_tokeletes",
-    "title": "Nem vagyok tökéletes",
-    "artist": "Zanzibár",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "100_folk_celsius-ohio",
-    "title": "Ohio",
-    "artist": "100 Folk Celsius",
-    "version": 0,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "omega-petroleumlampa",
-    "title": "Petróleumlámpa",
-    "artist": "Omega",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "republic-szallj_el_kismadar",
-    "title": "Szállj el, kismadár",
-    "artist": "Republic",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "emberek-tabortuz",
-    "title": "Tábortűz",
-    "artist": "Emberek",
-    "version": 0,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "the_connels-74_75",
-    "title": "'74-'75",
-    "artist": "The Connels",
-    "version": 0,
-    "language": "en",
-    "popularity": 2
-  },
-  {
-    "id": "edda-a_hutlen",
-    "title": "A hűtlen",
-    "artist": "Edda",
-    "version": 1,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "bikini-adj_helyet",
-    "title": "Adj helyet",
-    "artist": "Bikini",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "tankcsapda-az_elet_a_legjobb_mereg",
-    "title": "Az élet a legjobb méreg",
-    "artist": "Tankcsapda",
-    "isExplicit": "true",
-    "version": 2,
-    "language": "hu",
-    "popularity": 5
-  },
-  {
-    "id": "olivia_newton_john-the_banks_of_the_ohio",
-    "title": "The Banks of the Ohio",
-    "artist": "Olivia Newton-John",
-    "version": 3,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "bob_dylan-blowin_in_the_wind",
-    "title": "Blowin' in the Wind",
-    "artist": "Bob Dylan",
-    "version": 3,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "elvis_presley-cant_help_falling_in_love_with_you",
-    "title": "Can't Help Falling in Love With You",
-    "artist": "Elvis Presley",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "guns_n_roses-dont_cry",
-    "title": "Don't Cry",
-    "artist": "Guns N' Roses",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "brody_janos-foldvar_fele_feluton",
-    "title": "Földvár felé félúton",
-    "artist": "Bródy János",
-    "version": 0,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "omega-gyongyhaju_lany",
-    "title": "Gyöngyhajú lány",
-    "artist": "Omega",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "tankcsapda-gyurd_ossze_a_lepedot_velem",
-    "title": "Gyűrd össze a lepedőt velem",
-    "artist": "Tankcsapda",
-    "isExplicit": "true",
-    "version": 3,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "koncz_zsuzsa-ha_en_rozsa_volnek",
-    "title": "Ha én rózsa volnék",
-    "artist": "Koncz Zsuzsa",
-    "version": 0,
-    "language": "hu",
-    "popularity": 3
-  },
-  {
-    "id": "charlie-jeg_dupla_whiskyvel",
-    "title": "Jég dupla whiskyvel",
-    "artist": "Charlie",
-    "version": 1,
-    "language": "hu",
-    "popularity": 6
-  },
-  {
-    "id": "aerosmith-amazing",
-    "title": "Amazing",
-    "artist": "Aerosmith",
-    "language": "en",
-    "version": 1,
-    "popularity": 3
-  },
-  {
-    "id": "aerosmith-angel",
-    "title": "Angel",
-    "artist": "Aerosmith",
-    "language": "en",
-    "version": 11,
-    "popularity": 2
-  },
-  {
-    "id": "aerosmith-avant_garden",
-    "title": "Avant Garden",
-    "artist": "Aerosmith",
-    "language": "en",
-    "version": 0,
-    "popularity": 2
-  },
-  {
-    "id": "steppenwolf-born_to_be_wild",
-    "title": "Born to be Wild",
-    "artist": "Steppenwolf",
-    "language": "en",
-    "version": 2,
-    "popularity": 3
-  },
-  {
-    "id": "aerosmith-crazy",
-    "title": "Crazy",
-    "artist": "Aerosmith",
-    "language": "en",
-    "version": 1,
-    "popularity": 4
-  },
-  {
-    "id": "aerosmith-cryin",
-    "title": "Cryin'",
-    "artist": "Aerosmith",
-    "language": "en",
-    "version": 0,
-    "popularity": 4
-  },
-  {
-    "id": "ac_dc-dirty_deeds_done_dirt_cheap",
-    "title": "Dirty Deeds Done Dirt Cheap",
-    "artist": "AC/DC",
-    "language": "en",
-    "version": 1,
-    "popularity": 5
-  },
-  {
-    "id": "velvet_revolver-fall_to_pieces",
-    "title": "Fall to Pieces",
-    "artist": "Velvet Revolver",
-    "language": "en",
-    "version": 0,
-    "popularity": 3
-  },
-  {
-    "id": "ac_dc-you_shook_me_all_night_long",
-    "title": "You Shook Me All Night Long",
-    "artist": "AC/DC",
-    "language": "en",
-    "version": 1,
-    "popularity": 6
-  },
-  {
-    "id": "the_beatles-yesterday",
-    "title": "Yesterday",
-    "artist": "The Beatles",
-    "language": "en",
-    "version": 0,
-    "popularity": 6
-  },
-  {
-    "id": "eric_clapton-wonderful_tonight",
-    "title": "Wonderful Tonight",
-    "artist": "Eric Clapton",
-    "language": "en",
-    "version": 2,
-    "popularity": 5
-  },
-  {
-    "id": "ac_dc-whole_lotta_rosie",
-    "title": "Whole Lotta Rosie",
-    "artist": "AC/DC",
-    "language": "en",
-    "version": 5,
-    "popularity": 4
-  },
-  {
-    "id": "luis_armstrong-what_a_wonderful_world",
-    "title": "What a Wonderful World",
-    "artist": "Luis Armstrong",
-    "language": "en",
-    "version": 1,
-    "popularity": 6
-  },
-  {
-    "id": "bryan_adams-summer_of_69",
-    "title": "Summer of '69",
-    "artist": "Bryan Adams",
-    "language": "en",
-    "version": 5,
-    "popularity": 6
-  },
-  {
-    "id": "judas_priest-living_after_midnight",
-    "title": "Living After Midnight",
-    "artist": "Judas Priest",
-    "language": "en",
-    "version": 6,
-    "popularity": 4
-  },
-  {
-    "id": "talisman-numai_una",
-    "title": "Numai una",
-    "artist": "Talisman",
-    "language": "ro",
-    "version": 1,
-    "popularity": 2
-  },
-  {
-    "id": "iris-strada_ta",
-    "title": "Strada ta",
-    "artist": "Iris",
-    "language": "ro",
-    "version": 2,
-    "popularity": 3
-  },
-  {
-    "id": "danger_danger-bang_bang",
-    "title": "Bang Bang",
-    "artist": "Danger Danger",
-    "language": "en",
-    "version": 0,
-    "popularity": 2
-  },
-  {
-    "id": "twisted_sister-we_re_not_gonna_take_it",
-    "title": "We're Not Gonna Take It",
-    "artist": "Twisted Sister",
-    "language": "en",
-    "version": 2,
-    "popularity": 5
-  },
-  {
-    "id": "mr_big-to_be_with_you",
-    "title": "To Be with You",
-    "artist": "Mr. Big",
-    "language": "en",
-    "version": 0,
-    "popularity": 5
-  },
-  {
-    "id": "lgt-valaki_mondja_meg",
-    "title": "Valaki mondja meg",
-    "artist": "LGT",
-    "language": "hu",
-    "version": 0,
-    "popularity": 4
-  },
-  {
-    "id": "eric_clapton-tears_in_heaven",
-    "title": "Tears in Heaven",
-    "artist": "Eric Clapton",
-    "language": "en",
-    "version": 0,
-    "popularity": 8
-  },
-  {
-    "id": "zanzibar-szolj_mar",
-    "title": "Szólj már",
-    "artist": "Zanzibár",
-    "language": "hu",
-    "version": 0,
-    "popularity": 5
-  },
-  {
-    "id": "eddy_grant-gimme_hope_joanna",
-    "title": "Gimme Hope Jo'anna",
-    "artist": "Eddy Grant",
-    "language": "en",
-    "version": 0,
-    "popularity": 5
-  },
-  {
-    "id": "koncz_zsuzsa-szel_hozott_szel_visz_el",
-    "title": "Szél hozott, szél visz el",
-    "artist": "Koncz Zsuzsa",
-    "language": "hu",
-    "version": 0,
-    "popularity": 3
-  },
-  {
-    "id": "the_rolling_stones-sympathy_for_the_devil",
-    "title": "Sympathy for the Devil",
-    "artist": "The Rolling Stones",
-    "language": "en",
-    "version": 0,
-    "popularity": 7
-  },
-  {
-    "id": "lynyrd_skynyrd-sweet_home_alabama",
-    "title": "Sweet Home Alabama",
-    "artist": "Lynyrd Skynyrd",
-    "language": "en",
-    "version": 0,
-    "popularity": 6
-  },
-  {
-    "id": "carlos_santana-smooth",
-    "title": "Smooth",
-    "artist": "Carlos Santana",
-    "language": "en",
-    "version": 0,
-    "popularity": 6
-  },
-  {
-    "id": "smokie-living_next_door_to_alice",
-    "title": "Living Next Door to Alice",
-    "artist": "Smokie",
-    "language": "en",
-    "version": 0,
-    "popularity": 5
-  },
-  {
-    "id": "dire_straits-walk_of_life",
-    "title": "Walk of Life",
-    "artist": "Dire Straits",
-    "language": "en",
-    "version": 1,
-    "popularity": 5
-  },
-  {
-    "id": "edda-haromszor",
-    "title": "Háromszor",
-    "artist": "Edda",
-    "language": "hu",
-    "version": 0,
-    "popularity": 3
-  },
-  {
-    "id": "edda-gyere_orult",
-    "title": "Gyere őrült",
-    "artist": "Edda",
-    "language": "hu",
-    "version": 4,
-    "popularity": 4
-  },
-  {
-    "id": "gary_moore-still_got_the_blues",
-    "title": "Still Got the Blues",
-    "artist": "Gary Moore",
-    "language": "en",
-    "version": 3,
-    "popularity": 7
-  },
-  {
-    "id": "poison-every_rose_has_its_thorn",
-    "title": "Every Rose Has Its Thorn",
-    "artist": "Poison",
-    "language": "en",
-    "version": 1,
-    "popularity": 5
-  },
-  {
-    "id": "queen-crazy_little_thing_called_love",
-    "title": "Crazy Little Thing Called Love",
-    "artist": "Queen",
-    "language": "en",
-    "version": 1,
-    "popularity": 7
-  },
-  {
-    "id": "queen-i_want_to_break_free",
-    "title": "I Want to Break Free",
-    "artist": "Queen",
-    "language": "en",
-    "version": 0,
-    "popularity": 7
-  },
-  {
-    "id": "nickelback-rockstar",
-    "title": "Rockstar",
-    "artist": "Nickelback",
-    "language": "en",
-    "version": 0,
-    "popularity": 4
-  },
-  {
-    "id": "guns_n_roses-patience",
-    "title": "Patience",
-    "artist": "Guns N' Roses",
-    "version": 1,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "skid_row-i_remember_you",
-    "title": "I Remember You",
-    "artist": "Skid Row",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "the_proclaimers-im_gonna_be",
-    "title": "I'm Gonna Be (500 Miles)",
-    "artist": "The Proclaimers",
-    "version": 2,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "ham_ko_ham-elloptak_a_biciklim",
-    "title": "Ellopták a biciklim",
-    "artist": "Ham Ko Ham",
-    "version": 1,
-    "language": "hu",
-    "popularity": 4
-  },
-  {
-    "id": "vunk-pleaca",
-    "title": "Pleacă",
-    "artist": "Vunk",
-    "version": 0,
-    "language": "ro",
-    "popularity": 4
-  },
-  {
-    "id": "ozzy_osbourne-mama_im_coming_home",
-    "title": "Mama, I'm Coming Home",
-    "artist": "Ozzy Osbourne",
-    "version": 1,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "cargo-daca_ploaia_sar_opri",
-    "title": "Dacă ploaia s-ar opri",
-    "artist": "Cargo",
-    "version": 0,
-    "language": "ro",
-    "popularity": 5
-  },
-  {
-    "id": "tankcsapda-azt_mondom_allj",
-    "title": "Az mondom állj",
-    "artist": "Tankcsapda",
-    "isExplicit": "true",
-    "version": 0,
-    "language": "hu",
-    "popularity": 5
-  },
-  {
-    "id": "barenaked_ladies-big_bang_theory_theme",
-    "title": "Big Bang Theory Theme",
-    "artist": "Barenaked Ladies",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 2
-  },
-  {
-    "id": "jonathan_coulton-still_alive",
-    "title": "Still Alive",
-    "artist": "Jonathan Coulton",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 2
-  },
-  {
-    "id": "katrina_the_waves-walking_on_sunshine",
-    "title": "Walking on Sunshine",
-    "artist": "Katrina & The Waves",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "the_animals-house_of_the_rising_sun",
-    "title": "House of the Rising Sun",
-    "artist": "The Animals",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "the_rembrandts-ill_be_there_for_you",
-    "title": "I'll Be There for You",
-    "artist": "The Rembrandts",
-    "isExplicit": "false",
-    "version": 4,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "walk_the_moon-shut_up_and_dance",
-    "title": "Shut Up and Dance",
-    "artist": "Walk the Moon",
-    "isExplicit": "false",
-    "version": 5,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "counting_crows-accidentally_in_love",
-    "title": "Accidentally in Love",
-    "artist": "Counting Crows",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "don_mclean-american_pie",
-    "title": "American Pie",
-    "artist": "Don McLean",
-    "isExplicit": "false",
-    "version": 3,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "chuck_berry-johnny_b_goode",
-    "title": "Johnny B. Goode",
-    "artist": "Chuck Berry",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "ossian-a_rock_katonai",
-    "title": "A rock katonái",
-    "artist": "Ossian",
-    "isExplicit": "false",
-    "version": 4,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "ronan_keating-when_you_say_nothing_at_all",
-    "title": "When You Say Nothing at All",
-    "artist": "Ronan Keating",
-    "isExplicit": "false",
-    "version": 4,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "the_beatles-get_back",
-    "title": "Get Back",
-    "artist": "The Beatles",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "the_monkees-im_a_believer",
-    "title": "I'm a Believer",
-    "artist": "The Monkees",
-    "isExplicit": "false",
-    "version": 2,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "donna_summer-hot_stuff",
-    "title": "Hot Stuff",
-    "artist": "Donna Summer",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "creedence_clearwater_revival-bad_moon_rising",
-    "title": "Bad Moon Rising",
-    "artist": "Creedence Clearwater Revival",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "bob_marley-redemption_song",
-    "title": "Redemption Song",
-    "artist": "Bob Marley",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "vama_veche-vara_asta",
-    "title": "Vara asta",
-    "artist": "Vama Veche",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "ro",
-    "popularity": 5
-  },
-  {
-    "id": "creedence_clearwater_revival-have_you_ever_seen_the_rain",
-    "title": "Have You Ever Seen the Rain",
-    "artist": "Creedence Clearwater Revival",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "the_police-every_breath_you_take",
-    "title": "Every Breath You Take",
-    "artist": "The Police",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 7
-  },
-  {
-    "id": "tracy_chapman-give_me_one_reason",
-    "title": "Give Me One Reason",
-    "artist": "Tracy Chapman",
-    "isExplicit": "false",
-    "version": 2,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "cher-strong_enough",
-    "title": "Strong Enough",
-    "artist": "Cher",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "holograf-sa_nu_mi_iei_niciodata_dragostea",
-    "title": "Să nu-mi iei niciodată dragostea",
-    "artist": "Holograf",
-    "isExplicit": "false",
-    "version": 2,
-    "language": "ro",
-    "popularity": 6
-  },
-  {
-    "id": "compact-trenul_pierdut",
-    "title": "Trenul pierdut",
-    "artist": "Compact",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "ro",
-    "popularity": 4
-  },
-  {
-    "id": "lady_gaga-you_and_i",
-    "title": "You and I",
-    "artist": "Lady Gaga",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 7
-  },
-  {
-    "id": "enrique_iglesias-hero",
-    "title": "Hero",
-    "artist": "Enriquie Iglesias",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "bon_jovi-ill_be_there_for_you",
-    "title": "I'll Be There for You",
-    "artist": "Bon Jovi",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "the_rolling_stones-connection",
-    "title": "Connection",
-    "artist": "The Rolling Stones",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 2
-  },
-  {
-    "id": "ossian-ejfeli_lany",
-    "title": "Éjféli lány",
-    "artist": "Ossian",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "hu",
-    "popularity": 2
-  },
-  {
-    "id": "demi_lovato-get_back",
-    "title": "Get Back",
-    "artist": "Demi Lovato",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "lynyrd_skynyrd-simple_man",
-    "title": "Simple Man",
-    "artist": "Lynyrd Skynyrd",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "leonard_cohen-hallelujah",
-    "title": "Hallelujah",
-    "artist": "Leonard Cohen",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 7
-  },
-  {
-    "id": "guns_n_roses-knickin_on_heavens_door",
-    "title": "Knockin' on Heaven's Door",
-    "artist": "Guns N' Roses",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 7
-  },
-  {
-    "id": "bob_dylan-knickin_on_heavens_door",
-    "title": "Knockin' on Heaven's Door",
-    "artist": "Bob Dylan",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "black_stone_cherry-cant_you_see",
-    "title": "Can't You See",
-    "artist": "Black Stone Cherry",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 1
-  },
-  {
-    "id": "bon_jovi-always",
-    "title": "Always",
-    "artist": "Bon Jovi",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "bon_jovi-bed_of_roses",
-    "title": "Bed of Roses",
-    "artist": "Bon Jovi",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "bon_jovi-born_to_be_my_baby",
-    "title": "Born to Be My Baby",
-    "artist": "Bon Jovi",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "josh_turner-long_black_train",
-    "title": "Long Black Train",
-    "artist": "Josh Turner",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "robert_palmer-addicted_to_love",
-    "title": "Addicted to Love",
-    "artist": "Robert Palmer",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "kid_rock-all_summer_long",
-    "title": "All Summer Long",
-    "artist": "Kid Rock",
-    "isExplicit": "false",
-    "version": 2,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "top_cats-baby_doll",
-    "title": "Baby Doll",
-    "artist": "Top Cats",
-    "isExplicit": "false",
-    "version": 1,
-    "language": "en",
-    "popularity": 3
-  },
-  {
-    "id": "kiss-forever",
-    "title": "Forever",
-    "artist": "Kiss",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 4
-  },
-  {
-    "id": "johnny_cash-folsom-prison-blues",
-    "title": "Folsom Prison Blues",
-    "artist": "Johnny Cash",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  },
-  {
-    "id": "tina_turner-simply_the_best",
-    "title": "Simply the Best",
-    "artist": "Tina Turner",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "u2-with_or_without_you",
-    "title": "With or Without You",
-    "artist": "U2",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 6
-  },
-  {
-    "id": "ludes-girl_with_one_eye",
-    "title": "Girl with One Eye",
-    "artist": "Ludes",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 2
-  },
-  {
-    "id": "florence_and_the_machine-girl_with_one_eye",
-    "title": "Girl with One Eye",
-    "artist": "Florence and the Machine",
-    "isExplicit": "false",
-    "version": 0,
-    "language": "en",
-    "popularity": 5
-  }
+[{
+"id":"4_non_blondes-whats_up","title":"What's Up","artist":"4 Non Blondes","language":"en","version":2,"popularity":5},{
+"id":"bikini-mielott_vegleg_elmegyek","title":"Mielőtt végleg elmegyek","artist":"Bikini","language":"hu","version":7,"popularity":2},{
+"id":"jason_mraz-im_yours","title":"I'm Yours","artist":"Jason Mraz","language":"en","version":2,"popularity":6},{
+"id":"kispal_es_a_borz-elj_vele_bologan","title":"Élj vele boldogan","artist":"Závodi Gábor","language":"hu","version":4,"popularity":3},{
+"id":"quimby-most_mulik_pontosan","title":"Most múlik pontosan","artist":"Quimby","language":"hu","version":3,"popularity":4},{
+"id":"takats_tamas_dirty_blues_band-pocsolyaba_leptem","title":"Pocsolyába léptem","artist":"Takáts Tamás Dirty Blues Band","language":"hu","version":1,"isExplicit":"true","popularity":3},{
+"id":"tankcsapda-be_vagyok_rugva","title":"Be vagyok rúgva","artist":"Tankcsapda","language":"hu","version":1,"popularity":5},{
+"id":"tankcsapda-orokke_tart","title":"Örökké tart","artist":"Tankcsapda","version":4,"language":"hu","popularity":6},{
+"id":"fools_garden-lemon_tree","title":"Lemon Tree","artist":"Fools Garden","version":0,"language":"en","popularity":6},{
+"id":"john_denver-country_roads","title":"Country Roads","artist":"John Denver","version":1,"language":"en","popularity":4},{
+"id":"bon_jovi-its_my_life","title":"It's My Life","artist":"Bon Jovi","version":0,"language":"en","popularity":5},{
+"id":"the_beatles-let_it_be","title":"Let It Be","artist":"The Beatles","version":4,"language":"en","popularity":7},{
+"id":"daniel_powter-bad_day","title":"Bad Day","artist":"Daniel Powter","version":0,"language":"en","popularity":5},{
+"id":"elton_john-can_you_feel_the_love_tonight","title":"Can You Feel the Love Tonight","artist":"Elton John","version":4,"language":"en","popularity":5},{
+"id":"green_day-good_riddance","title":"Good Riddance (Time of Your Life)","artist":"Green Day","version":0,"language":"en","popularity":4},{
+"id":"scorpions-wind_of_change","title":"Wind of Change","artist":"Scorpions","version":1,"language":"en","popularity":5},{
+"id":"beatrice-azok_a_boldog_szep_napok","title":"Azok a boldog szép napok","artist":"Beatrice","version":0,"language":"hu","popularity":3},{
+"id":"beatrice-nyolc_ora_munka","title":"Nyolc óra munka","artist":"Beatrice","version":1,"isExplicit":"true","language":"hu","popularity":4},{
+"id":"bikini-ki_visz_majd_haza","title":"Ki visz majd haza","artist":"Bikini","version":0,"language":"hu","popularity":4},{
+"id":"edda-a_kor","title":"A kör","artist":"Edda","version":2,"language":"hu","popularity":4},{
+"id":"ocho_macho-jo_nekem","title":"Jó nekem","artist":"Ocho Macho","version":1,"language":"hu","popularity":3},{
+"id":"parno_graszt-a_muki_fia","title":"A Muki fia","artist":"Parno Graszt","version":1,"language":"hu","popularity":3},{
+"id":"illes-keglidal","title":"Kéglidal","artist":"Illés","version":0,"language":"hu","popularity":2},{
+"id":"illes-az_utcan","title":"Az utcán","artist":"Illés","version":1,"language":"hu","popularity":3},{
+"id":"kispal_es_a_borz-ha_az_eletben","title":"Ha az életben","artist":"Kispál és a Borz","version":0,"language":"hu","isExplicit":"true","popularity":3},{
+"id":"magna_cum_laude-palinka_dal","title":"Pálinka dal","artist":"Magna Cum Laude","version":1,"language":"hu","popularity":5},{
+"id":"republic-a_67_es_ut","title":"A 67-es út","artist":"Republic","version":0,"language":"hu","popularity":4},{
+"id":"tankcsapda-egyszeru_dal","title":"Egyszerű dal","artist":"Tankcsapda","version":0,"language":"hu","popularity":5},{
+"id":"edda-elhagyom_a_varost","title":"Elhagyom a várost","artist":"Edda","version":0,"language":"hu","popularity":4},{
+"id":"varga_miklos-europa","title":"Európa","artist":"Varga Miklós","version":0,"language":"hu","popularity":4},{
+"id":"republic-ha_itt_lennel_velem","title":"Ha itt lennél velem","artist":"Republic","version":0,"language":"hu","popularity":6},{
+"id":"akos-ilyenek_voltunk","title":"Ilyenek voltunk","artist":"Ákos","version":0,"language":"hu","popularity":4},{
+"id":"kowalsky_meg_a_vega-amilyen-hulye-vagy-ugy-szeretlek","title":"Amilyen hülye vagy, úgy szeretlek","artist":"Kowalsky meg a Vega","version":0,"language":"hu","popularity":6},{
+"id":"fonograf-jojj_kedvesem","title":"Jöjj, kedvesem!","artist":"Fonográf","version":0,"language":"hu","popularity":3},{
+"id":"metro-kocos_kis_ordogok_voltunk","title":"Kócos kis ördögök voltunk","artist":"Metro","version":0,"language":"hu","popularity":2},{
+"id":"bikini-megussem_vagy_ne_ussem","title":"Megüssem vagy ne üssem?","artist":"Bikini","version":0,"language":"hu","popularity":4},{
+"id":"lgt-neked_irom_a_dalt","title":"Neked írom a dalt","artist":"LGT","version":0,"language":"hu","popularity":4},{
+"id":"zanzibar-nem_vagyok_tokeletes","title":"Nem vagyok tökéletes","artist":"Zanzibár","version":0,"language":"hu","popularity":4},{
+"id":"100_folk_celsius-ohio","title":"Ohio","artist":"100 Folk Celsius","version":0,"language":"hu","popularity":2},{
+"id":"omega-petroleumlampa","title":"Petróleumlámpa","artist":"Omega","version":0,"language":"hu","popularity":3},{
+"id":"republic-szallj_el_kismadar","title":"Szállj el, kismadár","artist":"Republic","version":0,"language":"hu","popularity":3},{
+"id":"emberek-tabortuz","title":"Tábortűz","artist":"Emberek","version":0,"language":"hu","popularity":4},{
+"id":"the_connels-74_75","title":"'74-'75","artist":"The Connels","version":0,"language":"en","popularity":2},{
+"id":"edda-a_hutlen","title":"A hűtlen","artist":"Edda","version":1,"language":"hu","popularity":4},{
+"id":"bikini-adj_helyet","title":"Adj helyet","artist":"Bikini","version":0,"language":"hu","popularity":3},{
+"id":"tankcsapda-az_elet_a_legjobb_mereg","title":"Az élet a legjobb méreg","artist":"Tankcsapda","isExplicit":"true","version":2,"language":"hu","popularity":5},{
+"id":"olivia_newton_john-the_banks_of_the_ohio","title":"The Banks of the Ohio","artist":"Olivia Newton-John","version":3,"language":"en","popularity":3},{
+"id":"bob_dylan-blowin_in_the_wind","title":"Blowin' in the Wind","artist":"Bob Dylan","version":3,"language":"en","popularity":5},{
+"id":"elvis_presley-cant_help_falling_in_love_with_you","title":"Can't Help Falling in Love With You","artist":"Elvis Presley","version":0,"language":"en","popularity":6},{
+"id":"guns_n_roses-dont_cry","title":"Don't Cry","artist":"Guns N' Roses","version":0,"language":"en","popularity":6},{
+"id":"brody_janos-foldvar_fele_feluton","title":"Földvár felé félúton","artist":"Bródy János","version":0,"language":"hu","popularity":2},{
+"id":"omega-gyongyhaju_lany","title":"Gyöngyhajú lány","artist":"Omega","version":0,"language":"hu","popularity":3},{
+"id":"tankcsapda-gyurd_ossze_a_lepedot_velem","title":"Gyűrd össze a lepedőt velem","artist":"Tankcsapda","isExplicit":"true","version":3,"language":"hu","popularity":4},{
+"id":"koncz_zsuzsa-ha_en_rozsa_volnek","title":"Ha én rózsa volnék","artist":"Koncz Zsuzsa","version":0,"language":"hu","popularity":3},{
+"id":"charlie-jeg_dupla_whiskyvel","title":"Jég dupla whiskyvel","artist":"Charlie","version":1,"language":"hu","popularity":6},{
+"id":"aerosmith-amazing","title":"Amazing","artist":"Aerosmith","language":"en","version":1,"popularity":3},{
+"id":"aerosmith-angel","title":"Angel","artist":"Aerosmith","language":"en","version":11,"popularity":2},{
+"id":"aerosmith-avant_garden","title":"Avant Garden","artist":"Aerosmith","language":"en","version":0,"popularity":2},{
+"id":"steppenwolf-born_to_be_wild","title":"Born to be Wild","artist":"Steppenwolf","language":"en","version":2,"popularity":3},{
+"id":"aerosmith-crazy","title":"Crazy","artist":"Aerosmith","language":"en","version":1,"popularity":4},{
+"id":"aerosmith-cryin","title":"Cryin'","artist":"Aerosmith","language":"en","version":0,"popularity":4},{
+"id":"ac_dc-dirty_deeds_done_dirt_cheap","title":"Dirty Deeds Done Dirt Cheap","artist":"AC/DC","language":"en","version":1,"popularity":5},{
+"id":"velvet_revolver-fall_to_pieces","title":"Fall to Pieces","artist":"Velvet Revolver","language":"en","version":0,"popularity":3},{
+"id":"ac_dc-you_shook_me_all_night_long","title":"You Shook Me All Night Long","artist":"AC/DC","language":"en","version":1,"popularity":6},{
+"id":"the_beatles-yesterday","title":"Yesterday","artist":"The Beatles","language":"en","version":0,"popularity":6},{
+"id":"eric_clapton-wonderful_tonight","title":"Wonderful Tonight","artist":"Eric Clapton","language":"en","version":2,"popularity":5},{
+"id":"ac_dc-whole_lotta_rosie","title":"Whole Lotta Rosie","artist":"AC/DC","language":"en","version":5,"popularity":4},{
+"id":"luis_armstrong-what_a_wonderful_world","title":"What a Wonderful World","artist":"Luis Armstrong","language":"en","version":1,"popularity":6},{
+"id":"bryan_adams-summer_of_69","title":"Summer of '69","artist":"Bryan Adams","language":"en","version":5,"popularity":6},{
+"id":"judas_priest-living_after_midnight","title":"Living After Midnight","artist":"Judas Priest","language":"en","version":6,"popularity":4},{
+"id":"talisman-numai_una","title":"Numai una","artist":"Talisman","language":"ro","version":1,"popularity":2},{
+"id":"iris-strada_ta","title":"Strada ta","artist":"Iris","language":"ro","version":2,"popularity":3},{
+"id":"danger_danger-bang_bang","title":"Bang Bang","artist":"Danger Danger","language":"en","version":0,"popularity":2},{
+"id":"twisted_sister-we_re_not_gonna_take_it","title":"We're Not Gonna Take It","artist":"Twisted Sister","language":"en","version":2,"popularity":5},{
+"id":"mr_big-to_be_with_you","title":"To Be with You","artist":"Mr. Big","language":"en","version":0,"popularity":5},{
+"id":"lgt-valaki_mondja_meg","title":"Valaki mondja meg","artist":"LGT","language":"hu","version":0,"popularity":4},{
+"id":"eric_clapton-tears_in_heaven","title":"Tears in Heaven","artist":"Eric Clapton","language":"en","version":0,"popularity":8},{
+"id":"zanzibar-szolj_mar","title":"Szólj már","artist":"Zanzibár","language":"hu","version":0,"popularity":5},{
+"id":"eddy_grant-gimme_hope_joanna","title":"Gimme Hope Jo'anna","artist":"Eddy Grant","language":"en","version":0,"popularity":5},{
+"id":"koncz_zsuzsa-szel_hozott_szel_visz_el","title":"Szél hozott, szél visz el","artist":"Koncz Zsuzsa","language":"hu","version":0,"popularity":3},{
+"id":"the_rolling_stones-sympathy_for_the_devil","title":"Sympathy for the Devil","artist":"The Rolling Stones","language":"en","version":0,"popularity":7},{
+"id":"lynyrd_skynyrd-sweet_home_alabama","title":"Sweet Home Alabama","artist":"Lynyrd Skynyrd","language":"en","version":0,"popularity":6},{
+"id":"carlos_santana-smooth","title":"Smooth","artist":"Carlos Santana","language":"en","version":0,"popularity":6},{
+"id":"smokie-living_next_door_to_alice","title":"Living Next Door to Alice","artist":"Smokie","language":"en","version":0,"popularity":5},{
+"id":"dire_straits-walk_of_life","title":"Walk of Life","artist":"Dire Straits","language":"en","version":1,"popularity":5},{
+"id":"edda-haromszor","title":"Háromszor","artist":"Edda","language":"hu","version":0,"popularity":3},{
+"id":"edda-gyere_orult","title":"Gyere őrült","artist":"Edda","language":"hu","version":4,"popularity":4},{
+"id":"gary_moore-still_got_the_blues","title":"Still Got the Blues","artist":"Gary Moore","language":"en","version":3,"popularity":7},{
+"id":"poison-every_rose_has_its_thorn","title":"Every Rose Has Its Thorn","artist":"Poison","language":"en","version":1,"popularity":5},{
+"id":"queen-crazy_little_thing_called_love","title":"Crazy Little Thing Called Love","artist":"Queen","language":"en","version":1,"popularity":7},{
+"id":"queen-i_want_to_break_free","title":"I Want to Break Free","artist":"Queen","language":"en","version":0,"popularity":7},{
+"id":"nickelback-rockstar","title":"Rockstar","artist":"Nickelback","language":"en","version":0,"popularity":4},{
+"id":"guns_n_roses-patience","title":"Patience","artist":"Guns N' Roses","version":1,"language":"en","popularity":5},{
+"id":"skid_row-i_remember_you","title":"I Remember You","artist":"Skid Row","version":0,"language":"en","popularity":5},{
+"id":"the_proclaimers-im_gonna_be","title":"I'm Gonna Be (500 Miles)","artist":"The Proclaimers","version":2,"language":"en","popularity":6},{
+"id":"ham_ko_ham-elloptak_a_biciklim","title":"Ellopták a biciklim","artist":"Ham Ko Ham","version":1,"language":"hu","popularity":4},{
+"id":"vunk-pleaca","title":"Pleacă","artist":"Vunk","version":0,"language":"ro","popularity":4},{
+"id":"ozzy_osbourne-mama_im_coming_home","title":"Mama, I'm Coming Home","artist":"Ozzy Osbourne","version":1,"language":"en","popularity":5},{
+"id":"cargo-daca_ploaia_sar_opri","title":"Dacă ploaia s-ar opri","artist":"Cargo","version":0,"language":"ro","popularity":5},{
+"id":"tankcsapda-azt_mondom_allj","title":"Az mondom állj","artist":"Tankcsapda","isExplicit":"true","version":0,"language":"hu","popularity":5},{
+"id":"barenaked_ladies-big_bang_theory_theme","title":"Big Bang Theory Theme","artist":"Barenaked Ladies","version":1,"language":"en","popularity":2},{
+"id":"jonathan_coulton-still_alive","title":"Still Alive","artist":"Jonathan Coulton","version":0,"language":"en","popularity":2},{
+"id":"katrina_the_waves-walking_on_sunshine","title":"Walking on Sunshine","artist":"Katrina & The Waves","version":0,"language":"en","popularity":5},{
+"id":"the_animals-house_of_the_rising_sun","title":"House of the Rising Sun","artist":"The Animals","version":0,"language":"en","popularity":6},{
+"id":"the_rembrandts-ill_be_there_for_you","title":"I'll Be There for You","artist":"The Rembrandts","version":4,"language":"en","popularity":6},{
+"id":"walk_the_moon-shut_up_and_dance","title":"Shut Up and Dance","artist":"Walk the Moon","version":5,"language":"en","popularity":5},{
+"id":"counting_crows-accidentally_in_love","title":"Accidentally in Love","artist":"Counting Crows","version":0,"language":"en","popularity":5},{
+"id":"don_mclean-american_pie","title":"American Pie","artist":"Don McLean","version":3,"language":"en","popularity":4},{
+"id":"chuck_berry-johnny_b_goode","title":"Johnny B. Goode","artist":"Chuck Berry","version":0,"language":"en","popularity":3},{
+"id":"ossian-a_rock_katonai","title":"A rock katonái","artist":"Ossian","version":4,"language":"hu","popularity":2},{
+"id":"ronan_keating-when_you_say_nothing_at_all","title":"When You Say Nothing at All","artist":"Ronan Keating","version":4,"language":"en","popularity":5},{
+"id":"the_beatles-get_back","title":"Get Back","artist":"The Beatles","version":1,"language":"en","popularity":3},{
+"id":"the_monkees-im_a_believer","title":"I'm a Believer","artist":"The Monkees","version":2,"language":"en","popularity":6},{
+"id":"donna_summer-hot_stuff","title":"Hot Stuff","artist":"Donna Summer","version":1,"language":"en","popularity":4},{
+"id":"creedence_clearwater_revival-bad_moon_rising","title":"Bad Moon Rising","artist":"Creedence Clearwater Revival","version":0,"language":"en","popularity":3},{
+"id":"bob_marley-redemption_song","title":"Redemption Song","artist":"Bob Marley","version":0,"language":"en","popularity":4},{
+"id":"vama_veche-vara_asta","title":"Vara asta","artist":"Vama Veche","version":0,"language":"ro","popularity":5},{
+"id":"creedence_clearwater_revival-have_you_ever_seen_the_rain","title":"Have You Ever Seen the Rain","artist":"Creedence Clearwater Revival","version":0,"language":"en","popularity":4},{
+"id":"the_police-every_breath_you_take","title":"Every Breath You Take","artist":"The Police","version":0,"language":"en","popularity":7},{
+"id":"tracy_chapman-give_me_one_reason","title":"Give Me One Reason","artist":"Tracy Chapman","version":2,"language":"en","popularity":4},{
+"id":"cher-strong_enough","title":"Strong Enough","artist":"Cher","version":1,"language":"en","popularity":6},{
+"id":"holograf-sa_nu_mi_iei_niciodata_dragostea","title":"Să nu-mi iei niciodată dragostea","artist":"Holograf","version":2,"language":"ro","popularity":6},{
+"id":"compact-trenul_pierdut","title":"Trenul pierdut","artist":"Compact","version":0,"language":"ro","popularity":4},{
+"id":"lady_gaga-you_and_i","title":"You and I","artist":"Lady Gaga","version":0,"language":"en","popularity":7},{
+"id":"enrique_iglesias-hero","title":"Hero","artist":"Enriquie Iglesias","version":1,"language":"en","popularity":6},{
+"id":"bon_jovi-ill_be_there_for_you","title":"I'll Be There for You","artist":"Bon Jovi","version":1,"language":"en","popularity":5},{
+"id":"the_rolling_stones-connection","title":"Connection","artist":"The Rolling Stones","version":0,"language":"en","popularity":2},{
+"id":"ossian-ejfeli_lany","title":"Éjféli lány","artist":"Ossian","version":1,"language":"hu","popularity":2},{
+"id":"demi_lovato-get_back","title":"Get Back","artist":"Demi Lovato","version":1,"language":"en","popularity":3},{
+"id":"lynyrd_skynyrd-simple_man","title":"Simple Man","artist":"Lynyrd Skynyrd","version":0,"language":"en","popularity":4},{
+"id":"leonard_cohen-hallelujah","title":"Hallelujah","artist":"Leonard Cohen","version":1,"language":"en","popularity":7},{
+"id":"guns_n_roses-knickin_on_heavens_door","title":"Knockin' on Heaven's Door","artist":"Guns N' Roses","version":0,"language":"en","popularity":7},{
+"id":"bob_dylan-knickin_on_heavens_door","title":"Knockin' on Heaven's Door","artist":"Bob Dylan","version":0,"language":"en","popularity":5},{
+"id":"black_stone_cherry-cant_you_see","title":"Can't You See","artist":"Black Stone Cherry","version":1,"language":"en","popularity":1},{
+"id":"bon_jovi-always","title":"Always","artist":"Bon Jovi","version":0,"language":"en","popularity":5},{
+"id":"bon_jovi-bed_of_roses","title":"Bed of Roses","artist":"Bon Jovi","version":0,"language":"en","popularity":4},{
+"id":"bon_jovi-born_to_be_my_baby","title":"Born to Be My Baby","artist":"Bon Jovi","version":1,"language":"en","popularity":3},{
+"id":"josh_turner-long_black_train","title":"Long Black Train","artist":"Josh Turner","version":1,"language":"en","popularity":4},{
+"id":"robert_palmer-addicted_to_love","title":"Addicted to Love","artist":"Robert Palmer","version":0,"language":"en","popularity":3},{
+"id":"kid_rock-all_summer_long","title":"All Summer Long","artist":"Kid Rock","version":2,"language":"en","popularity":6},{
+"id":"top_cats-baby_doll","title":"Baby Doll","artist":"Top Cats","version":1,"language":"en","popularity":3},{
+"id":"kiss-forever","title":"Forever","artist":"Kiss","version":0,"language":"en","popularity":4},{
+"id":"johnny_cash-folsom-prison-blues","title":"Folsom Prison Blues","artist":"Johnny Cash","version":0,"language":"en","popularity":5},{
+"id":"tina_turner-simply_the_best","title":"Simply the Best","artist":"Tina Turner","version":0,"language":"en","popularity":6},{
+"id":"u2-with_or_without_you","title":"With or Without You","artist":"U2","version":0,"language":"en","popularity":6},{
+"id":"ludes-girl_with_one_eye","title":"Girl with One Eye","artist":"Ludes","version":0,"language":"en","popularity":2},{
+"id":"florence_and_the_machine-girl_with_one_eye","title":"Girl with One Eye","artist":"Florence and the Machine","version":0,"language":"en","popularity":5}
 ]
