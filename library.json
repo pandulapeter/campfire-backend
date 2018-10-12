@@ -149,5 +149,6 @@
 "id":"skid_row-18_and_life","title":"18 and Life","artist":"Skid Row","version":0,"language":"en","popularity":6},{
 "id":"ray_charles-hit_the_road_jack","title":"Hit the Road Jack","artist":"Ray Charles","version":0,"language":"en","popularity":7},{
 "id":"johnny_nash-i_can_see_clearly_now","title":"I Can See Clearly Now","artist":"Johnny Nash","version":0,"language":"en","popularity":6},{
-"id":"george_harrison-i_got_my_mind_set_on_you","title":"I Got My Mind Set On You","artist":"George Harrison","version":1,"language":"en","popularity":6}
+"id":"george_harrison-i_got_my_mind_set_on_you","title":"I Got My Mind Set On You","artist":"George Harrison","version":1,"language":"en","popularity":6},{
+"id":"ugly_kid_joe-everything_about_you","title":"Everything About You","artist":"Ugly Kid Joe","version":0,"language":"en","isExplicit":"true","popularity":4}
 ]
