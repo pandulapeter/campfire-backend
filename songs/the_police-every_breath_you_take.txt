@@ -1,33 +1,33 @@
 {I}
-[A]    [A]    [F#m]    [F#m]
-[D]    [E]    [A]    [A]
+[Aadd9]      [Aadd9]      [F#madd9]      [F#madd9]
+[D]      [E]      [Aadd9]      [Aadd9]
 
 {V_1}
-Every breath you [A]take,
-Every move you [F#m]make,
+Every breath you [Aadd9]take,
+Every move you [F#madd9]make,
 Every bond you [D]break,
 Every step you [E]take,
-I'll be watching [F#m]you.
+I'll be watching [F#madd9]you.
 
 {V_2}
-Every single [A]day,
-Every word you [F#m]say,
+Every single [Aadd9]day,
+Every word you [F#madd9]say,
 Every game you [D]play,
 Every night you [E]stay,
-I'll be watching [A]you.
+I'll be watching [Aadd9]you.
 
 {C}
 Oh can't you [D]see,   [C]
-You belong to [A]me.
-My poor heart [B]aches,
+You belong to [Aadd9]me.
+My poor heart [Badd9]aches,
 With every step you [E]take.
 
 {V_3}
-Every move you [A]make,
-Every vow you [F#m]break,
+Every move you [Aadd9]make,
+Every vow you [F#madd9]break,
 Every smile you [D]fake,
 Every claim you [E]stake,
-I'll be watching [F#m]you.
+I'll be watching [F#madd9]you.
 
 {B}
 [F]Since you've gone, I've been lost without a trace,
@@ -37,44 +37,44 @@ I'll be watching [F#m]you.
 [F]I keep crying baby, baby, please.
 
 {S}
-[A]    [A]    [F#m]    [F#m]
-[D]    [E]    [F#m]    [F#m]
-[A]    [A]    [F#m]    [F#m]
-[D]    [E]    [A]    [A]
+[Aadd9]      [Aadd9]      [F#madd9]      [F#madd9]
+[D]      [E]      [F#madd9]      [F#madd9]
+[Aadd9]      [Aadd9]      [F#madd9]      [F#madd9]
+[D]      [E]      [Aadd9]      [Aadd9]
 
 {C}
 Oh can't you [D]see,   [C]
-You belong to [A]me.
-My poor heart [B]aches,
+You belong to [Aadd9]me.
+My poor heart [Badd9]aches,
 With every step you [E]take.
 
 {V_3}
-Every move you [A]make,
-Every vow you [F#m]break,
+Every move you [Aadd9]make,
+Every vow you [F#madd9]break,
 Every smile you [D]fake,
 Every claim you [E]stake,
-I'll be watching [F#m]you.
+I'll be watching [F#madd9]you.
 
 {O}
 Every move you [D]make,
 Every step you [E]take,
-I'll be watching [F#m]you.    [F#m]
-I'll be watching [A]you.
-(Every breath you take, every move you [F#m]make,
+I'll be watching [F#madd9]you.    [F#madd9]
+I'll be watching [Aadd9]you.
+(Every breath you take, every move you [F#madd9]make,
 every bond you [D]break, every step you take)
-I'll be watching [A]you.
-(Every single day, every word you [F#m]say,
+I'll be watching [Aadd9]you.
+(Every single day, every word you [F#madd9]say,
 every game you [D]play, every night you stay)
-I'll be watching [A]you.
-(Every move you make, every vow you [F#m]break,
+I'll be watching [Aadd9]you.
+(Every move you make, every vow you [F#madd9]break,
 every smile you fake, every claim you stake)
-I'll be watching [A]you.
-(Every single day, every word you [F#m]say,
+I'll be watching [Aadd9]you.
+(Every single day, every word you [F#madd9]say,
 every game you [D]play, every night you stay)
-I'll be watching [A]you.
-(Every breath you take, every move you [F#m]make,
+I'll be watching [Aadd9]you.
+(Every breath you take, every move you [F#madd9]make,
 every bond you [D]break, every step you take)
-I'll be watching [A]you.
-(Every single day, every word you [F#m]say,
+I'll be watching [Aadd9]you.
+(Every single day, every word you [F#madd9]say,
 every game you [D]play, every night you stay)
-I'll be watching [A]you.
+I'll be watching [Aadd9]you.

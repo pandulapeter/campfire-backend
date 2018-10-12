@@ -1,6 +1,6 @@
 {I}
 [(]  [Am]        [C]    [G]
-      [Am]        [Am]    [)]  [x2]
+     [Am]        [Am]    [)]  [x2]
 
 {V_1}
 [F]Got no [C]reason
@@ -40,11 +40,11 @@ Giving me [Am]more and I'll de[C]fy
 
 {S}
 [(]  [Am]        [C]    [G]
-      [Am]        [Am]    [)]  [x2]
+     [Am]        [Am]    [)]  [x2]
 [(]  [C]        [G]
-      [Am]        [Am]    [)]  [x2]
-[C]    [G]    [Am]    [F]
-[C]        [G]
+     [Am]        [Am]    [)]  [x2]
+     [C]    [G]    [Am]    [F]
+     [C]        [G]
 
 {V_1}
 [F]Got no [C]reason

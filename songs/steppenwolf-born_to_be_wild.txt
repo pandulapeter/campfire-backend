@@ -1,6 +1,6 @@
 {I}
 [(]  [E]        [E]
-      [E]        [E6]    [E7]    [)]  [x4]
+     [E]        [E6]    [E7]    [)]  [x4]
 
 {V_1}
 [E]Get your motor runnin',    [E6]    [E7]
@@ -38,7 +38,7 @@ I [G]never wanna [E]die!
 
 {S}
 [(]  [E]        [E]
-      [E]        [E6]    [E7]    [)]  [x8]
+     [E]        [E6]    [E7]    [)]  [x8]
 
 {V_1}
 [E]Get your motor runnin',    [E6]    [E7]
@@ -64,4 +64,4 @@ I [G]never wanna [E]die!
 
 {O}
 [(]  [E]        [E]
-      [E]        [E6]    [E7]    [)]  [x4]
+     [E]        [E6]    [E7]    [)]  [x4]
