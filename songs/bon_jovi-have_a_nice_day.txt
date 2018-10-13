@@ -55,12 +55,12 @@ Have a nice [C#m]day!     [E]    [Aadd9]       [Esus2]
 
 {S}
 [(]  [C#m]      [E]      [Aadd9]        [B]      [)]  [x2]
-    [F#m]      [F#m]      [Aadd9]        [Aadd9 -]
+    [F#m]      [F#m]      [Aadd9 -]
 
 {B}
-[(]  [Bm]        [D]
-    [Gadd9]        [Dsus2]
-    [A]        [A/E]    [)]  [x2]
+[(]  [C#m]        [E]
+    [Aadd9]        [Esus2]
+    [B]        [B/F#]      [)]  [x2]
 
 {C}
 [C#m]Oh, if there's [Aadd9]one thing I hang [E]on to,
