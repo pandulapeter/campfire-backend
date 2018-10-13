@@ -152,5 +152,6 @@
 "id":"george_harrison-i_got_my_mind_set_on_you","title":"I Got My Mind Set On You","artist":"George Harrison","version":1,"language":"en","popularity":6},{
 "id":"ugly_kid_joe-everything_about_you","title":"Everything About You","artist":"Ugly Kid Joe","language":"en","isExplicit":"true","popularity":4},{
 "id":"good_charlotte-the_anthem","title":"The Anthem","artist":"Good Charlotte","isExplicit":"true","language":"en","popularity":4},{
-"id":"eagle_eye_cherry-save_tonight","title":"Save Tonight","artist":"Eagle-Eye Cherry","language":"en","popularity":6}
+"id":"eagle_eye_cherry-save_tonight","title":"Save Tonight","artist":"Eagle-Eye Cherry","language":"en","popularity":6},{
+"id":"bon_jovi-have_a_nice_day","title":"Have a Nice Day","artist":"Bon Jovi","language":"en","popularity":6}
 ]
