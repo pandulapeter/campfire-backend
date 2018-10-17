@@ -26,7 +26,7 @@ Was [E]dancin' to the Jailhouse Rock.
 {V_3}
 [D#5]    [E5]Number forty-seven said to number three,
 [D#5]    [E5]\"You're the cutest jailbird I ever did see.
-[D#5]    I [E5]sure would be delighted with your company,
+[D#5]      I [E5]sure would be delighted with your company,
 [D#5]    Come [E5 -]on and do the Jailhouse Rock with me.\"
 
 {C}
@@ -55,7 +55,7 @@ Was [E]dancin' to the Jailhouse Rock.
 [D#5]    [E5]Shifty Henry said to Bugs, \"For Heaven's sake,
 [D#5]    No [E5]one's lookin' now's our chance to make a break.\"
 [D#5]    [E5]Bugsy turned to Shifty and he said, \"Nix, Nix,
-[D#5]    I [E5 -]want to stick around a while and get my kicks.\"
+[D#5]      I [E5 -]want to stick around a while and get my kicks.\"
 
 {C}
 Let's [A7]rock everybody, let's [E]rock!
