@@ -156,5 +156,6 @@
 "id":"bon_jovi-have_a_nice_day","title":"Have a Nice Day","artist":"Bon Jovi","language":"en","version":3,"popularity":6},{
 "id":"elvis_presley-jailhouse_rock","title":"Jailhouse Rock","artist":"Elvis Presley","language":"en","version":3,"popularity":6},{
 "id":"elvis_presley-blue_suede_shoes","title":"Blue Suede Shoes","artist":"Elvis Presley","language":"en","version":1,"popularity":7},{
-"id":"chris_isaak-wicked_game","title":"Wicked Game","artist":"Chris Isaak","language":"en","popularity":5}
+"id":"chris_isaak-wicked_game","title":"Wicked Game","artist":"Chris Isaak","language":"en","popularity":5},{
+"id":"cat_stevens-wild_world","title":"Wild World","artist":"Cat Stevens","language":"en","popularity":6}
 ]
