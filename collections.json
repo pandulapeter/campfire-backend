@@ -11,6 +11,7 @@
     "guns_n_roses-patience",
     "eric_clapton-wonderful_tonight",
     "4_non_blondes-whats_up",
+    "chris_isaak-wicked_game",
     "ronan_keating-when_you_say_nothing_at_all"
 ],"language":["en"],"popularity":2,"isExplicit":"false","date":1530362601},{
 "id":"power-ballads","title":"Power Ballads","description":"Slow, sentimental songs from the 80s","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=power-ballads","songs":[
@@ -20,6 +21,7 @@
     "aerosmith-amazing",
     "guns_n_roses-dont_cry",
     "skid_row-i_remember_you",
+    "cat_stevens-wild_world",
     "u2-with_or_without_you",
     "scorpions-wind_of_change"
 ],"language":["en"],"popularity":3,"isExplicit":"false","date":1530362601},{
