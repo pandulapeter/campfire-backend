@@ -100,7 +100,7 @@
     "olivia_newton_john-the_banks_of_the_ohio",
     "the_beatles-yesterday"
 ],"language":["en"],"popularity":5,"isExplicit":"false","date":8},{
-"id":"disco-music","title":"Disco Music","description":"Late 70s, 80s and 90s dance music.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=disco-music","songs":[
+"id":"retro-disco","title":"Retro Disco","description":"Late 70s, 80s and 90s dance music.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=retro-disco","songs":[
     "cher-strong_enough",
     "george_harrison-got_my_mind_set_on_you",
     "bonnie_tyler-holding_out_for_a_hero",
