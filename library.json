@@ -164,5 +164,6 @@
 "id":"bonnie_tyler-holding_out_for_a_hero","title":"Holding out for a Hero","artist":"Bonnie Tyler","language":"en","version":1,"popularity":5},{
 "id":"gnarls_barkley-crazy","title":"Crazy","artist":"Gnarls Barkley","language":"en","version":3,"popularity":4},{
 "id":"gloria_gaynor-i_will_survive","title":"I Will Survive","artist":"Gloria Gaynor","language":"en","popularity":5},{
-"id":"creedence_clearwater_revival-fortunate_son","title":"Fortunate Son","artist":"Creedence Clearwater Revival","language":"en","popularity":4}
+"id":"creedence_clearwater_revival-fortunate_son","title":"Fortunate Son","artist":"Creedence Clearwater Revival","language":"en","popularity":4},{
+"id":"creedence_clearwater_revival-down_on_the_corner","title":"Down on the Corner","artist":"Creedence Clearwater Revival","language":"en","popularity":2}
 ]
