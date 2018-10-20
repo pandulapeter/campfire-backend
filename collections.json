@@ -44,7 +44,8 @@
     "bon_jovi-its_my_life",
     "danger_danger-bang_bang",
     "twisted_sister-we_re_not_gonna_take_it",
-    "skid_row-18_and_life"
+    "skid_row-18_and_life",
+    "bon_jovi-livin_on_a_prayer"
 ],"language":["en"],"popularity":3,"isExplicit":"false","date":1530362601},{
 "id":"pop-rock-hits","title":"Pop Rock Hits","description":"The best earworms from the radio","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=pop-rock-hits","songs":[
     "walk_the_moon-shut_up_and_dance",

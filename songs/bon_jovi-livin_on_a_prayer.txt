@@ -1,6 +1,6 @@
 {I}
 [Em]    [x8]
-[C]    [D]    [Em]
+[C]    [D]    [Em]    [Em]
 [C]Once upon a time [D]not so long ago...   [Em]
 
 {V_1}
@@ -23,9 +23,9 @@ We'll [D]give it a shot.
 
 {C}
 [Em]Woah[C], we're [D]half way there,
-[G]Woah[C], li[D]vin' on a prayer.
+[G]Woa[C]h, li[D]vin' on a prayer.
 [Em]Take my [C]hand, we'll [D]make it I swear,
-[G]Woah[C], li[D]vin' on a prayer.
+[G]Woa[C]h, li[D]vin' on a prayer.
 
 {B_1}
 [Em]
@@ -50,9 +50,9 @@ We'll [D]give it a shot.
 
 {C}
 [Em]Woah[C], we're [D]half way there,
-[G]Woah[C], li[D]vin' on a prayer.
+[G]Woa[C]h, li[D]vin' on a prayer.
 [Em]Take my [C]hand, we'll [D]make it I swear,
-[G]Woah[C], li[D]vin' on a prayer.
+[G]Woa[C]h, li[D]vin' on a prayer.
 
 {S}
 [Csus2]Livin' on a prayer!
@@ -67,18 +67,18 @@ You [C]live for the fight when it's [D]all that you've got!
 
 {C}
 [Gm]Woah[D#], we're [F]half way there,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
 [Gm]Take my [D#]hand, we'll [F]make it I swear,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
 
 {C}
 [Gm]Woah[D#], we're [F]half way there,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
 [Gm]Take my [D#]hand, we'll [F]make it I swear,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
 
 {C}
 [Gm]Woah[D#], we're [F]half way there,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
 [Gm]Take my [D#]hand, we'll [F]make it I swear,
-[A#]Woah[D#], li[F]vin' on a prayer.
+[A#]Woa[D#]h, li[F]vin' on a prayer.
