@@ -21,24 +21,26 @@ And [G]if you try to fuck with me, then [A#]I shall fuck you [A]too!
 [C]Gotta get it [G]on in the party [A]zone!   [D]    [A]    [D]    [A]
 [C]I got to shoot a [G]load in the party [A]zone!   [D]    [A]    [D]    [A]
 [C]Gotta lick a [G]toad in the party [A]zone!   [D]    [A]    [D]    [A]
-[C]Gotta suck a [G]chode in the party [A]zone!   [D]    [A]    [D]    [A -]
+[C]Gotta suck a [G]chode in the party [A]zone!   [D]    [A]    [D]    [A]
+[-]
 
 {B_1}
-[G]    [A#]    [F]    [G#]
+[G5]    [A#5]    [F5]    [G#5]
 
 {V_4}
-You've [G]disobeyed my orders, son, why [A#]were you ever born?
-Your [F]brother's ten times better than you, [G#]Jesus loves him more.
-This [G]music that you play for us comes [A#]from the depths of hell,
-[F]Rock and roll's the Devil's work, he [G#]wants you to rebel!
-You'll be[G]come a mindless puppet, Beelze[A#]bub will pull the strings,
-Your [F]heart will lose direction and [G#]chaos it will [G]bring.
+You've [G5]disobeyed my orders, son, why [A#5]were you ever born?
+Your [F5]brother's ten times better than you, [G#5]Jesus loves him more.
+This [G5]music that you play for us comes [A#5]from the depths of hell,
+[F5]Rock and roll's the Devil's work, he [G#5]wants you to rebel!
+You'll be[G5]come a mindless puppet, Beelze[A#5]bub will pull the strings,
+Your [F5]heart will lose direction and [G#5]chaos it will [G5]bring.
 
 {C_5}
-[A#]You'd better shut your [F]mouth, better watch your [G]tone.   [C]    [G]    [C]    [G]
-[A#]You're grounded for a [F]week with no tele[G]phone.   [C]    [G]    [C]    [G]
-[A#]Don't let me here you [F]cry, don't let me hear you [G]moan.   [C]    [G]    [C]    [G]
-[A#]You gotta praise the [F]Lord when you're in my [G]home!   [C]    [G]    [C]    [G -]
+[A#]You'd better shut your [F]mouth, better watch your [G5]tone.   [C5]    [G5]    [C5]    [G5]
+[A#]You're grounded for a [F]week with no tele[G5]phone.   [C5]    [G5]    [C5]    [G5]
+[A#]Don't let me here you [F]cry, don't let me hear you [G5]moan.   [C5]    [G5]    [C5]    [G5]
+[A#]You gotta praise the [F]Lord when you're in my [G5]home!   [C5]    [G5]    [C5]    [G5]
+[-]
 
 {V_6}
 [G]Dio, can you hear me? I am [A#]lost and so alone,
@@ -52,16 +54,16 @@ I'll [F]never rock as long as I am [G#]stuck here with my dad.
 [G5]    [A#5]    [F5]    [G#5]
 
 {V_7}
-I [C -]hear you brave young Jaybles, you are [C -]hungry for the rock,
-But to [C -]learn the ancient method, sacred [A#]doors you must unlock.
-Es[C -]cape your father's clutches and this opp[C -]ressive neighborhood,
-On a [C -]journey you must go to find the [A#]land of Holly[C]wood.
+I [C5 -]hear you brave young Jaybles, you are [C5 -]hungry for the rock,
+But to [C5 -]learn the ancient method, sacred [A#5]doors you must unlock.
+Es[C5 -]cape your father's clutches and this opp[C5 -]ressive neighborhood,
+On a [C5 -]journey you must go to find the [A#5]land of Holly[C5]wood.
 
 {V_8}
-In the [C]City of Fallen Angels, where the [F]ocean meets the [G#]sand,
-You will [C]form a strong alliance and the [F]world's most awesome [G#]band.
-To [C]find your fame and fortune, through the [F]valley you must [G#]walk,
-You will [C]face your inner demons, now [F]go my [G#]son and rock!
+In the [C5]City of Fallen Angels, where the [F5]ocean meets the [G#5]sand,
+You will [C5]form a strong alliance and the [F5]world's most awesome [G#5]band.
+To [C5]find your fame and fortune, through the [F5]valley you must [G#5]walk,
+You will [C5]face your inner demons, now [F5]go my [G#5]son and rock!
 
 {B_3}
 [(]  [G5]        [D#5]    [D5]    [)]  [x3]
@@ -70,9 +72,10 @@ You will [C]face your inner demons, now [F]go my [G#]son and rock!
     [C5]    [D5]    [D#5]    [F5]
 
 {O}
-So he [G]bailed from fuckin' Kickapoo with hunger in his heart,
-And he [D]journeyed far and wide to find the secrets of his art,
-But [A#]in the end he knew that he would [C]find his counterpart.
+So he [G5]bailed from fuckin' Kickapoo with hunger in his heart,
+And he [D5]journeyed far and wide to find the secrets of his art,
+But [A#5]in the end he knew that he would [C5]find his counterpart.
+Rock!
 [(]  [G5]        [D#5]    [D5]    [)]  [x3]
     [C5]    [D5]    [D#5]    [F5]
 [(]  [G5]        [D#5]    [D5]    [)]  [x3]
