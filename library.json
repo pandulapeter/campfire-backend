@@ -149,7 +149,7 @@
 "id":"skid_row-18_and_life","title":"18 and Life","artist":"Skid Row","language":"en","popularity":6},{
 "id":"ray_charles-hit_the_road_jack","title":"Hit the Road Jack","artist":"Ray Charles","language":"en","popularity":7},{
 "id":"johnny_nash-i_can_see_clearly_now","title":"I Can See Clearly Now","artist":"Johnny Nash","language":"en","popularity":6},{
-"id":"george_harrison-i_got_my_mind_set_on_you","title":"I Got My Mind Set On You","artist":"George Harrison","version":1,"language":"en","popularity":6},{
+"id":"george_harrison-got_my_mind_set_on_you","title":"Got My Mind Set On You","artist":"George Harrison","language":"en","popularity":6},{
 "id":"ugly_kid_joe-everything_about_you","title":"Everything About You","artist":"Ugly Kid Joe","language":"en","isExplicit":"true","popularity":4},{
 "id":"good_charlotte-the_anthem","title":"The Anthem","artist":"Good Charlotte","isExplicit":"true","language":"en","popularity":4},{
 "id":"eagle_eye_cherry-save_tonight","title":"Save Tonight","artist":"Eagle-Eye Cherry","language":"en","popularity":6},{
@@ -161,5 +161,5 @@
 "id":"mr_big-wild_world","title":"Wild World","artist":"Mr. Big","language":"en","popularity":6},{
 "id":"steel_panther-girl_from_oklahoma","title":"Girl from Oklahoma","artist":"Steel Panther","language":"en","isExplicit":"true","version":1,"popularity":3},{
 "id":"bon_jovi-livin_on_a_prayer","title":"Livin' on a Prayer","artist":"Bon Jovi","language":"en","version":1,"popularity":6},{
-"id":"bonnie_tyler-holding_out_for_a_hero","title":"Holding out for a Hero","artist":"Bonnie Tyler","language":"en","popularity":5}
+"id":"bonnie_tyler-holding_out_for_a_hero","title":"Holding out for a Hero","artist":"Bonnie Tyler","language":"en","version":1,"popularity":5}
 ]

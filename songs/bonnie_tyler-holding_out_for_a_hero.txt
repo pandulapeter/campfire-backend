@@ -1,7 +1,7 @@
 {I}
     [F]    [Am]    [Am]
 [(]  [Am]        [Am7/G]
-    [F]        [Esus4]    [E]    [)]  [x2]
+    [F]        [Esus4]        [E]    [)]  [x2]
 
 {V_1}
 [Am]Where have all the good men gone,
@@ -29,7 +29,7 @@ And he's [C]gotta be larger than [G]life.
 
 {B_1}
 Larger than [Am]life.   [Am7/G]
-[F]        [Esus4]    [E]
+[F]        [Esus4]        [E]
 
 {V_2}
 [Am]Somewhere after midnight,
@@ -72,8 +72,8 @@ I'm holding out for a
 [Am]Through the wind, and the chill, and the rain,
 [F]And the storm, and the flood,
 [Dm]I can feel his app[E]roach like a fire in my [Am]blood.
-[Cdim]    [x4]
-[Esus4]    [E]
+[Cdim]        [x4]
+[Esus4]        [E]
 
 {C}
 I need a [Am]hero.
