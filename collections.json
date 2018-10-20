@@ -99,5 +99,13 @@
     "lynyrd_skynyrd-simple_man",
     "olivia_newton_john-the_banks_of_the_ohio",
     "the_beatles-yesterday"
-],"language":["en"],"popularity":5,"isExplicit":"false","date":1535558445}
+],"language":["en"],"popularity":5,"isExplicit":"false","date":1535558445},{
+"id":"disco-music","title":"Disco Music","description":"Late 70s, 80s and early 90s dance music.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=disco-music","songs":[
+    "cher-strong_enough",
+    "george_harrison-i_got_my_mind_set_on_you",
+    "bonnie_tyler-holding_out_for_a_hero",
+    "donna_summer-hot_stuff",
+    "eddy_grant-gimme_hope_joanna",
+    "katrina_the_waves-walking_on_sunshine"
+],"language":["en"],"popularity":3,"isExplicit":"false","date":1540015427}
 ]
