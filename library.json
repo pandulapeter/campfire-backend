@@ -159,5 +159,6 @@
 "id":"chris_isaak-wicked_game","title":"Wicked Game","artist":"Chris Isaak","language":"en","popularity":5},{
 "id":"cat_stevens-wild_world","title":"Wild World","artist":"Cat Stevens","language":"en","popularity":5},{
 "id":"mr_big-wild_world","title":"Wild World","artist":"Mr. Big","language":"en","popularity":6},{
-"id":"steel_panther-girl_from_oklahoma","title":"Girl from Oklahoma","artist":"Steel Panther","language":"en","isExplicit":"true","version":1,"popularity":3}
+"id":"steel_panther-girl_from_oklahoma","title":"Girl from Oklahoma","artist":"Steel Panther","language":"en","isExplicit":"true","version":1,"popularity":3},{
+"id":"bon_jovi-livin_on_a_prayer","title":"Livin' on a Prayer","artist":"Bon Jovi","language":"en","popularity":6}
 ]
