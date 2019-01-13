@@ -167,5 +167,6 @@
 "id":"creedence_clearwater_revival-fortunate_son","title":"Fortunate Son","artist":"Creedence Clearwater Revival","language":"en","popularity":4},{
 "id":"creedence_clearwater_revival-down_on_the_corner","title":"Down on the Corner","artist":"Creedence Clearwater Revival","language":"en","popularity":2},{
 "id":"tenacious_d-kickapoo","title":"Kickapoo","artist":"Tenacious D","language":"en","isExplicit":"true","version":1,"popularity":3},{
-"id":"alter_bridge-watch_over_you","title":"Watch Over You","artist":"Alter Bridge","language":"en","version":1,"popularity":4}
+"id":"alter_bridge-watch_over_you","title":"Watch Over You","artist":"Alter Bridge","language":"en","version":1,"popularity":4},{
+"id":"uncle_kracker-follow_me","title":"Follow Me","artist":"Uncle Kracker","language":"en","popularity":2}
 ]
