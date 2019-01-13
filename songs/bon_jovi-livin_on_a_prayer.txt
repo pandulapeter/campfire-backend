@@ -17,7 +17,7 @@ For [C]love, [D]for love.   [Em]
 
 {P_1}
 She says, we've got to [C]hold [D]on to what we've [Em]got,
-It [C]doesn't make a [D]difference if we make it or [E]not,
+It [C]doesn't make a [D]difference if we make it or [Em]not,
 We've [C]got each [D]other and that's a [Em]lot for [C]love,
 We'll [D]give it a shot.
 
@@ -44,7 +44,7 @@ Some[Em]day.
 
 {P_1}
 We've got to [C]hold [D]on to what we've [Em]got,
-It [C]doesn't make a [D]difference if we make it or [E]not,
+It [C]doesn't make a [D]difference if we make it or [Em]not,
 We've [C]got each [D]other and that's a [Em]lot for [C]love,
 We'll [D]give it a shot.
 
