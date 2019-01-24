@@ -1,16 +1,20 @@
 {I}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)] [x2]
+    [Cadd9]        [G/B]     [G]    [)] [x2]
 
 {V_1}
-[D5]Night
-[Cadd9]Falls [G/B]and I'[G]m a[D5]lone.   [Cadd9]    [G/B]    [G]
-[D5]Skin, yeah,
-[Cadd9]Chilled me [G/B]to t[G]he b[D5]one.   [Cadd9]    [G/B]    [G]
-[D5]You
-[Cadd9]Turned [G/B]and y[G]ou [D5]ran.   [Cadd9]    [G/B]    [G]
-Oh, [D5]slipped
-[Cadd9]Right [G/B]from [G]my [D5]hand.   [Cadd9]    [G/B]    [G]
+[D5]Night   [Cadd9]
+Falls[G/B] and I'[G]m a[D5]lone.
+[Cadd9]        [G/B]     [G]
+[D5]Skin, yeah,[Cadd9]
+Chilled m[G/B]e to t[G]he b[D5]one.
+[Cadd9]        [G/B]     [G]
+[D5]You   [Cadd9]
+Turned[G/B] and y[G]ou [D5]ran.
+[Cadd9]        [G/B]     [G]
+Oh, [D5]slipped   [Cadd9]
+Right[G/B] from m[G]y [D5]hand.
+[Cadd9]        [G/B]     [G]
 
 {C}
 [D5]Blue on black,
@@ -28,17 +32,21 @@ Blue on black.
 
 {B}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)]  [x2]
+    [Cadd9]        [G/B]     [G]    [)]  [x2]
 
 {V_2}
-[D5]Blind
-[Cadd9]Oh, n[G/B]ow [G]I [D5]see.   [Cadd9]    [G/B]    [G]
-[D5]Truth,
-[Cadd9]Lies a[G/B]nd in[G] bet[D5]ween.   [Cadd9]    [G/B]    [G]
-[D5]Wrong
-[Cadd9]Can't [G/B]be [G]und[D5]one,   [Cadd9]    [G/B]    [G]
-Oh, [D5]slipped
-[Cadd9]From the[G/B] tip of [G]your [D5]tongue.   [Cadd9]    [G/B]    [G]
+[D5]Blind   [Cadd9]
+Oh[G/B], now [G]I s[D5]ee.
+[Cadd9]        [G/B]     [G]
+[D5]Truth,   [Cadd9]
+Lies [G/B]and in[G] betw[D5]een.
+[Cadd9]        [G/B]     [G]
+[D5]Wrong   [Cadd9]
+Can'[G/B]t be[G] und[D5]one,
+[Cadd9]        [G/B]     [G]
+Oh, [D5]slipped   [Cadd9]
+From the[G/B] tip of y[G]our [D5]tongue.
+[Cadd9]        [G/B]     [G]
 
 {C}
 [D5]Blue on black,
@@ -56,11 +64,11 @@ Blue on black.
 
 {B}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)]  [x2]
+    [Cadd9]        [G/B]     [G]    [)]  [x2]
 
 {S}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)]  [x6]
+    [Cadd9]        [G/B]     [G]    [)]  [x6]
 [(]  [F]        [F]
     [G]        [G]    [)]  [x2]
 
@@ -81,7 +89,7 @@ Blue on black.
 
 {B}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)]  [x2]
+    [Cadd9]        [G/B]     [G]    [)]  [x2]
 
 
 {C}
@@ -100,4 +108,4 @@ Blue on black.
 
 {O}
 [(]  [D5]        [D5]
-    [Cadd9]        [G/B]    [G]    [)]  [x4]
+    [Cadd9]        [G/B]     [G]    [)]  [x4]
