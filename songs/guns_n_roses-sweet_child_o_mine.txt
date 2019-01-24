@@ -58,7 +58,7 @@ Sweet love of [D]mine.   [D#]
 
 {S_3}
 [(]  [Em]        [C]        [B]        [A]        [)]  [x4]
-    [A]    [A]
+    [A]        [A]
 [(]  [Em]        [G]        [A]        [C]    [D]    [)]  [x4]
 
 {O}
@@ -78,7 +78,7 @@ Oh, [A]where do we go now?   [C]    [D]
 [E]Where do we go?   [G]
 Oh, [A]where do we go now?
 [E5]Now, [D5]now, [B5]now,
-[B5]Now, [A5]now, [G]now, [Em]now.
+[B5]Now, [A5]now, [G5]now, [Em]now.
 Sweet [G]child,
 Sweet [A]child...   [C]    [D]
 ...of [Em]mine.
