@@ -176,5 +176,6 @@
 "id":"guns_n_roses-sweet_child_o_mine","title":"Sweet Child O' Mine","artist":"Guns N' Roses","language":"en","popularity":7},{
 "id":"jimmie_davis-you_are_my_sunshine","title":"You Are My Sunshine","artist":"Jimmie Davis","language":"en","popularity":2},{
 "id":"alice_cooper-poison","title":"Poison","artist":"Alice Cooper","language":"en","popularity":7},{
-"id":"scorpions-rock_you_like_a_hurricane","title":"Rock You Like a Hurricane","artist":"Scorpions","language":"en","isExplicit":"true","popularity":6}
+"id":"scorpions-rock_you_like_a_hurricane","title":"Rock You Like a Hurricane","artist":"Scorpions","language":"en","isExplicit":"true","popularity":6},{
+"id":"nickelback_photograph","title":"Photograph","artist":"Nickelback","language":"en","popularity":3}
 ]
