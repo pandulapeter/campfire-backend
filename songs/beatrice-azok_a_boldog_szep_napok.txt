@@ -1,65 +1,65 @@
 {I}
-[C]    [Am]    [F]    [G]
+[A]    [F#m]    [D]    [E]
 
 {V_1}
-Már csak [C]emlék,    [Am]
-Mikor még [F]nem voltál.    [G]
-Az volt az [C]igazi nyár,    [Am]
-Az [F]idő oly gyorsan [G]száll.
+Már csak [A]emlék,    [F#m]
+Mikor még [D]nem voltál.    [E]
+Az volt az [A]igazi nyár,    [F#m]
+Az [D]idő oly gyorsan [E]száll.
 
 {V_2}
-Amikor [C]nem vagy itt velem,    [Am]
-Elfog a [F]rettegés.    [G]
-Minden kis [C]zajra felébre[Am]dek,
-Mert [F]azt hiszem, megjöt[G]tél.
+Amikor [A]nem vagy itt velem,    [F#m]
+Elfog a [D]rettegés.    [E]
+Minden kis [A]zajra felébre[F#m]dek,
+Mert [D]azt hiszem, megjöt[E]tél.
 
 {B}
-[C]    [Am]    [F]    [G]
+[A]    [F#m]    [D]    [E]
 
 {V_3}
-Te [C]nem érzed,    [Am]
-Nem érzed [F]azt a kínt,    [G]
-Amikor [C]éjjel itt maradsz,    [Am]
-A [F]magányról álmodik a [G]remény.
+Te [A]nem érzed,    [F#m]
+Nem érzed [D]azt a kínt,    [E]
+Amikor [A]éjjel itt maradsz,    [F#m]
+A [D]magányról álmodik a [E]remény.
 
 {V_4}
-Ahogy [C]megjöttél, rögtön [Am]ősz lett,
-[F]Majd hirtelen [G]tél,
-[C]Más lett a föld és [Am]más a világ,
-[F]Havat hord a [G]szél.
+Ahogy [A]megjöttél, rögtön [F#m]ősz lett,
+[D]Majd hirtelen [E]tél,
+[A]Más lett a föld és [F#m]más a világ,
+[D]Havat hord a [E]szél.
 
 {C}
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
 
 {B}
-[C]    [Am]    [F]    [G]
+[A]    [F#m]    [D]    [E]
 
 {V_1}
-Ma már csak [C]emlék,    [Am]
-Mikor még [F]nem voltál.    [G]
-Az volt az [C]igazi nyár,    [Am]
-Az [F]idő oly' gyorsan [G]száll.
+Ma már csak [A]emlék,    [F#m]
+Mikor még [D]nem voltál.    [E]
+Az volt az [A]igazi nyár,    [F#m]
+Az [D]idő oly' gyorsan [E]száll.
 
 {V_5}
-A legszebb [C]pillanat, amikor [Am]búcsúzunk,
-[F]És a vonatra [G]felszállsz.
-Könnyes [C]szemmel arra [Am]gondolok,
-Hogy [-]nehogy lemarad[G]jál!
+A legszebb [A]pillanat, amikor [F#m]búcsúzunk,
+[D]És a vonatra [E]felszállsz.
+Könnyes [A]szemmel arra [F#m]gondolok,
+Hogy [-]nehogy lemarad[E]jál!
 
 {C}
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
 
 {C}
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
-Azok a [C]boldog, szép napok, [Am]ég veled!
-Te [F]nem tudod, milyen jó [G]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
+Azok a [A]boldog, szép napok, [F#m]ég veled!
+Te [D]nem tudod, milyen jó [E]nélküled.
 
 {O}
-[C]
+[A]
