@@ -178,5 +178,6 @@
 "id":"alice_cooper-poison","title":"Poison","artist":"Alice Cooper","language":"en","popularity":7},{
 "id":"scorpions-rock_you_like_a_hurricane","title":"Rock You Like a Hurricane","artist":"Scorpions","language":"en","isExplicit":"true","popularity":6},{
 "id":"nickelback_photograph","title":"Photograph","artist":"Nickelback","language":"en","popularity":3},{
-"id":"hooligans-hotel_mamor","title":"Hotel mámor","artist":"Hooligans","language":"hu","popularity":5}
+"id":"hooligans-hotel_mamor","title":"Hotel mámor","artist":"Hooligans","language":"hu","popularity":5},{
+"id":"elton_john-candle_in_the_wind","title":"Candle in the Wind","artist":"Elton John","language":"en","popularity":3}
 ]
