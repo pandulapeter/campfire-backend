@@ -1,74 +1,74 @@
 {I}
-[(]  [D]    [C]    [G]    [D]    [)]  [x2]
+[(]  [C#]    [B]    [F#]    [C#]    [)]  [x2]
 
 {V_1}
-[D]I'm gonna take a freight train,
-[C]Down at the station, Lord,
-[G]And I don't care where it [D]goes.
+[C#]I'm gonna take a freight train,
+[B]Down at the station, Lord,
+[F#]And I don't care where it [C#]goes.
 
 {V_2}
-[D]I am gonna climb a mountain,
-[C]The highest mountain, Lord,
-[G]Gonna jump off and nobody gonna [D]know.
+[C#]I am gonna climb a mountain,
+[B]The highest mountain, Lord,
+[F#]Gonna jump off and nobody gonna [C#]know.
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {V_3}
-[D]I'm gonna find me,
-[C]A whole in the wall,
-[G]I will crawl inside and [D]die.
+[C#]I'm gonna find me,
+[B]A whole in the wall,
+[F#]I will crawl inside and [C#]die.
 
 {V_4}
-[D]'Cause my lady,
-[C]A mean old woman, Lord,
-[G]She never told me good[D]bye.
+[C#]'Cause my lady,
+[B]A mean old woman, Lord,
+[F#]She never told me good[C#]bye.
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {S}
-[(]  [D]    [C]    [G]    [D]    [)]  [x2]
+[(]  [C#]    [B]    [F#]    [C#]    [)]  [x2]
 
 {V_5}
-[D]I'm gonna take it southbound,
-[C]Down to Georgia now,
-[G]I ain't never coming [D]back.
+[C#]I'm gonna take it southbound,
+[B]Down to Georgia now,
+[F#]I ain't never coming [C#]back.
 
 {V_6}
-[D]Gonna buy me a ticket, Lord,
-[C]Go as far as I can,
-[G]Till that train run out of [D]track.
+[C#]Gonna buy me a ticket, Lord,
+[B]Go as far as I can,
+[F#]Till that train run out of [C#]track.
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {C}
-Can't you [D]see,
-O[C]h, can't you see,
-What that [G]woman,
-She been doing to [D]me?
+Can't you [C#]see,
+O[B]h, can't you see,
+What that [F#]woman,
+She been doing to [C#]me?
 
 {O}
-[D]
+[C#]

@@ -1,5 +1,5 @@
 {I}
-[A]    [F#m]    [D]    [E]
+[A]   [F#m]     [D]    [E]
 
 {V_1}
 Már csak [A]emlék,    [F#m]
@@ -14,7 +14,7 @@ Minden kis [A]zajra felébre[F#m]dek,
 Mert [D]azt hiszem, megjöt[E]tél.
 
 {B}
-[A]    [F#m]    [D]    [E]
+[A]   [F#m]     [D]    [E]
 
 {V_3}
 Te [A]nem érzed,    [F#m]
@@ -35,7 +35,7 @@ Azok a [A]boldog, szép napok, [F#m]ég veled!
 Te [D]nem tudod, milyen jó [E]nélküled.
 
 {B}
-[A]    [F#m]    [D]    [E]
+[A]   [F#m]     [D]    [E]
 
 {V_1}
 Ma már csak [A]emlék,    [F#m]
