@@ -6,7 +6,7 @@ My [E]child arrived just the [G]other day,
 [A]Came to the world in the [E]usually way,
 But there were [E]planes to catch and [G]bills to pay,
 [A]He learned to walk while I [E]was away.
-He was [D]talkin' 'fore I [D/C#]knew it,
+And he was [D]talkin' 'fore I [D/C#]knew it,
 And [D/B]as he grew [D/A]he said,
 \"[G]I'm gonna [G/F#]be like [E]you, Dad.
 You [G]know I'm gonna [G/F#]be like [E]you.\"
@@ -14,8 +14,8 @@ You [G]know I'm gonna [G/F#]be like [E]you.\"
 {C}
 And the [E]cat's in the cradle and the [D]silver spoon,
 [G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
+[E]\"When you comin' home, Dad?\"
+\"I [D]don't know when,
 [G]We'll get to[G/F#]gether th[E]en,
 You [G]know we'll have a [G/F#]good time [E]then.\"
 
@@ -23,7 +23,7 @@ You [G]know we'll have a [G/F#]good time [E]then.\"
 [E]
 
 {V_2}
-Well, my [E]son turned ten just the [G]other day,
+My [E]son turned ten just the [G]other day,
 He said, \"[A]Thanks for the ball, Dad. Come [E]on, let's play!
 Could you [E]teach me to throw?\" I said, \"[G]Not today,
 I got a [A]lot to do.\" He said, \"[E]That's okay.\"
@@ -35,8 +35,8 @@ You [G]know I'm gonna [G/F#]be like [E]him.\"
 {C}
 And the [E]cat's in the cradle and the [D]silver spoon,
 [G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
+[E]\"When you comin' home, Dad?\"
+\"I [D]don't know when,
 [G]We'll get to[G/F#]gether th[E]en,
 You [G]know we'll have a [G/F#]good time [E]then.\"
 
@@ -46,7 +46,7 @@ You [G]know we'll have a [G/F#]good time [E]then.\"
 {V_3}
 Well, he [E]came from college just the [G]other day,
 So [A]much like a man I just [E]had to say,
-\"[E]I'm proud of you. Could you [G]sit for a while?\"
+\"Son, [E]I'm proud of you. Could you [G]sit for a while?\"
 He [A]shook his head and he [E]said with a smile,
 \"What I'd [D]really like, [D/C#]Dad,
 Is to [D/B]borrow the [D/A]car keys.
@@ -55,8 +55,8 @@ Is to [D/B]borrow the [D/A]car keys.
 {C}
 And the [E]cat's in the cradle and the [D]silver spoon,
 [G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
+[E]\"When you comin' home, Son?\"
+\"I [D]don't know when,
 [G]We'll get to[G/F#]gether th[E]en,
 You [G]know we'll have a [G/F#]good time [E]then.\"
 
@@ -83,18 +83,10 @@ My [G]boy was [G/F#]just like [E]me.
 {C}
 And the [E]cat's in the cradle and the [D]silver spoon,
 [G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
-
-{C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+[E]\"When you comin' home, Son?\"
+\"I [D]don't know when,
+But [G]we'll get to[G/F#]gether th[E]en, Dad.
+We're [G]gonna have a [G/F#]good time [E]then.\"
 
 {O}
 [E]
