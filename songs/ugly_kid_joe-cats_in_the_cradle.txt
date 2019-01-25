@@ -1,100 +1,100 @@
 {I}
-[E]
+[D#]
 
 {V_1}
-My [E]child arrived just the [G]other day,
-[A]Came to the world in the [E]usually way,
-But there were [E]planes to catch and [G]bills to pay,
-[A]He learned to walk while I [E]was away.
-He was [D]talkin' 'fore I [D/C#]knew it,
-And [D/B]as he grew [D/A]he said,
-\"[G]I'm gonna [G/F#]be like [E]you, Dad.
-You [G]know I'm gonna [G/F#]be like [E]you.\"
+My [D#]child arrived just the [F#]other day,
+[G#]Came to the world in the [D#]usually way,
+But there were [D#]planes to catch and [F#]bills to pay,
+[G#]He learned to walk while I [D#]was away.
+He was [C#]talkin' 'fore I [C#/C]knew it,
+And [C#/A#]as he grew [C#/G#]he said,
+\"[F#]I'm gonna [F#/F]be like [D#]you, Dad.
+You [F#]know I'm gonna [F#/F]be like [D#]you.\"
 
 {C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+And the [D#]cat's in the cradle and the [C#]silver spoon,
+[F#]Little boy blue and the [G#]man on the moon.
+[D#]\"When you comin' home?\"
+\"Son, I [C#]don't know when,
+[F#]We'll get to[F#/F]gether th[D#]en,
+You [F#]know we'll have a [F#/F]good time [D#]then.\"
 
 {B}
-[E]
+[D#]
 
 {V_2}
-Well, my [E]son turned ten just the [G]other day,
-He said, \"[A]Thanks for the ball, Dad. Come [E]on, let's play!
-Could you [E]teach me to throw?\" I said, \"[G]Not today,
-I got a [A]lot to do.\" He said, \"[E]That's okay.\"
-And he [D]walked a[D/C#]way,
-And he [D/B]smiled and he [D/A]said,
-\"You know, [G]I'm gonna [G/F#]be like [E]him, yeah.
-You [G]know I'm gonna [G/F#]be like [E]him.\"
+Well, my [D#]son turned ten just the [F#]other day,
+He said, \"[G#]Thanks for the ball, Dad. Come [D#]on, let's play!
+Could you [D#]teach me to throw?\" I said, \"[F#]Not today,
+I got a [G#]lot to do.\" He said, \"[D#]That's okay.\"
+And he [C#]walked a[C#/C]way,
+And he [C#/A#]smiled and he [C#/G#]said,
+\"You know, [F#]I'm gonna [F#/F]be like [D#]him, yeah.
+You [F#]know I'm gonna [F#/F]be like [D#]him.\"
 
 {C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+And the [D#]cat's in the cradle and the [C#]silver spoon,
+[F#]Little boy blue and the [G#]man on the moon.
+[D#]\"When you comin' home?\"
+\"Son, I [C#]don't know when,
+[F#]We'll get to[F#/F]gether th[D#]en,
+You [F#]know we'll have a [F#/F]good time [D#]then.\"
 
 {B}
-[E]
+[D#]
 
 {V_3}
-Well, he [E]came from college just the [G]other day,
-So [A]much like a man I just [E]had to say,
-\"[E]I'm proud of you. Could you [G]sit for a while?\"
-He [A]shook his head and he [E]said with a smile,
-\"What I'd [D]really like, [D/C#]Dad,
-Is to [D/B]borrow the [D/A]car keys.
-[G]See you [G/F#]later. Can I [E]have them please?\"
+Well, he [D#]came from college just the [F#]other day,
+So [G#]much like a man I just [D#]had to say,
+\"[D#]I'm proud of you. Could you [F#]sit for a while?\"
+He [G#]shook his head and he [D#]said with a smile,
+\"What I'd [C#]really like, [C#/C]Dad,
+Is to [C#/A#]borrow the [C#/G#]car keys.
+[F#]See you [F#/F]later. Can I [D#]have them please?\"
 
 {C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+And the [D#]cat's in the cradle and the [C#]silver spoon,
+[F#]Little boy blue and the [G#]man on the moon.
+[D#]\"When you comin' home?\"
+\"Son, I [C#]don't know when,
+[F#]We'll get to[F#/F]gether th[D#]en,
+You [F#]know we'll have a [F#/F]good time [D#]then.\"
 
 {S}
-[(]  [C]        [D]    [Bm]    [E]    [)]  [x2]
-    [E]
+[(]  [B]        [C#]    [A#]    [D#]    [)]  [x2]
+    [D#]
 
 {V_4}
-I've [E]long since retired, my [G]son's moved away.
-[A]I called him up just the [E]other day.    [E]
-\"I'd [E]like to see you, if [G]you don't mind.\"
-He said, \"I'd [A]love to, Dad, if I could [E]find the time.    [E]
-You see my [D]new job's a [D/C#]hassle,
-And the [D/B]kids have the [D/A]flu,
-But it's [G]sure nice [G/F#]talkin' to [E]you, Dad.
-It's been [G]sure nice [G/F#]talkin' to [E]you.\"
+I've [D#]long since retired, my [F#]son's moved away.
+[G#]I called him up just the [D#]other day.    [D#]
+\"I'd [D#]like to see you, if [F#]you don't mind.\"
+He said, \"I'd [G#]love to, Dad, if I could [D#]find the time.    [D#]
+You see my [C#]new job's a [C#/C]hassle,
+And the [C#/A#]kids have the [C#/G#]flu,
+But it's [F#]sure nice [F#/F]talkin' to [D#]you, Dad.
+It's been [F#]sure nice [F#/F]talkin' to [D#]you.\"
 
 {P}
-And as I [D]hung up the [D/C#]phone
-It oc[D/B]curred to [D/A]me,
-He'd [G]grown up [G/F#]just like [E]me.
-My [G]boy was [G/F#]just like [E]me.
+And as I [C#]hung up the [C#/C]phone
+It oc[C#/A#]curred to [C#/G#]me,
+He'd [F#]grown up [F#/F]just like [D#]me.
+My [F#]boy was [F#/F]just like [D#]me.
 
 {C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+And the [D#]cat's in the cradle and the [C#]silver spoon,
+[F#]Little boy blue and the [G#]man on the moon.
+[D#]\"When you comin' home?\"
+\"Son, I [C#]don't know when,
+[F#]We'll get to[F#/F]gether th[D#]en,
+You [F#]know we'll have a [F#/F]good time [D#]then.\"
 
 {C}
-And the [E]cat's in the cradle and the [D]silver spoon,
-[G]Little boy blue and the [A]man on the moon.
-[E]\"When you comin' home?\"
-\"Son, I [D]don't know when,
-[G]We'll get to[G/F#]gether th[E]en,
-You [G]know we'll have a [G/F#]good time [E]then.\"
+And the [D#]cat's in the cradle and the [C#]silver spoon,
+[F#]Little boy blue and the [G#]man on the moon.
+[D#]\"When you comin' home?\"
+\"Son, I [C#]don't know when,
+[F#]We'll get to[F#/F]gether th[D#]en,
+You [F#]know we'll have a [F#/F]good time [D#]then.\"
 
 {O}
-[E]
+[D#]
