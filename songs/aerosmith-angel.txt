@@ -1,85 +1,85 @@
 {I}
-          [E]        [B]    [A]
-[B]    [E]        [B]    [A]
-[B]    [E]        [B]    [A]
-[B]    [C#m]        [B]    [A]
-[Asus4]        [A]
+          [D#]        [A#]    [G#]
+[A#]    [D#]        [A#]    [G#]
+[A#]    [D#]        [A#]    [G#]
+[A#]    [Cm]        [A#]    [G#]
+[G#sus4]        [G#]
 
 {V_1}
-I'm a[E]lone,
-Yeah, I don't know if I can [A]face the night.   [Asus4]       [A]
-I'm in [E]tears,
-And the [C#m]cryin' that I do is for [G#m]you.   [A]
+I'm a[D#]lone,
+Yeah, I don't know if I can [G#]face the night.   [G#sus4]       [G#]
+I'm in [D#]tears,
+And the [Cm]cryin' that I do is for [Gm]you.   [G#]
 
 {B_1}
-[B]I want your [C#m]love,
-Let's [A]break the walls between us.
-[B]Don't make it [C#m]tough,
-I'll [A]put away my pride.
-[B]Enough's e[C#m]nough,
-I've [A]suffered and I've seen the [B]light, baby,
+[A#]I want your [Cm]love,
+Let's [G#]break the walls between us.
+[A#]Don't make it [Cm]tough,
+I'll [G#]put away my pride.
+[A#]Enough's e[Cm]nough,
+I've [G#]suffered and I've seen the [A#]light, baby,
 
 {C}
-You're my [E]angel,   [B]
-[A]Come and save me [B]ton[C#m]ight!   [B]    [A]
-You're [B]my [E]angel,   [B]
-[A]Come and make it [B]all r[C#m]ight!   [B]    [A]    [Asus4]       [A]
+You're my [D#]angel,   [A#]
+[G#]Come and save me [A#]ton[Cm]ight!   [A#]    [G#]
+You're [A#]my [D#]angel,   [A#]
+[G#]Come and make it [A#]all r[Cm]ight!   [A#]    [G#]    [G#sus4]       [G#]
 
 {V_2}
-[E]Don't know what I'm gonna do
-About this [A]feeling inside.   [Asus4]       [A]
-Yes it's [E]true,
-[C#m]Loneliness took me for a [G#m]ride.   [A]
+[D#]Don't know what I'm gonna do
+About this [G#]feeling inside.   [G#sus4]       [G#]
+Yes it's [D#]true,
+[Cm]Loneliness took me for a [Gm]ride.   [G#]
 
 {B_2}
-[B]Without your [C#m]love,
-I'm [A]nothing but a beggar.
-[B]Without your [C#m]love,
-A [A]dog without a bone.
-[B]What can I [C#m]do,
-I'm [A]sleeping in this bed a[B]lone, baby,
+[A#]Without your [Cm]love,
+I'm [G#]nothing but a beggar.
+[A#]Without your [Cm]love,
+A [G#]dog without a bone.
+[A#]What can I [Cm]do,
+I'm [G#]sleeping in this bed a[A#]lone, baby,
 
 {C}
-You're my [E]angel,   [B]
-[A]Come and save me [B]ton[C#m]ight!   [B]    [A]
-You're [B]my [E]angel,   [B]
-[A]Come and make it [B]all r[C#m]ight!   [B]    [A]
-Come and save me [B]tonight!
+You're my [D#]angel,   [A#]
+[G#]Come and save me [A#]ton[Cm]ight!   [A#]    [G#]
+You're [A#]my [D#]angel,   [A#]
+[G#]Come and make it [A#]all r[Cm]ight!   [A#]    [G#]
+Come and save me [A#]tonight!
 
 {S}
-          [E]        [B]    [A]
-[B]    [C#m]        [B]    [A]
-[B]    [E]        [B]    [A]
-[B]    [C#m]        [B]    [A]
-[B]    [B]
+          [D#]        [A#]    [G#]
+[A#]    [Cm]        [A#]    [G#]
+[A#]    [D#]        [A#]    [G#]
+[A#]    [Cm]        [A#]    [G#]
+[A#]    [A#]
 
 
 {B_3}
-You're the reason I [A]live,
-You're the reason I [E]die,
-You're the reason I [C#m]give,
-When I break down and [A]cry.
-Don't need no reason [B]why,
+You're the reason I [G#]live,
+You're the reason I [D#]die,
+You're the reason I [Cm]give,
+When I break down and [G#]cry.
+Don't need no reason [A#]why,
 Baby, baby, baby,
 
 {C}
-You're my [E]angel,   [B]
-[A]Come and save me [B]ton[C#m]ight!   [B]    [A]
-You're [B]my [E]angel,   [B]
-[A]Come and make it [B]all r[C#m]ight!   [B]    [A]
+You're my [D#]angel,   [A#]
+[G#]Come and save me [A#]ton[Cm]ight!   [A#]    [G#]
+You're [A#]my [D#]angel,   [A#]
+[G#]Come and make it [A#]all r[Cm]ight!   [A#]    [G#]
 
 {C}
-You're [B]my [E]angel,   [B]
-[A]Come and save me [B]ton[C#m]ight!   [B]    [A]
-You're [B]my [E]angel,   [B]
-[A]Come and make it [B]all r[C#m]ight!   [B]    [A]
+You're [A#]my [D#]angel,   [A#]
+[G#]Come and save me [A#]ton[Cm]ight!   [A#]    [G#]
+You're [A#]my [D#]angel,   [A#]
+[G#]Come and make it [A#]all r[Cm]ight!   [A#]    [G#]
 
 {O}
-Come and save me [B]toni[E]ght,
-Come and save me [B]toni[A]ght,
-Come and save me [B]toni[C#m]ght,
-Come and save me [B]toni[A]ght,
-Come and save me [B]toni[E]ght!
-                              [B]    [A]
-[B]    [C#m]        [B]    [A]
-[B]    [E]
+Come and save me [A#]toni[D#]ght,
+Come and save me [A#]toni[G#]ght,
+Come and save me [A#]toni[Cm]ght,
+Come and save me [A#]toni[G#]ght,
+Come and save me [A#]toni[D#]ght!
+                              [A#]    [G#]
+[A#]    [Cm]        [A#]    [G#]
+[A#]    [D#]
