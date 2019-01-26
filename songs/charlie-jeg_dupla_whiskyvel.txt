@@ -1,80 +1,80 @@
 {I}
-[C#5]
+[D5]
 
 {V_1}
-[C#5]Estefelé már szűk a szobám,
-[E5]Mint a sötét, úgy támad rám,
-[F#5]Valami erő: csak [A]menni, de [G#]bárho[C#5]vá.
+[D5]Estefelé már szűk a szobám,
+[F5]Mint a sötét, úgy támad rám,
+[G5]Valami erő: csak [A#]menni, de [A]bárho[D5]vá.
 
 {V_2}
-[C#5]Napok óta rossz zene szólt,
-[E5]Összetörtem a rádiót,
-[F#5]Blues a kedvem, de [A]senki se [G#]hangolt [C#5]rá.
+[D5]Napok óta rossz zene szólt,
+[F5]Összetörtem a rádiót,
+[G5]Blues a kedvem, de [A#]senki se [A]hangolt [D5]rá.
 
 {B}
-[-]    [C#5]    [D#5]    [E5]    [F5]
-Én [F#5]akkor se hívlak, ha
-[A]Darabokra [G#]hullok [C#5]szét.
-[-]    [C#5]    [D#5]    [E5]    [F5]
-[F#5]Régóta megvan a [A5]gyógyszer, ha valami [G#7]ég.
+[-]    [D5]    [E5]    [F5]    [F#5]
+Én [G5]akkor se hívlak, ha
+[A#]Darabokra [A]hullok [D5]szét.
+[-]    [D5]    [E5]    [F5]    [F#5]
+[G5]Régóta megvan a [A#5]gyógyszer, ha valami [A7]ég.
 
 {C}
-Jég dupla whisky[C#m]vel,
-Két dózis egy he[A]lyen,
-Egy a társaság mi[F#m]att, i[A]gen,
-Egy, hogy [G#7]jó napom le[C#5]gyen.
-Egy a rossz időkre [C#m]kell,
-Egy hogy jól aludjak [A]el,
-Már az ágyam is ke[F#m]mény, hi[A]deg,
-Mint a [G#7]jég a whisky[C#m]vel.
+Jég dupla whisky[Dm]vel,
+Két dózis egy he[A#]lyen,
+Egy a társaság mi[Gm]att, i[A#]gen,
+Egy, hogy [A7]jó napom le[D5]gyen.
+Egy a rossz időkre [Dm]kell,
+Egy hogy jól aludjak [A#]el,
+Már az ágyam is ke[Gm]mény, hi[A#]deg,
+Mint a [A7]jég a whisky[Dm]vel.
 
 {V_3}
-[C#5]A sűrű füsthöz lárma is jár,
-[E5]A zongoránál egy hajnali sztár,
-[F#5]Bal kezénél [A]összegyűlik [G#]pár po[C#5]hár.
+[D5]A sűrű füsthöz lárma is jár,
+[F5]A zongoránál egy hajnali sztár,
+[G5]Bal kezénél [A#]összegyűlik [A]pár po[D5]hár.
 
 {V_4}
-[C#5]Egy szőke beáll a pult mögé,
-[E5]Nevet rám, mintha sejtené,
-[F#5]Hazaviszem, ha [A]túl leszek [G#]rajtad [C#5]már.
-[-]    [C#5]    [D#5]    [E5]    [F5]
+[D5]Egy szőke beáll a pult mögé,
+[F5]Nevet rám, mintha sejtené,
+[G5]Hazaviszem, ha [A#]túl leszek [A]rajtad [D5]már.
+[-]    [D5]    [E5]    [F5]    [F#5]
 
 {B}
-[-]    [C#5]    [D#5]    [E5]    [F5]
-Én [F#5]akkor se hívlak, ha
-[A]Darabokra [G#]hullok [C#5]szét.
-[-]    [C#5]    [D#5]    [E5]    [F5]
-[F#5]Régóta megvan a [A5]gyógyszer, ha valami [G#7]ég.
+[-]    [D5]    [E5]    [F5]    [F#5]
+Én [G5]akkor se hívlak, ha
+[A#]Darabokra [A]hullok [D5]szét.
+[-]    [D5]    [E5]    [F5]    [F#5]
+[G5]Régóta megvan a [A#5]gyógyszer, ha valami [A7]ég.
 
 {C}
-Jég dupla whisky[C#m]vel,
-Két dózis egy he[A]lyen,
-Egy a társaság mi[F#m]att, i[A]gen,
-Egy, hogy [G#7]jó napom le[C#5]gyen.
-Egy a rossz időkre [C#m]kell,
-Egy hogy jól aludjak [A]el,
-Már az ágyam is hi[F#m]deg, i[A]gen,
-Mint a [G#7]jég a whisky[C#m]vel.
+Jég dupla whisky[Dm]vel,
+Két dózis egy he[A#]lyen,
+Egy a társaság mi[Gm]att, i[A#]gen,
+Egy, hogy [A7]jó napom le[D5]gyen.
+Egy a rossz időkre [Dm]kell,
+Egy hogy jól aludjak [A#]el,
+Már az ágyam is hi[Gm]deg, i[A#]gen,
+Mint a [A7]jég a whisky[Dm]vel.
 
 {S}
-[C#5]        [C#5]        [E5]        [E5]
-[F#5]        [A]    [G#]    [C#5]        [C#5]
-[C#5]        [C#5]        [E5]         [E5]
-[F#5]        [A]    [G#]    [C#5]
+[D5]        [D5]        [F5]        [F5]
+[G5]        [A#]    [A]    [D5]        [D5]
+[D5]        [D5]        [F5]         [F5]
+[G5]        [A#]    [A]    [D5]
 
 {B}
-[-]    [C#5]    [D#5]    [E5]    [F5]
-Én [F#5]akkor se hívlak, ha
-[A]Darabokra [G#]hullok [C#5]szét.
-[-]    [C#5]    [D#5]    [E5]    [F5]
-[F#5]Régóta megvan a [A5]gyógyszer, ha valami [G#7]ég.
+[-]    [D5]    [E5]    [F5]    [F#5]
+Én [G5]akkor se hívlak, ha
+[A#]Darabokra [A]hullok [D5]szét.
+[-]    [D5]    [E5]    [F5]    [F#5]
+[G5]Régóta megvan a [A#5]gyógyszer, ha valami [A7]ég.
 
 {C}
-Jég dupla whisky[C#m]vel,
-Két dózis egy he[A]lyen,
-Egy a társaság mi[F#m]att, i[A]gen,
-Egy, hogy [G#7]jó napom le[C#5]gyen.
-Egy a rossz időkre [C#m]kell,
-Egy hogy jól aludjak [A]el,
-Már az ágyam is hi[F#m]deg, i[A]gen,
-Mint a [G#7]jég a whisky[C#m]vel.
+Jég dupla whisky[Dm]vel,
+Két dózis egy he[A#]lyen,
+Egy a társaság mi[Gm]att, i[A#]gen,
+Egy, hogy [A7]jó napom le[D5]gyen.
+Egy a rossz időkre [Dm]kell,
+Egy hogy jól aludjak [A#]el,
+Már az ágyam is hi[Gm]deg, i[A#]gen,
+Mint a [A7]jég a whisky[Dm]vel.
