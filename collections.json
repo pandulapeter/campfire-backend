@@ -1,7 +1,7 @@
 [{
 "id":"slow-acoustic","title":"Slow Acoustic","description":"Mostly sad songs that are easy to play and easy to sing","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=slow-acoustic","songs":[
     "bob_dylan-blowin_in_the_wind",
-    "luis_armstrong-what_a_wonderful_world",
+    "louis_armstrong-what_a_wonderful_world.txt",
     "eric_clapton-tears_in_heaven",
     "leonard_cohen-hallelujah",
     "the_beatles-yesterday",
