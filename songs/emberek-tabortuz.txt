@@ -1,6 +1,5 @@
 {I}
-[D]    [D]    [Bm]    [Bm]
-[Em]    [Bm]    [A]    [A]
+[D]    [G]    [A]    [G]
 
 
 {V_1}
@@ -10,7 +9,7 @@ S ki a [Bm]csillagok közt él, mind aki [G]rég odaköltözött,
 [A7]Most visszatér s leül a [D]tűz mögött.
 
 {B}
-Sok [G]szív [F#m]mély[Em]én,
+Sok [G]szív [D/F#]mély[Em]én,
 Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
@@ -30,7 +29,7 @@ Hiszen [Bm]annyi minden volt, amire [G]nem jutott idő.
 [A7]Pár pillanat, most hogy legyen [D]múlt, jelen, jövő?
 
 {B}
-Sok [G]szív [F#m]mély[Em]én,
+Sok [G]szív [D/F#]mély[Em]én,
 Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
@@ -56,7 +55,7 @@ Ez a [Bm]tűz örökkön ég, semmi [G]nem dúlhatja szét,
 [A7]A lelkekért, akiket [D]rejt az ég.
 
 {B}
-Sok [G]szív [F#m]mély[Em]én,
+Sok [G]szív [D/F#]mély[Em]én,
 Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
