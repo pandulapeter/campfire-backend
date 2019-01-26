@@ -1,68 +1,68 @@
 {I}
-[(]  [G]    [Cadd9]      [)]  [x2]
+[(]  [F#]    [Badd9]      [)]  [x2]
 
 {V_1}
-[G]We both lie silently still
-In the [Cadd9]dead of the night.
-Although we [G]both lie close together,
-We feel [Cadd9]miles apart inside.
-Was it [G]something I said or [Cadd9]something I did?
-Did my [G]words not come out [Cadd9]right?
-Though I [D]tried not to hurt you,
-Though I [C]tried,
+[F#]We both lie silently still
+In the [Badd9]dead of the night.
+Although we [F#]both lie close together,
+We feel [Badd9]miles apart inside.
+Was it [F#]something I said or [Badd9]something I did?
+Did my [F#]words not come out [Badd9]right?
+Though I [C#]tried not to hurt you,
+Though I [B]tried,
 But I guess that's why they say
 
 {C}
-[G]Every rose has its [Cadd9]thorn,
-Just like [G]every night has its [Cadd9]dawn,
-Just like [G]every [D]cowboy sings a [C]sad, sad [G]song,
-[G]Every rose has its [C]thorn.
+[F#]Every rose has its [Badd9]thorn,
+Just like [F#]every night has its [Badd9]dawn,
+Just like [F#]every [C#]cowboy sings a [B]sad, sad [F#]song,
+[F#]Every rose has its [B]thorn.
 
 {S_1}
-[(]  [G]    [Cadd9]      [)]  [x2]
+[(]  [F#]    [Badd9]      [)]  [x2]
 
 {V_2}
-I [G]listen to our favorite song
-Playing on the [Cadd9]radio.
-Hear the [G]DJ say love's a game of easy come and
-[Cadd9]Easy go.
-But I [G]wonder does [Cadd9]he know?
-Has he [G]ever felt like [Cadd9]this?
-And I [D]know that you'd be here right now
-If I [C]could have let you know somehow, I guess
+I [F#]listen to our favorite song
+Playing on the [Badd9]radio.
+Hear the [F#]DJ say love's a game of easy come and
+[Badd9]Easy go.
+But I [F#]wonder does [Badd9]he know?
+Has he [F#]ever felt like [Badd9]this?
+And I [C#]know that you'd be here right now
+If I [B]could have let you know somehow, I guess
 
 {C}
-[G]Every rose has its [Cadd9]thorn,
-Just like [G]every night has its [Cadd9]dawn,
-Just like [G]every [D]cowboy sings a [C]sad, sad [G]song,
-[G]Every rose has its [C]thorn.
+[F#]Every rose has its [Badd9]thorn,
+Just like [F#]every night has its [Badd9]dawn,
+Just like [F#]every [C#]cowboy sings a [B]sad, sad [F#]song,
+[F#]Every rose has its [B]thorn.
 
 {B}
-[Em]Though it's been a [D]while now,
-I can [C]still feel so much [G]pain.
-[Em]Like a knife that [D]cuts you, the wound heals,
-[C]But the scar, that scar remains.
+[D#m]Though it's been a [C#]while now,
+I can [B]still feel so much [F#]pain.
+[D#m]Like a knife that [C#]cuts you, the wound heals,
+[B]But the scar, that scar remains.
 
 {S}
-[G]        [Cadd9]        [G]        [Cadd9]
-[Em]    [D]    [C]    [G]    [Em]    [D]    [C]    [C]
-[G]        [Cadd9]        [G]        [Cadd9]
+[F#]        [Badd9]        [F#]        [Badd9]
+[D#m]    [C#]    [B]    [F#]    [D#m]    [C#]    [B]    [B]
+[F#]        [Badd9]        [F#]        [Badd9]
 
 {V_3}
-[G]I know I could have saved a love that night
-If I'[Cadd9]d known what to say.
-In[G]stead of makin' love,
-We both [Cadd9]made our separate ways.
-And now I [G]hear you found some[Cadd9]body new,
-And that I [G]never meant that [Cadd9]much to you.
-To [D]hear that tears me up inside,
-And to [C]see you cuts me like a knife, I guess
+[F#]I know I could have saved a love that night
+If I'[Badd9]d known what to say.
+In[F#]stead of makin' love,
+We both [Badd9]made our separate ways.
+And now I [F#]hear you found some[Badd9]body new,
+And that I [F#]never meant that [Badd9]much to you.
+To [C#]hear that tears me up inside,
+And to [B]see you cuts me like a knife, I guess
 
 {C}
-[G]Every rose has its [Cadd9]thorn,
-Just like [G]every night has its [Cadd9]dawn,
-Just like [G]every [D]cowboy sings a [C]sad, sad [G]song,
-[G]Every rose has its [C]thorn.
+[F#]Every rose has its [Badd9]thorn,
+Just like [F#]every night has its [Badd9]dawn,
+Just like [F#]every [C#]cowboy sings a [B]sad, sad [F#]song,
+[F#]Every rose has its [B]thorn.
 
 {O}
-[G]
+[F#]
