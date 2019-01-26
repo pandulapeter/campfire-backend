@@ -1,84 +1,84 @@
 {I}
     [-]
-[(]  [D]        [C]        [G]        [D]    [)]  [x2]
+[(]  [C#]        [B]        [F#]        [C#]    [)]  [x2]
 
 {V_1}
-[D]She's got a smile it seems to me,
-Re[C]minds me of childhood memories,
-Where [G]everything was as fresh
-As the bright blue [D]sky.
+[C#]She's got a smile it seems to me,
+Re[B]minds me of childhood memories,
+Where [F#]everything was as fresh
+As the bright blue [C#]sky.
 
 {V_2}
-[D]Now and then when I see her face,
-She [C]takes me away to that special place,
-And if I'd [G]stare too long,
-I'd probably break down and [D]cry.
+[C#]Now and then when I see her face,
+She [B]takes me away to that special place,
+And if I'd [F#]stare too long,
+I'd probably break down and [C#]cry.
 
 {C}
-[A]Oh, oh, [C]oh,
-Sweet child o' [D]mine.
-[A]Oh, oh, oh, [C]oh,
-Sweet love of [D]mine.
+[G#]Oh, oh, [B]oh,
+Sweet child o' [C#]mine.
+[G#]Oh, oh, oh, [B]oh,
+Sweet love of [C#]mine.
 
 {S_1}
-[D]        [C]        [G]       [D]
+[C#]        [B]        [F#]       [C#]
 
 {V_3}
-[D]She's got eyes of the bluest skies,
-As [C]if they thought of rain,
-I [G]hate to look into those eyes
-And [D]see an ounce of pain.
+[C#]She's got eyes of the bluest skies,
+As [B]if they thought of rain,
+I [F#]hate to look into those eyes
+And [C#]see an ounce of pain.
 
 {V_4}
-Her [D]hair reminds me of a warm safe place,
-Where [C]as a child I'd hide,
-And [G]pray for the thunder and the rain
-To [D]quietly pass me by.
+Her [C#]hair reminds me of a warm safe place,
+Where [B]as a child I'd hide,
+And [F#]pray for the thunder and the rain
+To [C#]quietly pass me by.
 
 {C}
-[A]Oh, oh, [C]oh,
-Sweet child o' [D]mine.
-[A]Oh, oh, oh, [C]oh,
-Sweet love of [D]mine.
+[G#]Oh, oh, [B]oh,
+Sweet child o' [C#]mine.
+[G#]Oh, oh, oh, [B]oh,
+Sweet love of [C#]mine.
 
 {S_2}
-[(]  [D]        [C]        [G]        [D]    [)]  [x2]
+[(]  [C#]        [B]        [F#]        [C#]    [)]  [x2]
 
 {C}
-[A]Oh, oh, [C]oh,
-Sweet child o' [D]mine.
-[A]Oh, oh, oh, [C]oh,
-Sweet love of [D]mine.
+[G#]Oh, oh, [B]oh,
+Sweet child o' [C#]mine.
+[G#]Oh, oh, oh, [B]oh,
+Sweet love of [C#]mine.
 
 {C}
-[A]Oh, oh, oh, [C]oh,
-Sweet child o' [D]mine, oh, yeah, yeah,
-[A]Oh, [C]oh,
-Sweet love of [D]mine.   [D#]
+[G#]Oh, oh, oh, [B]oh,
+Sweet child o' [C#]mine, oh, yeah, yeah,
+[G#]Oh, [B]oh,
+Sweet love of [C#]mine.   [D]
 
 {S_3}
-[(]  [Em]        [C]        [B]        [A]        [)]  [x4]
-    [A]        [A]
-[(]  [Em]        [G]        [A]        [C]    [D]    [)]  [x4]
+[(]  [D#m]        [B]        [A#]        [G#]        [)]  [x4]
+    [G#]        [G#]
+[(]  [D#m]        [F#]        [G#]        [B]    [C#]    [)]  [x4]
 
 {O}
-[Em]Where do we go?
-[G]Where do we go now?
-[A]Where do we go?   [C]    [D]
-[Em]Where do we go?   [G]
-Oh, [A]where do we go now?   [C]    [D]
-[Em]Where do we go? ([G]Sweet child)
-Oh, [A]where do we go now?   [C]    [D]
-[Em]Ay-ay-ay-ay-[G]ay-ay-ay-ay,
-[A]Where do we go now, [C]oh?   [D]
-[Em]Where do we go?   [G]
-Oh, [A]where do we go now?   [C]    [D]
-[Em]Where do we go?   [G]
-Oh, [A]where do we go now?   [C]    [D]
-[E]Where do we go?   [G]
-Oh, [A]where do we go now?
-[E5]Now, [D5]now, [B5]now,
-[B5]Now, [A5]now, [G5]now, [Em]now.
-Sweet [G]child,
-Sweet [A]child...   [C]    [D]
-...of [Em]mine.
+[D#m]Where do we go?
+[F#]Where do we go now?
+[G#]Where do we go?   [B]    [C#]
+[D#m]Where do we go?   [F#]
+Oh, [G#]where do we go now?   [B]    [C#]
+[D#m]Where do we go? ([F#]Sweet child)
+Oh, [G#]where do we go now?   [B]    [C#]
+[D#m]Ay-ay-ay-ay-[F#]ay-ay-ay-ay,
+[G#]Where do we go now, [B]oh?   [C#]
+[D#m]Where do we go?   [F#]
+Oh, [G#]where do we go now?   [B]    [C#]
+[D#m]Where do we go?   [F#]
+Oh, [G#]where do we go now?   [B]    [C#]
+[D#]Where do we go?   [F#]
+Oh, [G#]where do we go now?
+[D#5]Now, [C#5]now, [A#5]now,
+[A#5]Now, [G#5]now, [F#5]now, [D#m]now.
+Sweet [F#]child,
+Sweet [G#]child...   [B]    [C#]
+...of [D#m]mine.
