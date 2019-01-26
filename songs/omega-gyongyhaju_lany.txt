@@ -1,63 +1,63 @@
 {I}
-[Em]    [D]    [Am]     [Em]    [x4]
-[G]    [D]    [Am]     [Em]    [x4]
+[Fm]    [D#]    [A#m]     [Fm]    [x4]
+[Ab]    [D#]    [A#m]     [Fm]    [x4]
 
 {V_1}
-[Em]Egyszer a [D]Nap [Am]úgy el[Em]fáradt,
-[Em]Elaludt [D]mély [Am]zöld tó ö[Em]lén.
-[Em]Az embe[D]reknek [Am]fájt a sö[Em]tét,
-[Em]Ő megsaj[D]nált, [Am]eljött kö[Em]zénk.
+[Fm]Egyszer a [D#]Nap [A#m]úgy el[Fm]fáradt,
+[Fm]Elaludt [D#]mély [A#m]zöld tó ö[Fm]lén.
+[Fm]Az embe[D#]reknek [A#m]fájt a sö[Fm]tét,
+[Fm]Ő megsaj[D#]nált, [A#m]eljött kö[Fm]zénk.
 
 {C}
-Igen, [G]jött egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Így lett [D]a föld, az ég,
-[Am]Zöld meg kék, mint [Em]rég.
+Igen, [Ab]jött egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Így lett [D#]a föld, az ég,
+[A#m]Zöld meg kék, mint [Fm]rég.
 
 {C}
-Igen, [G]jött egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Lá-lá, [D]lá lá-lá-lá,
-[Am]Lá-lá-lá-lá-[Em]lá.
+Igen, [Ab]jött egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Lá-lá, [D#]lá lá-lá-lá,
+[A#m]Lá-lá-lá-lá-[Fm]lá.
 
 {V_2}
-[Em]A hajnal [D]kelt, [Am]ő haza[Em]ment,
-[Em]Kék hegy mö[D]gé, [Am]virág [Em]közé.
-[Em]Kis kék ele[D]fánt, [Am]mesét me[Em]sélt,
-[Em]Szép gyöngyha[D]ján [Am]alszik a [Em]fény.
+[Fm]A hajnal [D#]kelt, [A#m]ő haza[Fm]ment,
+[Fm]Kék hegy mö[D#]gé, [A#m]virág [Fm]közé.
+[Fm]Kis kék ele[D#]fánt, [A#m]mesét me[Fm]sélt,
+[Fm]Szép gyöngyha[D#]ján [A#m]alszik a [Fm]fény.
 
 {C}
-Igen, [G]él egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Gyöngyhaj [D]azóta ég,
-[Am]Mély tengerben [Em]él.
+Igen, [Ab]él egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Gyöngyhaj [D#]azóta ég,
+[A#m]Mély tengerben [Fm]él.
 
 {C}
-Igen, [G]jött egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Lá-lá, [D]lá lá-lá-lá,
-[Am]Lá-lá-lá-lá-[Em]lá.
+Igen, [Ab]jött egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Lá-lá, [D#]lá lá-lá-lá,
+[A#m]Lá-lá-lá-lá-[Fm]lá.
 
 {S}
-[Em]    [D]    [Am]     [Em]    [x4]
+[Fm]    [D#]    [A#m]     [Fm]    [x4]
 
 {V_3}
-[Em]Mikor na[D]gyon [Am]egyedül [Em]vagy,
-[Em]Lehull hoz[D]zád [Am]egy kis [Em]csillag.
-[Em]Hófehér [D]gyöngyök [Am]vezesse[Em]nek,
-[Em]Mint jó ván[D]dort [Am]fehér kö[Em]vek.
+[Fm]Mikor na[D#]gyon [A#m]egyedül [Fm]vagy,
+[Fm]Lehull hoz[D#]zád [A#m]egy kis [Fm]csillag.
+[Fm]Hófehér [D#]gyöngyök [A#m]vezesse[Fm]nek,
+[Fm]Mint jó ván[D#]dort [A#m]fehér kö[Fm]vek.
 
 {C}
-Igen, [G]hív egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Rám vár [D]gyöngye mögött,
-[Am]Ég és föld kö[Em]zött.
+Igen, [Ab]hív egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Rám vár [D#]gyöngye mögött,
+[A#m]Ég és föld kö[Fm]zött.
 
 {C}
-Igen, [G]jött egy [D]gyöngyhajú lány,
-[Am]Álmodtam, vagy [Em]igaz talán.
-[G]Lá-lá, [D]lá lá-lá-lá,
-[Am]Lá-lá-lá-lá-[Em]lá.
+Igen, [Ab]jött egy [D#]gyöngyhajú lány,
+[A#m]Álmodtam, vagy [Fm]igaz talán.
+[Ab]Lá-lá, [D#]lá lá-lá-lá,
+[A#m]Lá-lá-lá-lá-[Fm]lá.
 
 {O}
-[G]    [D]    [Am]     [Em]    [x4]
+[Ab]    [D#]    [A#m]     [Fm]    [x4]
