@@ -1,56 +1,56 @@
 {I}
-[(]  [G]    [D]    [C]    [C]    [)]  [x4]
+[(]  [F#]    [C#]    [B]    [B]    [)]  [x4]
 
 {V_1}
-[G]Mama [D]take this badge from [Am]me,
-[G]I can't [D]use it any[C]more.
-[G]It's getting [D]dark too dark to [Am]see,
-[G]Feels like I'm [D]knockin' on heaven's [C]door.
+[F#]Mama [C#]take this badge from [G#m]me,
+[F#]I can't [C#]use it any[B]more.
+[F#]It's getting [C#]dark too dark to [G#m]see,
+[F#]Feels like I'm [C#]knockin' on heaven's [B]door.
 
 {C}
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
 
 {S_1}
-[(]  [G]    [D]    [C]    [C]    [)]  [x4]
+[(]  [F#]    [C#]    [B]    [B]    [)]  [x4]
 
 {V_2}
-[G]Mama [D]put my guns in the [Am]ground,
-[G]I can't [D]shoot them [C]anymore.
-[G]That cold black [D]cloud is comin' [Am]down,
-[G]Feels like I'm [D]knockin' on heaven's [C]door.
+[F#]Mama [C#]put my guns in the [G#m]ground,
+[F#]I can't [C#]shoot them [B]anymore.
+[F#]That cold black [C#]cloud is comin' [G#m]down,
+[F#]Feels like I'm [C#]knockin' on heaven's [B]door.
 
 {C}
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
 
 {S_2}
-[(]  [G]    [D]    [C]    [C]    [)]  [x6]
+[(]  [F#]    [C#]    [B]    [B]    [)]  [x6]
 
 {B}
-[(]  [G]    [D]    [C]    [C]    [)]  [x2]
+[(]  [F#]    [C#]    [B]    [B]    [)]  [x2]
 
 {C}
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
-[G](Knock-knock-[D]knockin' on heaven's [C]door).
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
-[G](Knock-knock-[D]knockin' on heaven's [C]door).
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
+[F#](Knock-knock-[C#]knockin' on heaven's [B]door).
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
+[F#](Knock-knock-[C#]knockin' on heaven's [B]door).
 
 {C}
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
-[G](Knock-knock-[D]knockin' on heaven's [C]door).
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
-[G](Knock[-]-knock-knockin' on heaven's [C]door).
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
+[F#](Knock-knock-[C#]knockin' on heaven's [B]door).
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
+[F#](Knock[-]-knock-knockin' on heaven's [B]door).
 
 {C}
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door,
-[G]Knock-knock-[D]knockin' on heaven's [C]door.
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door,
+[F#]Knock-knock-[C#]knockin' on heaven's [B]door.
 
 {O}
-[C]    [G]
+[B]    [F#]
