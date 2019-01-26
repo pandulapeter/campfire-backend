@@ -1,73 +1,73 @@
 {I}
-[Am]    [Am]    [Dm]    [E]    [x3]
+[Gm]    [Gm]    [Cm]    [D]    [x3]
 
 {C}
-[Am]Álmaim kéklő egén,
-[Am]Gyümölcsfáim tetején,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
-[Am]Nyújtsd hát a karod felém,
-[Am]Nélküled meghalok én,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
+[Gm]Álmaim kéklő egén,
+[Gm]Gyümölcsfáim tetején,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
+[Gm]Nyújtsd hát a karod felém,
+[Gm]Nélküled meghalok én,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
 
 {V_1}
-Ha egyszer [Am]elindulunk lefelé,
-Mert [Dm]előttünk a lej[E]tő.
-[Am]Folyékony királynő, kérlek,
-Te [Dm]légy a búfelej[E]tő!
+Ha egyszer [Gm]elindulunk lefelé,
+Mert [Cm]előttünk a lej[D]tő.
+[Gm]Folyékony királynő, kérlek,
+Te [Cm]légy a búfelej[D]tő!
 
 {B_1}
-[F]Tölts hát a [G]poharamba
-[C]Még egy kortyot [Am]angyalom,
-[Dm]Ma éjjel [G]mindenemet [C]elmula[E]tom!   [E7]
+[D#]Tölts hát a [F]poharamba
+[A#]Még egy kortyot [Gm]angyalom,
+[Cm]Ma éjjel [F]mindenemet [A#]elmula[D]tom!   [D7]
 
 {C}
-[Am]Álmaim kéklő egén,
-[Am]Gyümölcsfáim tetején,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
-[Am]Nyújtsd hát a karod felém,
-[Am]Nélküled meghalok én,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
+[Gm]Álmaim kéklő egén,
+[Gm]Gyümölcsfáim tetején,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
+[Gm]Nyújtsd hát a karod felém,
+[Gm]Nélküled meghalok én,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
 
 {V_2}
-Az [Am]istenek könnycseppje gyógyír
-[Dm]Bánatra, ö[E]römre.
-Én [Am]téged fogadlak egyszer majd
-[Dm]Gyermekként ö[E]rökbe.
+Az [Gm]istenek könnycseppje gyógyír
+[Cm]Bánatra, ö[D]römre.
+Én [Gm]téged fogadlak egyszer majd
+[Cm]Gyermekként ö[D]rökbe.
 
 {B_1}
-[F]Egy kupica [G]reggelire,
-[C]Abból bajod [Am]nem lehet,
-[Dm]A magyarnak [G]csak ez adhat [C]ihle[E]tet.   [E7]
+[D#]Egy kupica [F]reggelire,
+[A#]Abból bajod [Gm]nem lehet,
+[Cm]A magyarnak [F]csak ez adhat [A#]ihle[D]tet.   [D7]
 
 {C}
-[Am]Álmaim kéklő egén,
-[Am]Gyümölcsfáim tetején,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
-[Am]Nyújtsd hát a karod felém,
-[Am]Nélküled meghalok én,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
+[Gm]Álmaim kéklő egén,
+[Gm]Gyümölcsfáim tetején,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
+[Gm]Nyújtsd hát a karod felém,
+[Gm]Nélküled meghalok én,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
 
 {B_2}
-[Dm]De nekem így is [Am]megérte,
-Egy [E]életen át [Am]várni [A7]rád.
-[Dm]A halálos ágyamon [Am]az infúziómba
-[B7]Ne töltsetek csak [E]pálinkát!   [E7]
+[Cm]De nekem így is [Gm]megérte,
+Egy [D]életen át [Gm]várni [G7]rád.
+[Cm]A halálos ágyamon [Gm]az infúziómba
+[A7]Ne töltsetek csak [D]pálinkát!   [D7]
 
 {C}
-[Am]Álmaim kéklő egén,
-[Am]Gyümölcsfáim tetején,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
-[Am]Nyújtsd hát a karod felém,
-[Am]Nélküled meghalok én,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
+[Gm]Álmaim kéklő egén,
+[Gm]Gyümölcsfáim tetején,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
+[Gm]Nyújtsd hát a karod felém,
+[Gm]Nélküled meghalok én,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
 
 {C}
-[Am]Álmaim kéklő egén,
-[Am]Gyümölcsfáim tetején,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
-[Am]Nyújtsd hát a karod felém,
-[Am]Nélküled meghalok én,
-[Dm]Pálinka, szerelmem, [E]légy az enyém!
+[Gm]Álmaim kéklő egén,
+[Gm]Gyümölcsfáim tetején,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
+[Gm]Nyújtsd hát a karod felém,
+[Gm]Nélküled meghalok én,
+[Cm]Pálinka, szerelmem, [D]légy az enyém!
 
 {O}
-[Am]
+[Gm]
