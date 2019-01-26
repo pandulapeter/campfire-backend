@@ -2,32 +2,26 @@
 [E]
 
 {V_1}
-[E]How many [A]roads must a [B]man walk [E]down,
+[E]How many [A]roads must a [E]man walk down,
 Be[E]fore you [A]call him a [E]man?
-[E]How many [A]seas must a [B]white dove [E]sail,
+[E]How many [A]seas must a [E]white dove sail,
 Be[E]fore she [A]sleeps in the [B]sand?
-Yes, and how [E]many [A]times must the [B]cannon balls [E]fly,
-Be[E]fore they're [A]forever [E]banned?
+How [E]many [A]times must the [E]cannon balls fly,
+Be[E]fore they're [A]forever [B]banned?
 
 {C}
 The [A]answer, my [B]friend,
 Is [E]blowin' in the [A]wind
 The [A]answer is
 [B]Blowin' in the [E]wind.
-
-{S}
-          [A]    [B]    [E]
-[E]    [A]    [E]    [E]
-[E]    [A]    [B]    [E]
-[E]    [A]    [B]    [B]
 
 {V_2}
-Yes, and [E]how many [A]years can a [B]mountain ex[E]ist,
+[E]How many [A]years can a [E]mountain exist,
 Be[E]fore it's [A]washed to the [E]sea?
-Yes, and [E]how many [A]years can some [B]people ex[E]ist,
+[E]How many [A]years can some [E]people exist,
 Be[E]fore they're al[A]lowed to be [B]free?
-Yes, and [E]how many [A]times can a [B]man turn his [E]head,
-And pre[E]tend that he [A]just doesn't [E]see?
+[E]How many [A]times can a [E]man turn his head,
+And pre[E]tend that he [A]just doesn't [B]see?
 
 {C}
 The [A]answer, my [B]friend,
@@ -35,31 +29,18 @@ Is [E]blowin' in the [A]wind
 The [A]answer is
 [B]Blowin' in the [E]wind.
 
-{S}
-          [A]    [B]    [E]
-[E]    [A]    [E]    [E]
-[E]    [A]    [B]    [E]
-[E]    [A]    [B]    [B]
-
-{V_3}
-Yes, and [E]how many [A]times must a [B]man look [E]up,
-Be[E]fore he can [A]see the [E]sky?
-Yes, and [E]how many [A]ears must [B]one man [E]have,
+[E]How many [A]times must a [E]man look up,
+Be[E]fore he [A]really sees the [E]sky?
+[E]How many [A]ears must [E]one person have,
 Be[E]fore he can [A]hear people [B]cry?
-Yes, and [E]how many [A]deaths will it [B]take 'til he [E]knows,
-That [E]too many [A]people have [E]died?
+[E]How many [A]deaths will it [E]take 'til he knows,
+That [E]too many [A]people have [B]died?
 
 {C}
 The [A]answer, my [B]friend,
 Is [E]blowin' in the [A]wind
 The [A]answer is
 [B]Blowin' in the [E]wind.
-
-{S}
-          [A]    [B]    [E]
-[E]    [A]    [E]    [E]
-[E]    [A]    [B]    [E]
-[E]    [A]    [B]    [B]
 
 {C}
 The [A]answer, my [B]friend,
