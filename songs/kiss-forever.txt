@@ -1,65 +1,65 @@
 {V_1}
-[D]I gotta [Cadd9]tell you what I'm [G]feelin' in[D]side,
-I could [Em]lie to my[D]self, but it's [Cadd9]true.
+[C#]I gotta [Badd9]tell you what I'm [F#]feelin' in[C#]side,
+I could [D#m]lie to my[C#]self, but it's [Badd9]true.
 
 {V_2}
-[D]There's no de[Cadd9]nying when I [G]look in your [D]eyes,
-Girl I'm [Em]out of my [D]head over [Cadd9]you.
+[C#]There's no de[Badd9]nying when I [F#]look in your [C#]eyes,
+Girl I'm [D#m]out of my [C#]head over [Badd9]you.
 
 {P_1}
-[Am]And I lived so [G/B]long believin' [C]all love is [D]blind,
-But [Am]everything a[G/B]bout you is [C]tellin' me this [D]time,
+[G#m]And I lived so [F#/A#]long believin' [B]all love is [C#]blind,
+But [G#m]everything a[F#/A#]bout you is [B]tellin' me this [C#]time,
 
 {C}
-It's for[G]ever,[D]
-[Em]This time I [C]know and there's no [Am7]doubt in my [D]mind,
-For[G]ever,[D]
-[G]Until my [Am7]life is through,
-[G/B]Girl I'll be [C]lovin' you for[D]ever.[C]
+It's for[F#]ever,[C#]
+[D#m]This time I [B]know and there's no [G#m7]doubt in my [C#]mind,
+For[F#]ever,[C#]
+[F#]Until my [G#m7]life is through,
+[F#/A#]Girl I'll be [B]lovin' you for[C#]ever.[B]
 
 {V_3}
-[D]I hear the [Cadd9]echo of a [G]promise I [D]made,
-When you're [Em]strong you can [D]stand on your [Cadd9]own.
+[C#]I hear the [Badd9]echo of a [F#]promise I [C#]made,
+When you're [D#m]strong you can [C#]stand on your [Badd9]own.
 
 {V_4}
-[D]But those words grow [Cadd9]distant as I [G]look at your [D]face,
-No, I [Em]don't want to [D]go it a[Cadd9]lone.
+[C#]But those words grow [Badd9]distant as I [F#]look at your [C#]face,
+No, I [D#m]don't want to [C#]go it a[Badd9]lone.
 
 {P_2}
-[Am]I never [G/B]thought I'd lay my [C]heart on the [D]line,
-But [Am]everything a[G/B]bout you is [C]tellin' me this [D]time,
+[G#m]I never [F#/A#]thought I'd lay my [B]heart on the [C#]line,
+But [G#m]everything a[F#/A#]bout you is [B]tellin' me this [C#]time,
 
 {C}
-It's for[G]ever,[D]
-[Em]This time I [C]know and there's no [Am7]doubt in my [D]mind,
-For[G]ever,[D]
-[G]Until my [Am7]life is through,
-[G/B]Girl I'll be [C]lovin' you for[D]ever.[C]
+It's for[F#]ever,[C#]
+[D#m]This time I [B]know and there's no [G#m7]doubt in my [C#]mind,
+For[F#]ever,[C#]
+[F#]Until my [G#m7]life is through,
+[F#/A#]Girl I'll be [B]lovin' you for[C#]ever.[B]
 
 {S}
-[(]  [D]    [C]    [G]    [D]
-    [Em]    [D]    [C]    [C]    [)]  [x2]
+[(]  [C#]    [B]    [F#]    [C#]
+    [D#m]    [C#]    [B]    [B]    [)]  [x2]
 
 {P_3}
-[Am]I see my [G/B]future when I [C]look in your [D]eyes,
-[Am]It took your [G/B]love to make my [C]heart come a[D]live,
-[Am]'Cause I lived my [G/B]life believin' [C]all love is [D]blind,
-But [Am]everything a[G/B]bout you is [C]tellin' me this [D]time,
-[D]
+[G#m]I see my [F#/A#]future when I [B]look in your [C#]eyes,
+[G#m]It took your [F#/A#]love to make my [B]heart come a[C#]live,
+[G#m]'Cause I lived my [F#/A#]life believin' [B]all love is [C#]blind,
+But [G#m]everything a[F#/A#]bout you is [B]tellin' me this [C#]time,
+[C#]
 
 {C}
-It's for[G]ever,[D]
-[Em]This time I [C]know and there's no [Am7]doubt in my [D]mind,
-For[G]ever,[D]
-[G]Until my [Am7]life is through,
-[G/B]Girl I'll be [C]lovin' you for[D]ever.[C]
+It's for[F#]ever,[C#]
+[D#m]This time I [B]know and there's no [G#m7]doubt in my [C#]mind,
+For[F#]ever,[C#]
+[F#]Until my [G#m7]life is through,
+[F#/A#]Girl I'll be [B]lovin' you for[C#]ever.[B]
 
 {C}
-Oh, for[G]ever,[D]
-[Em]This time I [C]know and there's no [Am7]doubt in my [D]mind,
-For[G]ever,[D]
-[G]Until my [Am7]life is through,
-[G/B]Girl I'll be [C]lovin' you for[D]ever.[C]
+Oh, for[F#]ever,[C#]
+[D#m]This time I [B]know and there's no [G#m7]doubt in my [C#]mind,
+For[F#]ever,[C#]
+[F#]Until my [G#m7]life is through,
+[F#/A#]Girl I'll be [B]lovin' you for[C#]ever.[B]
 
 {O}
-[C]
+[B]
