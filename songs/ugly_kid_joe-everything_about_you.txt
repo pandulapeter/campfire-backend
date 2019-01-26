@@ -1,63 +1,63 @@
 {I}
-[(]  [D]    [A]    [)]  [x8]
+[(]  [C#]    [G#]    [)]  [x8]
 
 {V_1}
-[D]I ha[A]te the rain and sunny [D]weather,   [A]
-And [D]I ha[A]te the beach and mountains [D]too,   [A]
-And [D]I do[A]n't like a thing about the [D]city, no, [A]no,
-And [D]I, I, [A]I hate the country side [D]too.   [A]
+[C#]I ha[G#]te the rain and sunny [C#]weather,   [G#]
+And [C#]I ha[G#]te the beach and mountains [C#]too,   [G#]
+And [C#]I do[G#]n't like a thing about the [C#]city, no, [G#]no,
+And [C#]I, I, [G#]I hate the country side [C#]too.   [G#]
 
 {C}
-And [G]I hate [A -]everything about [D]you!   [A]
-Everything about [D]you!   [A]
+And [F#]I hate [G# -]everything about [C#]you!   [G#]
+Everything about [C#]you!   [G#]
 
 {V_2}
-And [D]I do[A]n't like a thing about your [D]mother,   [A]
-And [D]I, I[A] hate your daddy's guts [D]too.   [A]
-[D]I d[A]on't like a thing about your [D]sister, no, [A]no,
-'Cause [D]I, I, [A]I think sex is overrated [D]too.   [A]
+And [C#]I do[G#]n't like a thing about your [C#]mother,   [G#]
+And [C#]I, I[G#] hate your daddy's guts [C#]too.   [G#]
+[C#]I d[G#]on't like a thing about your [C#]sister, no, [G#]no,
+'Cause [C#]I, I, [G#]I think sex is overrated [C#]too.   [G#]
 
 {C}
-And [G]I, get [A]sick when I'm around,
-[G]I can't [A]stand to be around,
-[G]I hate [A -]everything about [D]you!   [A]
-Everything about [D]you,   [A]
-Everything about [D]you,   [A]
-Everything about [D]you!   [C]    [A]
+And [F#]I, get [G#]sick when I'm around,
+[F#]I can't [G#]stand to be around,
+[F#]I hate [G# -]everything about [C#]you!   [G#]
+Everything about [C#]you,   [G#]
+Everything about [C#]you,   [G#]
+Everything about [C#]you!   [B]    [G#]
 
 {B_1}
-[G]Some say I got a bad attitude,
-[A]But that don't change the way I feel about you,
-[G]And if you think this might be bringing me down,
-[A]Look again cause I ain't wearin' no frown!
+[F#]Some say I got a bad attitude,
+[G#]But that don't change the way I feel about you,
+[F#]And if you think this might be bringing me down,
+[G#]Look again cause I ain't wearin' no frown!
 
 {S}
-[(]  [D]    [A]    [)]  [x4]
-[(]  [G]    [A]    [)]  [x2]
-    [G]    [A -]
-    [D]
+[(]  [C#]    [G#]    [)]  [x4]
+[(]  [F#]    [G#]    [)]  [x2]
+    [F#]    [G# -]
+    [C#]
 
 {B_2}
-[(]  [D]    [A]    [)]  [x4]
+[(]  [C#]    [G#]    [)]  [x4]
 
 {B_3}
-[D]I don't really care about your sister,
-[A]Forget the little bitch 'cause I already kissed her.
-[D]One thing that I did to your lady,
-[A]Put her on the bed and she didn't say maybe.
-[D]I know, you know, everybody knows,
-[A]The way it comes, the way it goes,
-[D]You think it's sad, well that's too bad,
-'Cause I'm [A]havin' a ball and never cared a thing about [D]you!   [A]
-Everything about [D]you!   [A]
+[C#]I don't really care about your sister,
+[G#]Forget the little bitch 'cause I already kissed her.
+[C#]One thing that I did to your lady,
+[G#]Put her on the bed and she didn't say maybe.
+[C#]I know, you know, everybody knows,
+[G#]The way it comes, the way it goes,
+[C#]You think it's sad, well that's too bad,
+'Cause I'm [G#]havin' a ball and never cared a thing about [C#]you!   [G#]
+Everything about [C#]you!   [G#]
 
 {O}
 Everything about...
-[G]I get [A]sick when I'm around,
-[G]I can't [A]stand to be around,
-[G]I...
-[A -]Hate everything about...
+[F#]I get [G#]sick when I'm around,
+[F#]I can't [G#]stand to be around,
+[F#]I...
+[G# -]Hate everything about...
 You.
-[D5]    [C5]    [B5]    [A#5]
-[A5]
-[D]
+[C#5]    [B5]    [A#5]    [A5]
+[G#5]
+[C#]
