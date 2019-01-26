@@ -67,7 +67,7 @@
     "green_day-good_riddance"
 ],"language":["en"],"popularity":5,"isExplicit":"false","date":4},{
 "id":"magyar-rock","title":"Magyar Rock","description":"Válogatás többek közt Tankcsapda, Bikini és Edda dalokból","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=magyar-rock","songs":[
-    "kispal_es_a_borz-elj_vele_bologan",
+    "zavodi_gabor-elj_vele_bologan",
     "tankcsapda-gyurd_ossze_a_lepedot_velem",
     "zanzibar-nem_vagyok_tokeletes",
     "hooligans-hotel_mamor",
