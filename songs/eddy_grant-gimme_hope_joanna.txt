@@ -1,5 +1,5 @@
 {I}
-[G#]        [D#]        [G#]        [D#]
+[G#]        [D#]        [G#]        [F]
 [G#]        [D#]        [G#]    [F]    [G#]
 
 {V_1}
@@ -45,7 +45,7 @@ Gimme [G#]hope, Jo'anna,
 [G#]Hope before the [F]morning [G#]come.
 
 {S}
-[G#]        [D#]        [G#]        [D#]
+[G#]        [D#]        [G#]        [F]
 [G#]        [D#]        [G#]    [F]    [G#]
 
 {V_5}
