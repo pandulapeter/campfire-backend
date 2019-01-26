@@ -1,55 +1,55 @@
 {I}
-[G]            [D/F#]
-[C]            [G]
-[C]            [G]
-[D/F#]      [G]      [D]
+[F]            [C/E]
+[A#]            [F]
+[A#]            [F]
+[C/E]      [F]      [C]
 
 {V_1}
-[C]There's a calm sur[G]render
-[C]To the rush of [G]day,
-[C]When the heat of the [G]rolling world
-[Am7]Can be turned a[D]way.
-[C]An enchanted [G]moment,
-[C]And it sees me [G]through.
-[C]It's enough for this [Em]restless warrior
-[F]Just to be with [D]you.
+[A#]There's a calm sur[F]render
+[A#]To the rush of [F]day,
+[A#]When the heat of the [F]rolling world
+[Gm7]Can be turned a[C]way.
+[A#]An enchanted [F]moment,
+[A#]And it sees me [F]through.
+[A#]It's enough for this [Dm]restless warrior
+[Eb]Just to be with [C]you.
 
 {C}
-And [G]can you [D/F#]feel the [Em]love [C]tonight?
-[G]It is [C]where [A]we [D]are.
-[C]It's enough[G] for this [Em]wide-[G]eyed [C]wanderer
-[Am]That [G]we [C]got [A]this [D]far.
-And [G]can you [D/F#]feel the [Em]love [C]tonight?
-[G]How it's [C]laid [A]to [D]rest?
-[C]It's enough[G] to make [Em]kings [G]and [C]vagabonds
-Be[Am]lieve [G]the [C]very [G]best.
+And [F]can you [C/E]feel the [Dm]love [A#]tonight?
+[F]It is [A#]where [G]we [C]are.
+[A#]It's enough[F] for this [Dm]wide-[F]eyed [A#]wanderer
+[Gm]That [F]we [A#]got [G]this [C]far.
+And [F]can you [C/E]feel the [Dm]love [A#]tonight?
+[F]How it's [A#]laid [G]to [C]rest?
+[A#]It's enough[F] to make [Dm]kings [F]and [A#]vagabonds
+Be[Gm]lieve [F]the [A#]very [F]best.
 
 {B}
-[G]            [D/F#]
-[C]            [G]
-[C]            [G]
-[D/F#]      [G]      [D]
+[F]            [C/E]
+[A#]            [F]
+[A#]            [F]
+[C/E]      [F]      [C]
 
 {V_2}
-[C]There's a time for [G]everyone
-[C]If they only [G]learn
-[C]That the twisting ka[G]leidoscope
-[Am7]Moves us all in [D]turn.
-[C]There's a rhyme and [G]reason
-[C]To the wild out[G]doors.
-[C]When the heart of this [Em]star-crossed voyager
-[F]Beats in time with [D]yours.
+[A#]There's a time for [F]everyone
+[A#]If they only [F]learn
+[A#]That the twisting ka[F]leidoscope
+[Gm7]Moves us all in [C]turn.
+[A#]There's a rhyme and [F]reason
+[A#]To the wild out[F]doors.
+[A#]When the heart of this [Dm]star-crossed voyager
+[Eb]Beats in time with [C]yours.
 
 {C}
-And [G]can you [D/F#]feel the [Em]love [C]tonight?
-[G]It is [C]where [A]we [D]are.
-[C]It's enough[G] for this [Em]wide-[G]eyed [C]wanderer
-[Am]That [G]we [C]got [A]this [D]far.
-And [G]can you [D/F#]feel the [Em]love [C]tonight?
-[G]How it's [C]laid [A]to [D]rest?
-[C]It's enough[G] to make [Em]kings [G]and [C]vagabonds
-Be[Am]lieve [G]the [C]very [G]best.
+And [F]can you [C/E]feel the [Dm]love [A#]tonight?
+[F]It is [A#]where [G]we [C]are.
+[A#]It's enough[F] for this [Dm]wide-[F]eyed [A#]wanderer
+[Gm]That [F]we [A#]got [G]this [C]far.
+And [F]can you [C/E]feel the [Dm]love [A#]tonight?
+[F]How it's [A#]laid [G]to [C]rest?
+[A#]It's enough[F] to make [Dm]kings [F]and [A#]vagabonds
+Be[Gm]lieve [F]the [A#]very [F]best.
 
 {O}
-[C]It's enough[G] to make [Em]kings [G]and [C]vagabonds
-Be[Am]lieve [G]the [C]very [G]best.
+[A#]It's enough[F] to make [Dm]kings [F]and [A#]vagabonds
+Be[Gm]lieve [F]the [A#]very [F]best.
