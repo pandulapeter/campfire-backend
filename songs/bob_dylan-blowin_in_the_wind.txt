@@ -1,68 +1,68 @@
 {I}
-[B]
+[E]
 
 {V_1}
-[B]How many [E]roads must a [F#]man walk [B]down,
-Be[B]fore you [E]call him a [B]man?
-[B]How many [E]seas must a [F#]white dove [B]sail,
-Be[B]fore she [E]sleeps in the [F#]sand?
-Yes, and how [B]many [E]times must the [F#]cannon balls [B]fly,
-Be[B]fore they're [E]forever [B]banned?
+[E]How many [A]roads must a [B]man walk [E]down,
+Be[E]fore you [A]call him a [E]man?
+[E]How many [A]seas must a [B]white dove [E]sail,
+Be[E]fore she [A]sleeps in the [B]sand?
+Yes, and how [E]many [A]times must the [B]cannon balls [E]fly,
+Be[E]fore they're [A]forever [E]banned?
 
 {C}
-The [E]answer, my [F#]friend,
-Is [B]blowin' in the [E]wind
-The [E]answer is
-[F#]Blowin' in the [B]wind.
+The [A]answer, my [B]friend,
+Is [E]blowin' in the [A]wind
+The [A]answer is
+[B]Blowin' in the [E]wind.
 
 {S}
-          [E]    [F#]    [B]
-[B]    [E]    [B]    [B]
-[B]    [E]    [F#]    [B]
-[B]    [E]    [F#]    [F#]
+          [A]    [B]    [E]
+[E]    [A]    [E]    [E]
+[E]    [A]    [B]    [E]
+[E]    [A]    [B]    [B]
 
 {V_2}
-Yes, and [B]how many [E]years can a [F#]mountain ex[B]ist,
-Be[B]fore it's [E]washed to the [B]sea?
-Yes, and [B]how many [E]years can some [F#]people ex[B]ist,
-Be[B]fore they're al[E]lowed to be [F#]free?
-Yes, and [B]how many [E]times can a [F#]man turn his [B]head,
-And pre[B]tend that he [E]just doesn't [B]see?
+Yes, and [E]how many [A]years can a [B]mountain ex[E]ist,
+Be[E]fore it's [A]washed to the [E]sea?
+Yes, and [E]how many [A]years can some [B]people ex[E]ist,
+Be[E]fore they're al[A]lowed to be [B]free?
+Yes, and [E]how many [A]times can a [B]man turn his [E]head,
+And pre[E]tend that he [A]just doesn't [E]see?
 
 {C}
-The [E]answer, my [F#]friend,
-Is [B]blowin' in the [E]wind
-The [E]answer is
-[F#]Blowin' in the [B]wind.
+The [A]answer, my [B]friend,
+Is [E]blowin' in the [A]wind
+The [A]answer is
+[B]Blowin' in the [E]wind.
 
 {S}
-          [E]    [F#]    [B]
-[B]    [E]    [B]    [B]
-[B]    [E]    [F#]    [B]
-[B]    [E]    [F#]    [F#]
+          [A]    [B]    [E]
+[E]    [A]    [E]    [E]
+[E]    [A]    [B]    [E]
+[E]    [A]    [B]    [B]
 
 {V_3}
-Yes, and [B]how many [E]times must a [F#]man look [B]up,
-Be[B]fore he can [E]see the [B]sky?
-Yes, and [B]how many [E]ears must [F#]one man [B]have,
-Be[B]fore he can [E]hear people [F#]cry?
-Yes, and [B]how many [E]deaths will it [F#]take 'til he [B]knows,
-That [B]too many [E]people have [B]died?
+Yes, and [E]how many [A]times must a [B]man look [E]up,
+Be[E]fore he can [A]see the [E]sky?
+Yes, and [E]how many [A]ears must [B]one man [E]have,
+Be[E]fore he can [A]hear people [B]cry?
+Yes, and [E]how many [A]deaths will it [B]take 'til he [E]knows,
+That [E]too many [A]people have [E]died?
 
 {C}
-The [E]answer, my [F#]friend,
-Is [B]blowin' in the [E]wind
-The [E]answer is
-[F#]Blowin' in the [B]wind.
+The [A]answer, my [B]friend,
+Is [E]blowin' in the [A]wind
+The [A]answer is
+[B]Blowin' in the [E]wind.
 
 {S}
-          [E]    [F#]    [B]
-[B]    [E]    [B]    [B]
-[B]    [E]    [F#]    [B]
-[B]    [E]    [F#]    [F#]
+          [A]    [B]    [E]
+[E]    [A]    [E]    [E]
+[E]    [A]    [B]    [E]
+[E]    [A]    [B]    [B]
 
 {C}
-The [E]answer, my [F#]friend,
-Is [B]blowin' in the [E]wind
-The [E]answer is
-[F#]Blowin' in the [B]wind.
+The [A]answer, my [B]friend,
+Is [E]blowin' in the [A]wind
+The [A]answer is
+[B]Blowin' in the [E]wind.
