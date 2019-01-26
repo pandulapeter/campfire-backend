@@ -1,67 +1,67 @@
 {I}
-[E]
-[E]
+[D#]
+[D#]
 
 {V_1}
-[E]Times have changed and times are strange,
+[D#]Times have changed and times are strange,
 Here I come, but I ain't the same,
-[A]Mama, I'm coming [E]home.
+[G#]Mama, I'm coming [D#]home.
 
 {V_2}
-[E]Times gone by, seems to be,
+[D#]Times gone by, seems to be,
 You could have been a better friend to me,
-[A]Mama, I'm coming [E]home.
+[G#]Mama, I'm coming [D#]home.
 
 {B_1}
-You [C#m]took me in and you [A]drove me out,
-Yeah, you [E]had me hypnotized.
-[C#m]Lost and found and [A]turned around,
-By the [B]fire in your eyes.
+You [Cm]took me in and you [G#]drove me out,
+Yeah, you [D#]had me hypnotized.
+[Cm]Lost and found and [G#]turned around,
+By the [A#]fire in your eyes.
 
 {V_3}
-You [E]made me cry, you told me lies,
+You [D#]made me cry, you told me lies,
 But, I can't stand to say goodbye,
-[A]Mama, I'm coming [E]home.
+[G#]Mama, I'm coming [D#]home.
 
 {V_4}
-I [E]could be right, I could be wrong,
+I [D#]could be right, I could be wrong,
 It hurts so bad, it's been so long,
-[A]Mama, I'm coming [E]home.
+[G#]Mama, I'm coming [D#]home.
 
 {B_2}
-[C#m]Selfish love yeah we're [A]both alone,
-The [E]ride before the fall yeah.
-But [C#m]I'm gonna take this [A]heart of stone
-I just [B]got to have it all.   [F#]    [G#]
+[Cm]Selfish love yeah we're [G#]both alone,
+The [D#]ride before the fall yeah.
+But [Cm]I'm gonna take this [G#]heart of stone
+I just [A#]got to have it all.   [F]    [G]
 
 {C}
-[A]I've seen your face a hundred [E]times,
-[A]Everyday we've been a[E]part.
-[A]I don't [B]care about the [E]sunshine, ye[A]ah,
-'Cause [A]mama, [B]mama, I'm coming [C]home,   [D]    [E]
-I'm coming [C]home.   [D]    [B]
+[G#]I've seen your face a hundred [D#]times,
+[G#]Everyday we've been a[D#]part.
+[G#]I don't [A#]care about the [D#]sunshine, ye[G#]ah,
+'Cause [G#]mama, [A#]mama, I'm coming [B]home,   [C#]    [D#]
+I'm coming [B]home.   [C#]    [A#]
 
 {S}
-[(]  [G]    [A]    [E]    [E]    [)]  [x3]
-    [B]
-[(]  [A]                [E]    [)]  [x2]
-    [A]        [B]        [C#m]    [B]    [A]
-    [B]
+[(]  [F#]    [G#]    [D#]    [D#]    [)]  [x3]
+    [A#]
+[(]  [G#]                [D#]    [)]  [x2]
+    [G#]        [A#]        [Cm]    [A#]    [G#]
+    [A#]
 
 {B_1}
-You [C#m]took me in and you [A]drove me out,
-Yeah, you [E]had me hypnotized.
-[C#m]Lost and found and [A]turned around,
-By the [B]fire in your eyes.   [F#]    [G#]
+You [Cm]took me in and you [G#]drove me out,
+Yeah, you [D#]had me hypnotized.
+[Cm]Lost and found and [G#]turned around,
+By the [A#]fire in your eyes.   [F]    [G]
 
 {C}
-[A]I've seen your face a thousand [E]times,
-[A]Everyday we've been a[E]part.
-[A]I don't [B]care about the [E]sunshine, ye[A]ah,   [-]
-'Cause [A]mama, [B]mama, I'm coming [C]home,   [D]    [E]
-I'm coming [C]home.   [D]    [E]
+[G#]I've seen your face a thousand [D#]times,
+[G#]Everyday we've been a[D#]part.
+[G#]I don't [A#]care about the [D#]sunshine, ye[G#]ah,   [-]
+'Cause [G#]mama, [A#]mama, I'm coming [B]home,   [C#]    [D#]
+I'm coming [B]home.   [C#]    [D#]
 
 {O}
-I'm coming [C]home.   [D]    [E]
-I'm coming [C]home.   [D]    [E]
-[E]
+I'm coming [B]home.   [C#]    [D#]
+I'm coming [B]home.   [C#]    [D#]
+[D#]
