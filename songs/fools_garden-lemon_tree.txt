@@ -1,64 +1,64 @@
 {I}
-[Am]    [Am]    [Em]    [Em]    [x2]
-[Dm]    [Dm]    [Em]    [Em]
-[Am]    [Em]    [Am]    [-]
+[Fm]    [Fm]    [Cm]    [Cm]    [x2]
+[A#m]    [A#m]    [Cm]    [Cm]
+[Fm]    [Cm]    [Fm]    [-]
 
 {V_1}
-I'm [Am]sitting here in the [Em]boring room,
-It's [Am]just another rainy Sunday [Em]afternoon,
-I'm [Am]wasting my time, I got [Em]nothing to do,
-I'm [Am]hanging around, I'm [Em]waiting for you,
-But [Dm]nothing ever happens[Em] and I [Am]wonder.   [Em]    [Am]    [-]
+I'm [Fm]sitting here in the [Cm]boring room,
+It's [Fm]just another rainy Sunday [Cm]afternoon,
+I'm [Fm]wasting my time, I got [Cm]nothing to do,
+I'm [Fm]hanging around, I'm [Cm]waiting for you,
+But [A#m]nothing ever happens[Cm] and I [Fm]wonder.   [Cm]    [Fm]    [-]
 
 {V_2}
-I'm [Am]driving around [Em]in my car,
-I'm [Am]driving too fast, I'm [Em]driving too far.
-I'd [Am]like to change my [Em]point of view,
-I [Am]feel so lonely, I'm [Em]waiting for you,
-But [Dm]nothing ever happens[Em] and I [Am]wonder.   [Em]    [Am]
+I'm [Fm]driving around [Cm]in my car,
+I'm [Fm]driving too fast, I'm [Cm]driving too far.
+I'd [Fm]like to change my [Cm]point of view,
+I [Fm]feel so lonely, I'm [Cm]waiting for you,
+But [A#m]nothing ever happens[Cm] and I [Fm]wonder.   [Cm]    [Fm]
 
 {C}
-I [C]wonder how, I [G]wonder why,
-[Am]Yesterday you told me 'bout the [Em]blue blue sky,
-And [F]all that I can [G]see is just a yellow [C]lemon-tree. [G]
-I'm [C]turning my head [G]up and down,
-I'm [Am]turning, turning, turning, turning, [Em]turning around,
-And [F]all that I can [D7]see is just another [G]lemon-tree.
+I [Ab]wonder how, I [D#]wonder why,
+[Fm]Yesterday you told me 'bout the [Cm]blue blue sky,
+And [Db]all that I can [D#]see is just a yellow [Ab]lemon-tree. [D#]
+I'm [Ab]turning my head [D#]up and down,
+I'm [Fm]turning, turning, turning, turning, [Cm]turning around,
+And [Db]all that I can [Bb7]see is just another [D#]lemon-tree.
 
 {B_1}
-[Am]    [Am]    [Em]    [Em]    [x2]
-[Dm]    [Dm]    [Em]    [Em]
-[Am]    [Em]    [Am]    [-]
+[Fm]    [Fm]    [Cm]    [Cm]    [x2]
+[A#m]    [A#m]    [Cm]    [Cm]
+[Fm]    [Cm]    [Fm]    [-]
 
 {V_3}
-I'm [Am]sitting here, I [Em]miss the power.
-I'd [Am]like to go out, [Em]taking a shower,
-But [Am]there's a heavy cloud in[Em]side my head,
-I [Am]feel so tired, put my[Em]self into bed,
-While [Dm]nothing ever happens[Em] and I [Am]wonder.   [Em]    [Am]
+I'm [Fm]sitting here, I [Cm]miss the power.
+I'd [Fm]like to go out, [Cm]taking a shower,
+But [Fm]there's a heavy cloud in[Cm]side my head,
+I [Fm]feel so tired, put my[Cm]self into bed,
+While [A#m]nothing ever happens[Cm] and I [Fm]wonder.   [Cm]    [Fm]
 
 {B_2}
-[Dm]Isolation [Am]is not good for me.
-[G]Isolation, [C]I don't want to [Em]sit on the lemon-tree.
+[A#m]Isolation [Fm]is not good for me.
+[D#]Isolation, [Ab]I don't want to [Cm]sit on the lemon-tree.
 
 {V_4}
-I'm [Am]steppin' around in the [Em]desert of joy,
-[Am]Baby anyhow I'll get a[Em]nother toy,
-And [Dm]everything will happen,[Em] and you [Am]wonder.   [Em]    [Am]
+I'm [Fm]steppin' around in the [Cm]desert of joy,
+[Fm]Baby anyhow I'll get a[Cm]nother toy,
+And [A#m]everything will happen,[Cm] and you [Fm]wonder.   [Cm]    [Fm]
 
 {C}
-I [C]wonder how, I [G]wonder why,
-[Am]Yesterday you told me 'bout the [Em]blue blue sky,
-And [F]all that I can [G]see is just a yellow [C]lemon-tree. [G]
-I'm [C]turning my head [G]up and down,
-I'm [Am]turning, turning, turning, turning, [Em]turning around,
-And [F]all that I can [D7]see is just another [G]lemon-tree.
-And I [G]wonder, wonder,
+I [Ab]wonder how, I [D#]wonder why,
+[Fm]Yesterday you told me 'bout the [Cm]blue blue sky,
+And [Db]all that I can [D#]see is just a yellow [Ab]lemon-tree. [D#]
+I'm [Ab]turning my head [D#]up and down,
+I'm [Fm]turning, turning, turning, turning, [Cm]turning around,
+And [Db]all that I can [Bb7]see is just another [D#]lemon-tree.
+And I [D#]wonder, wonder,
 
 {O}
-I [C]wonder how, I [G]wonder why,
-[Am]Yesterday you told me 'bout the [Em]blue blue sky,
-And [F]all that I can [G]see,
-And [F]all that I can [G]see,
-And [F]all that I can [G]see,
-Is just a yellow [C]lemon-tree.
+I [Ab]wonder how, I [D#]wonder why,
+[Fm]Yesterday you told me 'bout the [Cm]blue blue sky,
+And [Db]all that I can [D#]see,
+And [Db]all that I can [D#]see,
+And [Db]all that I can [D#]see,
+Is just a yellow [Ab]lemon-tree.
