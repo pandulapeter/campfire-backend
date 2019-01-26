@@ -1,81 +1,81 @@
 {I}
-[Aadd9]        [Aadd9]        [F#madd9]        [F#madd9]
-[D]        [E]        [Aadd9]        [Aadd9]
+[G#add9]        [G#add9]        [Fmadd9]        [Fmadd9]
+[C#]        [D#]        [G#add9]        [G#add9]
 
 {V_1}
-Every breath you [Aadd9]take,
-Every move you [F#madd9]make,
-Every bond you [D]break,
-Every step you [E]take,
-I'll be watching [F#madd9]you.
+Every breath you [G#add9]take,
+Every move you [Fmadd9]make,
+Every bond you [C#]break,
+Every step you [D#]take,
+I'll be watching [Fmadd9]you.
 
 {V_2}
-Every single [Aadd9]day,
-Every word you [F#madd9]say,
-Every game you [D]play,
-Every night you [E]stay,
-I'll be watching [Aadd9]you.
+Every single [G#add9]day,
+Every word you [Fmadd9]say,
+Every game you [C#]play,
+Every night you [D#]stay,
+I'll be watching [G#add9]you.
 
 {C}
-Oh can't you [D]see,   [C]
-You belong to [Aadd9]me.
-My poor heart [Badd9]aches,
-With every step you [E]take.
+Oh can't you [C#]see,   [B]
+You belong to [G#add9]me.
+My poor heart [A#add9]aches,
+With every step you [D#]take.
 
 {V_3}
-Every move you [Aadd9]make,
-Every vow you [F#madd9]break,
-Every smile you [D]fake,
-Every claim you [E]stake,
-I'll be watching [F#madd9]you.
+Every move you [G#add9]make,
+Every vow you [Fmadd9]break,
+Every smile you [C#]fake,
+Every claim you [D#]stake,
+I'll be watching [Fmadd9]you.
 
 {B}
-[F]Since you've gone, I've been lost without a trace,
-[G]I dream at night I can only see your face.
-[F]I look around but it's you I can't replace,
-[G]I feel so cold and I long for your embrace.
-[F]I keep crying baby, baby, please.
+[E]Since you've gone, I've been lost without a trace,
+[F#]I dream at night I can only see your face.
+[E]I look around but it's you I can't replace,
+[F#]I feel so cold and I long for your embrace.
+[E]I keep crying baby, baby, please.
 
 {S}
-[Aadd9]        [Aadd9]        [F#madd9]        [F#madd9]
-[D]        [E]        [F#madd9]        [F#madd9]
-[Aadd9]        [Aadd9]        [F#madd9]        [F#madd9]
-[D]        [E]        [Aadd9]        [Aadd9]
+[G#add9]        [G#add9]        [Fmadd9]        [Fmadd9]
+[C#]        [D#]        [Fmadd9]        [Fmadd9]
+[G#add9]        [G#add9]        [Fmadd9]        [Fmadd9]
+[C#]        [D#]        [G#add9]        [G#add9]
 
 {C}
-Oh can't you [D]see,   [C]
-You belong to [Aadd9]me.
-My poor heart [Badd9]aches,
-With every step you [E]take.
+Oh can't you [C#]see,   [B]
+You belong to [G#add9]me.
+My poor heart [A#add9]aches,
+With every step you [D#]take.
 
 {V_3}
-Every move you [Aadd9]make,
-Every vow you [F#madd9]break,
-Every smile you [D]fake,
-Every claim you [E]stake,
-I'll be watching [F#madd9]you.
+Every move you [G#add9]make,
+Every vow you [Fmadd9]break,
+Every smile you [C#]fake,
+Every claim you [D#]stake,
+I'll be watching [Fmadd9]you.
 
 {O}
-Every move you [D]make,
-Every step you [E]take,
-I'll be watching [F#madd9]you...
-[F#madd9]
-I'll be watching [Aadd9]you.
-(Every breath you take, every move you [F#madd9]make,
-every bond you [D]break, every step you take)
-I'll be watching [Aadd9]you.
-(Every single day, every word you [F#madd9]say,
-every game you [D]play, every night you stay)
-I'll be watching [Aadd9]you.
-(Every move you make, every vow you [F#madd9]break,
+Every move you [C#]make,
+Every step you [D#]take,
+I'll be watching [Fmadd9]you...
+[Fmadd9]
+I'll be watching [G#add9]you.
+(Every breath you take, every move you [Fmadd9]make,
+every bond you [C#]break, every step you take)
+I'll be watching [G#add9]you.
+(Every single day, every word you [Fmadd9]say,
+every game you [C#]play, every night you stay)
+I'll be watching [G#add9]you.
+(Every move you make, every vow you [Fmadd9]break,
 every smile you fake, every claim you stake)
-I'll be watching [Aadd9]you.
-(Every single day, every word you [F#madd9]say,
-every game you [D]play, every night you stay)
-I'll be watching [Aadd9]you.
-(Every breath you take, every move you [F#madd9]make,
-every bond you [D]break, every step you take)
-I'll be watching [Aadd9]you.
-(Every single day, every word you [F#madd9]say,
-every game you [D]play, every night you stay)
-I'll be watching [Aadd9]you.
+I'll be watching [G#add9]you.
+(Every single day, every word you [Fmadd9]say,
+every game you [C#]play, every night you stay)
+I'll be watching [G#add9]you.
+(Every breath you take, every move you [Fmadd9]make,
+every bond you [C#]break, every step you take)
+I'll be watching [G#add9]you.
+(Every single day, every word you [Fmadd9]say,
+every game you [C#]play, every night you stay)
+I'll be watching [G#add9]you.
