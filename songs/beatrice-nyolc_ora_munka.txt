@@ -1,66 +1,66 @@
 {I}
-[C]
+[A]
 
 {V_1}
-A [C]munkának vége, kijössz a gyárból,
-Egy [G]vodkától erős vagy és bátor.
-Egy [C]részeg fazon a kezed után nyúl,
-[G]Nem tudod miért, jól belerúgsz.
+A [A]munkának vége, kijössz a gyárból,
+Egy [E]vodkától erős vagy és bátor.
+Egy [A]részeg fazon a kezed után nyúl,
+[E]Nem tudod miért, jól belerúgsz.
 
 {V_2}
-Mer' [C]elfogyott a türelmed már,
-Pedig [G]szabad a csók, szabad a tánc.
-[C]Száz éve Párizsban az volt a jó,
-A [G]kommün ezért kötelet adott.
+Mer' [A]elfogyott a türelmed már,
+Pedig [E]szabad a csók, szabad a tánc.
+[A]Száz éve Párizsban az volt a jó,
+A [E]kommün ezért kötelet adott.
 
 {C}
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
 
 {V_3}
-A [C]kocsmában, ott van a nagy élet,
-[G]Tompulnak az agyak, élesek a kések.
-[C]Sűrű a levegő az olcsó sör szagától,
-[G]Eleged van már e kibaszott világból.
+A [A]kocsmában, ott van a nagy élet,
+[E]Tompulnak az agyak, élesek a kések.
+[A]Sűrű a levegő az olcsó sör szagától,
+[E]Eleged van már e kibaszott világból.
 
 {C}
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
 
 {S}
-[C]        [G]    [x2]
-[F]    [C]    [G]    [C]    [x2]
+[A]        [E]    [x2]
+[D]    [A]    [E]    [A]    [x2]
 
 {V_1}
-De a [C]munkának vége, kijössz a gyárból,
-Egy [G]vodkától erős vagy és bátor,
-Egy [C]részeg fazon a kezed után nyúl,
-Nem [G]tudod miért, jól belerúgsz.
+De a [A]munkának vége, kijössz a gyárból,
+Egy [E]vodkától erős vagy és bátor,
+Egy [A]részeg fazon a kezed után nyúl,
+Nem [E]tudod miért, jól belerúgsz.
 
 {V_4}
-[C]Nézed, hogy mi folyik itt,
-[G]Ami befolyik, az rögtön kifolyik.
-A [C]világos sörtől savanyú a szád,
-[G]Nem ígéri senki, jobb élet vár rád.
+[A]Nézed, hogy mi folyik itt,
+[E]Ami befolyik, az rögtön kifolyik.
+A [A]világos sörtől savanyú a szád,
+[E]Nem ígéri senki, jobb élet vár rád.
 
 {C}
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
 
 {C}
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
 
 {C}
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
-[F]Nyolc óra munka, [C]nyolc óra pihenés,
-[G]Nyolc óra szórako[C]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
+[D]Nyolc óra munka, [A]nyolc óra pihenés,
+[E]Nyolc óra szórako[A]zás.
