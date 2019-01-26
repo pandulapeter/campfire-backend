@@ -1,62 +1,62 @@
 {I}
-[(]  [C]    [G]    [Am]    [Am]    [)]  [x4]
+[(]  [B]    [F#]    [G#m]    [G#m]    [)]  [x4]
 
 {V_1}
-Mama [C]told me[G] when I was [Am]young,
-\"Come sit be[C]side me,[G] my only [Am]son,
-And listen [C]closely[G] to what I [Am]say,
-And if you [C]do this it'll [G]help you some [Am]sunny day.\"
+Mama [B]told me[F#] when I was [G#m]young,
+\"Come sit be[B]side me,[F#] my only [G#m]son,
+And listen [B]closely[F#] to what I [G#m]say,
+And if you [B]do this it'll [F#]help you some [G#m]sunny day.\"
 
 {B}
-[(]  [C]    [G]    [Am]    [Am]    [)]  [x2]
+[(]  [B]    [F#]    [G#m]    [G#m]    [)]  [x2]
 
 {V_2}
-\"Oh, take your [C]time,[G] don't live [Am]too fast.
-Troubles will [C]come[G] and they will [Am]pass.
-You'll find a [C]woman[G] and you'll find [Am]love,
-And don't for[C]get, son, there is [G]someone up a[Am]bove.\"
+\"Oh, take your [B]time,[F#] don't live [G#m]too fast.
+Troubles will [B]come[F#] and they will [G#m]pass.
+You'll find a [B]woman[F#] and you'll find [G#m]love,
+And don't for[B]get, son, there is [F#]someone up a[G#m]bove.\"
 
 {C}
-\"And be a [C]simple[G] kind of [Am]man,
-Oh, be [C]something[G] you love and un[Am]derstand.
-Baby be a [C]simple[G] kind of [Am]man,
-Oh, won't you [C]do this for me, [G]son, if you [Am]can.\"
+\"And be a [B]simple[F#] kind of [G#m]man,
+Oh, be [B]something[F#] you love and un[G#m]derstand.
+Baby be a [B]simple[F#] kind of [G#m]man,
+Oh, won't you [B]do this for me, [F#]son, if you [G#m]can.\"
 
 {B}
-[C]    [G]    [Am]    [Am]
+[B]    [F#]    [G#m]    [G#m]
 
 {V_3}
-\"Forget your [C]lust[G] for the rich man's [Am]gold,
-All that you [C]need[G] is in your [Am]soul.
-And you can [C]do this, oh [G]baby, if you [Am]try,
-All that I [C]want for you, my [G]son, is to be satis[Am]fied.\"
+\"Forget your [B]lust[F#] for the rich man's [G#m]gold,
+All that you [B]need[F#] is in your [G#m]soul.
+And you can [B]do this, oh [F#]baby, if you [G#m]try,
+All that I [B]want for you, my [F#]son, is to be satis[G#m]fied.\"
 
 {C}
-\"And be a [C]simple[G] kind of [Am]man,
-Oh, be [C]something[G] you love and un[Am]derstand.
-Baby be a [C]simple[G] kind of [Am]man,
-Oh, won't you [C]do this for me, [G]son, if you [Am]can.\"
+\"And be a [B]simple[F#] kind of [G#m]man,
+Oh, be [B]something[F#] you love and un[G#m]derstand.
+Baby be a [B]simple[F#] kind of [G#m]man,
+Oh, won't you [B]do this for me, [F#]son, if you [G#m]can.\"
 
 {S}
-[(]  [C]    [G]    [Am]    [Am]    [)]  [x5]
+[(]  [B]    [F#]    [G#m]    [G#m]    [)]  [x5]
 
 {B}
-[(]  [C]    [G]    [Am]    [Am]    [)]  [x2]
+[(]  [B]    [F#]    [G#m]    [G#m]    [)]  [x2]
 
 {V_4}
-\"Boy, don't you [C]worry,[G] you'll find your[Am]self,
-Follow your [C]heart[G] and nothing [Am]else,
-And you can [C]do this, oh [G]baby, if you [Am]try,
-All that I [C]want for you, my [G]son, is to be satis[Am]fied.\"
+\"Boy, don't you [B]worry,[F#] you'll find your[G#m]self,
+Follow your [B]heart[F#] and nothing [G#m]else,
+And you can [B]do this, oh [F#]baby, if you [G#m]try,
+All that I [B]want for you, my [F#]son, is to be satis[G#m]fied.\"
 
 {C}
-\"And be a [C]simple[G] kind of [Am]man,
-Oh, be [C]something[G] you love and un[Am]derstand.
-Baby be a [C]simple[G] kind of [Am]man,
-Oh, won't you [C]do this for me, [G]son, if you [Am]can.\"
+\"And be a [B]simple[F#] kind of [G#m]man,
+Oh, be [B]something[F#] you love and un[G#m]derstand.
+Baby be a [B]simple[F#] kind of [G#m]man,
+Oh, won't you [B]do this for me, [F#]son, if you [G#m]can.\"
 
 {C}
-\"Baby, be a [C]simple,[G] really simple [Am]man,
-Oh, be [C]something[G] you love and un[Am]derstand.
-Baby be a [C]simple[G] kind of [Am]man,
-Oh, won't you [C]do this for me, [G]son, if you [Am]can.\"
+\"Baby, be a [B]simple,[F#] really simple [G#m]man,
+Oh, be [B]something[F#] you love and un[G#m]derstand.
+Baby be a [B]simple[F#] kind of [G#m]man,
+Oh, won't you [B]do this for me, [F#]son, if you [G#m]can.\"
