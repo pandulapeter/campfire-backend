@@ -1,8 +1,11 @@
 {I}
-[D]
+[D]    [D]    [A]    [A]
+[A7]    [A7]    [D]    [D]
+[D7]    [D7]    [G]    [Gm]
+[D]    [A7]    [D]    [D]
 
 {V_1}
-Megkértem [D]én szép kedve[A]sem,
+Megkértem [D]őt, szép kedve[A]sem,
 Jöjjön ve[A7]lem, sétáljon ve[D]lem.
 Vár ránk a [D7]part, hív a nagy fo[G]lyó,  [Gm]
 Csobban a [D]víz,[A7] hív az Ohi[D]o.
@@ -11,8 +14,7 @@ Csobban a [D]víz,[A7] hív az Ohi[D]o.
 Megmondtam [D]én, enyém les[A]zel,
 És többé [A7]már senki nem ö[D]lel.
 Vár ránk a [D7]part, hív a nagy fo[G]lyó,  [Gm]
-Csobban a [D]víz,[A7] hív az Ohi[D]o.
-
+Csobban a [D]víz,[A7] hív az Ohi[D]o
 
 {V_2}
 És ami[D]kor átölel[A]tem,
@@ -31,6 +33,12 @@ Csobban a [D]víz,[A7] hív az Ohi[D]o.
 Jaj, mit tet[A7]tem, ó én osto[D]ba.
 Megöltem [D7]őt, akit szeret[G]tem,  [Gm]
 Mert nem kel[D]lett,[A7] ó a szerel[D]mem.
+
+{C}
+Megmondtam [D]én, enyém les[A]zel,
+És többé [A7]már senki nem ö[D]lel.
+Vár ránk a [D7]part, hív a nagy fo[G]lyó,  [Gm]
+Csobban a [D]víz,[A7] hív az Ohi[D]o.
 
 {C}
 Megmondtam [D]én, enyém les[A]zel,
