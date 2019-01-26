@@ -7,9 +7,9 @@
 [C#]Fall to pieces, [B]I'm fall[F#]ing.
 [C#]Fell to pieces [B]and I'm still [F#]falling.
 
-{C}
+{P}
 [G#]Every time I'[F#]m fa[C#]lling down,
-[G#]All alone I fa[F#]ll to [C#]pieces.
+[G#]All alone I fa[F#]ll to [G#]pieces.
 
 {B_1}
 [(]  [C#]    [C#]    [B]    [F#]    [)]  [x2]
@@ -20,9 +20,9 @@
 [C#]Fall to pieces, [B]I'm fall[F#]ing.
 [C#]Fell to pieces [B]and I'm still [F#]falling.
 
-{C}
+{P}
 [G#]Every time I'[F#]m fa[C#]lling down,
-[G#]All alone I fa[F#]ll to [C#]pieces.
+[G#]All alone I fa[F#]ll to [G#]pieces.
 
 {C}
 [C#]Every time I'[B]m fa[F#]lling down,
