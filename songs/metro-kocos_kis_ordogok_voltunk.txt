@@ -1,6 +1,5 @@
 {I}
-[G#]    [C#]    [G#]    [C#]
-[G#]    [C#]    [D#]    [D#]
+[G#]    [C#]    [G#]    [D#]
 
 {C}
 [G#]Kóc[C#]os kis [G#]ördögök [C#]voltunk,
