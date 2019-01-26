@@ -1,71 +1,73 @@
 {I}
-[C]
+[D]    [D]    [Bm]    [Bm]
+[Em]    [Bm]    [A]    [A]
+
 
 {V_1}
-[C]Isten hozott, hisz csak a [Dm]jók jöhetnek el,
-[G7]Ülj hát közel, a szeretet [C]éltet, átölel.
-S ki a [Am]csillagok közt él, mind aki [F]rég odaköltözött,
-[G7]Most visszatér s leül a [C]tűz mögött.
+[D]Isten hozott, hisz csak a [Em]jók jöhetnek el,
+[A7]Ülj hát közel, a szeretet [D]éltet, átölel.
+S ki a [Bm]csillagok közt él, mind aki [G]rég odaköltözött,
+[A7]Most visszatér s leül a [D]tűz mögött.
 
 {B}
-Sok [F]szív [Em]mély[Dm]én,
-Ott [Dm]ég ez a [C]tűz egy [F]kör köze[G]pén.
+Sok [G]szív [F#m]mély[Em]én,
+Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Egy [C]dal, és újra köztünk [Am]élsz,
-Ma újból te zen[Dm]élsz, úgy van, ahogy [G]rég volt.
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Szól egy [C]dal, és a lelkünk össze[Am]ér,
-A gyönyörű tűzfény[Dm]nél, napszínű a [G]hold.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Egy [D]dal, és újra köztünk [Bm]élsz,
+Ma újból te zen[Em]élsz, úgy van, ahogy [A]rég volt.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Szól egy [D]dal, és a lelkünk össze[Bm]ér,
+A gyönyörű tűzfény[Em]nél, napszínű a [A]hold.
 
 {V_2}
-[C]Súgd meg nekem, tudod, [Dm]így ígérted rég,
-[G7]A nagy titkokat, amit egy [C]kisgyerek nem ért.
-Hiszen [Am]annyi minden volt, amire [F]nem jutott idő.
-[G7]Pár pillanat, most hogy legyen [C]múlt, jelen, jövő?
+[D]Súgd meg nekem, tudod, [Em]így ígérted rég,
+[A7]A nagy titkokat, amit egy [D]kisgyerek nem ért.
+Hiszen [Bm]annyi minden volt, amire [G]nem jutott idő.
+[A7]Pár pillanat, most hogy legyen [D]múlt, jelen, jövő?
 
 {B}
-Sok [F]szív [Em]mély[Dm]én,
-Ott [Dm]ég ez a [C]tűz egy [F]kör köze[G]pén.
+Sok [G]szív [F#m]mély[Em]én,
+Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Egy [C]dal, és újra köztünk [Am]élsz,
-Ma újból te zen[Dm]élsz, úgy van, ahogy [G]rég volt.
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Szól egy [C]dal, és a lelkünk össze[Am]ér,
-A gyönyörű tűzfény[Dm]nél, napszínű a [G]hold.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Egy [D]dal, és újra köztünk [Bm]élsz,
+Ma újból te zen[Em]élsz, úgy van, ahogy [A]rég volt.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Szól egy [D]dal, és a lelkünk össze[Bm]ér,
+A gyönyörű tűzfény[Em]nél, napszínű a [A]hold.
 
 {S}
-[C]    [Dm]
-[G7]    [C]
-[Am]    [F]
-[G7]    [C]
+[D]    [Em]
+[A7]    [D]
+[Bm]    [G]
+[A7]    [D]
 
 {V_3}
-[C]Isten veled, a [Dm]könnyem nézd ma el,
-[G7]Mondj egy mesét, ahogyan [C]régen, csak ennyi kell.
-Ez a [Am]tűz örökkön ég, semmi [F]nem dúlhatja szét,
-[G7]A lelkekért, akiket [C]rejt az ég.
+[D]Isten veled, a [Em]könnyem nézd ma el,
+[A7]Mondj egy mesét, ahogyan [D]régen, csak ennyi kell.
+Ez a [Bm]tűz örökkön ég, semmi [G]nem dúlhatja szét,
+[A7]A lelkekért, akiket [D]rejt az ég.
 
 {B}
-Sok [F]szív [Em]mély[Dm]én,
-Ott [Dm]ég ez a [C]tűz egy [F]kör köze[G]pén.
+Sok [G]szív [F#m]mély[Em]én,
+Ott [Em]ég ez a [D]tűz egy [G]kör köze[A]pén.
 
 {C}
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Egy [C]dal, és újra köztünk [Am]élsz,
-Ma újból te zen[Dm]élsz, úgy van, ahogy [G]rég volt.
-Egy [C]dal, s te újra mellém [Am]ülsz
-És lobog a tábor[Dm]tűz, a szél beleka[G]rolt.
-Szól egy [C]dal, és a lelkünk össze[Am]ér,
-A gyönyörű tűzfény[Dm]nél, napszínű a [G]hold.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Egy [D]dal, és újra köztünk [Bm]élsz,
+Ma újból te zen[Em]élsz, úgy van, ahogy [A]rég volt.
+Egy [D]dal, s te újra mellém [Bm]ülsz
+És lobog a tábor[Em]tűz, a szél beleka[A]rolt.
+Szól egy [D]dal, és a lelkünk össze[Bm]ér,
+A gyönyörű tűzfény[Em]nél, napszínű a [A]hold.
 
 {O}
-[C]
+[D]
