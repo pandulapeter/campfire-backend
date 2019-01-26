@@ -1,32 +1,32 @@
 {I}
-[Am]
+[Dm]
 
 {V_1}
-[Am]Ha én rózsa volnék, [E]nem csak egyszer [Am]nyílnék.[E7]
-[C]Minden évben négyszer [G]virágba [C]borulnék.[E7]
-[Am]Nyílnék a fi[Dm]únak, [G]nyilnék én a [C]lánynak,[E7]
-Az [Am]igaz szere[E]lemnek [E7]és az elmú[Am]lásnak.
+[Dm]Ha én rózsa volnék, [A]nem csak egyszer [Dm]nyílnék.[A7]
+[F]Minden évben négyszer [C]virágba [F]borulnék.[A7]
+[Dm]Nyílnék a fi[Gm]únak, [C]nyilnék én a [F]lánynak,[A7]
+Az [Dm]igaz szere[A]lemnek [A7]és az elmú[Dm]lásnak.
 
 {V_2}
-[Am]Ha én kapu volnék, [E]mindig nyitva [Am]állnék.[E7]
-[C]Akárhonnan jönne, [G]bárkit been[C]gednék.[E7]
-[Am]Nem kérdezném [Dm]tőle, [G]hát téged ki [C]küldött.[E7]
-[Am]Akkor lennék [E]boldog, [E7]ha mindenki [Am]eljött.
+[Dm]Ha én kapu volnék, [A]mindig nyitva [Dm]állnék.[A7]
+[F]Akárhonnan jönne, [C]bárkit been[F]gednék.[A7]
+[Dm]Nem kérdezném [Gm]tőle, [C]hát téged ki [F]küldött.[A7]
+[Dm]Akkor lennék [A]boldog, [A7]ha mindenki [Dm]eljött.
 
 {V_3}
-[Am]Ha én ablak volnék, [E]akkora nagy [Am]lennék,[E7]
-[C]Hogy az egész világ [G]láthatóvá [C]váljék.[E7]
-[Am]Megértő sze[Dm]mekkel [G]átnéznének [C]rajtam.[E7]
-[Am]Akkor lennék [E]boldog, ha [E7]mindent meg[Am]mutattam.
+[Dm]Ha én ablak volnék, [A]akkora nagy [Dm]lennék,[A7]
+[F]Hogy az egész világ [C]láthatóvá [F]váljék.[A7]
+[Dm]Megértő sze[Gm]mekkel [C]átnéznének [F]rajtam.[A7]
+[Dm]Akkor lennék [A]boldog, ha [A7]mindent meg[Dm]mutattam.
   
 {V_4}
-[Am]Ha én utca volnék, [E]mindig tiszta [Am]lennék.[E7]
-[C]Minden áldott éjjel [G]fényben megfu[C]̈rödnék.[E7]
-[Am]És ha egyszer [Dm]engem [G]lánckerék ta[C]posna,[E7]
-[Am]Alattam a [E]föld is [E7]sírva beo[Am]molna.
+[Dm]Ha én utca volnék, [A]mindig tiszta [Dm]lennék.[A7]
+[F]Minden áldott éjjel [C]fényben megfu[F]̈rödnék.[A7]
+[Dm]És ha egyszer [Gm]engem [C]lánckerék ta[F]posna,[A7]
+[Dm]Alattam a [A]föld is [A7]sírva beo[Dm]molna.
 
 {V_5}
-[Am]Ha én zászló volnék, [E]sohasem [Am]lobognék.[E7]
-[C]Mindenféle szélnek [G]haragosa [C]lennék.[E7]
-[Am]Akkor lennék [Dm]boldog, ha [G]kifeszíte[C]nének,[E7]
-S [Am]nem lennék já[E]téka [E7]mindenféle [Am]szélnek.
+[Dm]Ha én zászló volnék, [A]sohasem [Dm]lobognék.[A7]
+[F]Mindenféle szélnek [C]haragosa [F]lennék.[A7]
+[Dm]Akkor lennék [Gm]boldog, ha [C]kifeszíte[F]nének,[A7]
+S [Dm]nem lennék já[A]téka [A7]mindenféle [Dm]szélnek.
