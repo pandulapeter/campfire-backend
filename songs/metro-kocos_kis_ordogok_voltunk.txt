@@ -1,45 +1,45 @@
 {I}
-[G]    [C]    [G]    [C]
-[G]    [C]    [D]    [D]
+[G#]    [C#]    [G#]    [C#]
+[G#]    [C#]    [D#]    [D#]
 
 {C}
-[G]Kóc[C]os kis [G]ördögök [C]voltunk,
-[G]Naptól és [C]kosztól [D]sötét volt arcunk,
-[G]Nyár[C]on csak [G]mezítláb [C]jártunk,
-[G]Barátom, [D]tán még [D7]emlékszel [G]rá.
+[G#]Kóc[C#]os kis [G#]ördögök [C#]voltunk,
+[G#]Naptól és [C#]kosztól [D#]sötét volt arcunk,
+[G#]Nyár[C#]on csak [G#]mezítláb [C#]jártunk,
+[G#]Barátom, [D#]tán még [D#7]emlékszel [G#]rá.
 
 {V_1}
-[C]Egyszer egy lánynak [G]orgonát vittünk,
-Mert [D]tetszett a lány ne[G]künk,
-[C]És mert a saját [G]kertjében szedtük,
-Csak [D]átadtuk, s futot[G]tunk.   [D7]
+[C#]Egyszer egy lánynak [G#]orgonát vittünk,
+Mert [D#]tetszett a lány ne[G#]künk,
+[C#]És mert a saját [G#]kertjében szedtük,
+Csak [D#]átadtuk, s futot[G#]tunk.   [D#7]
 
 {C}
-[G]Kóc[C]os kis [G]ördögök [C]voltunk,
-[G]Naptól és [C]kosztól [D]sötét volt arcunk,
-[G]Nyár[C]on csak [G]mezítláb [C]jártunk,
-[G]Barátom, [D]tán még [D7]emlékszel [G]rá.
+[G#]Kóc[C#]os kis [G#]ördögök [C#]voltunk,
+[G#]Naptól és [C#]kosztól [D#]sötét volt arcunk,
+[G#]Nyár[C#]on csak [G#]mezítláb [C#]jártunk,
+[G#]Barátom, [D#]tán még [D#7]emlékszel [G#]rá.
 
 {V_2}
-[C]Nyolc éven át egy [G]suliba jártunk,
-Az [D]utat jól ismer[G]tük,
-És [C]megtörtént mégis, [G]hogy nem találtuk
-S egy [D]moziba téved[G]tünk.   [D7]
+[C#]Nyolc éven át egy [G#]suliba jártunk,
+Az [D#]utat jól ismer[G#]tük,
+És [C#]megtörtént mégis, [G#]hogy nem találtuk
+S egy [D#]moziba téved[G#]tünk.   [D#7]
 
 {S}
-[G]    [C]    [G]    [C]
-[G]    [C]    [D]    [D]
-[G]    [C]    [G]    [C]
-[G]    [C]    [D]    [G]
+[G#]    [C#]    [G#]    [C#]
+[G#]    [C#]    [D#]    [D#]
+[G#]    [C#]    [G#]    [C#]
+[G#]    [C#]    [D#]    [G#]
 
 {V_3}
-[C]Egyszer egy szürke [G]egeret fogtunk,
-A [D]szürke szín hatá[G]sos,
-[C]Mert minden lány, kinek [G]kezébe adtuk,
-[D]Fehér lett, vagy pi[G]ros.   [E7]
+[C#]Egyszer egy szürke [G#]egeret fogtunk,
+A [D#]szürke szín hatá[G#]sos,
+[C#]Mert minden lány, kinek [G#]kezébe adtuk,
+[D#]Fehér lett, vagy pi[G#]ros.   [F7]
 
 {C}
-[A]Kóc[D]os kis [A]ördögök [D]voltunk,
-[A]Naptól és [D]kosztól [E]sötét volt arcunk,
-[A]Nyár[D]on csak [A]mezítláb [D]jártunk,
-[A]Barátom, [E]tán még [E7]emlékszel [A]rá.
+[A#]Kóc[D#]os kis [A#]ördögök [D#]voltunk,
+[A#]Naptól és [D#]kosztól [F]sötét volt arcunk,
+[A#]Nyár[D#]on csak [A#]mezítláb [D#]jártunk,
+[A#]Barátom, [F]tán még [F7]emlékszel [A#]rá.
