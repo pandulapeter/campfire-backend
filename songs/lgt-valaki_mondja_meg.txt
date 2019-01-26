@@ -1,72 +1,72 @@
 {I}
-[C]    [F]    [G]    [G]
-[C]    [F]    [G]    [G]
+[A#]    [D#]    [F]    [F]
+[A#]    [D#]    [F]    [F]
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek.
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek.
 
 {V_1}
-[C]Valaki mondja meg, milyen az élet,
-[F]Valaki mondja meg, [C]mér' ilyen,
-[C]Valaki mondja meg, mér' szép az élet,
-[F]Valaki mondja meg, [C]miért nem,
-[C]Valaki mondja meg, mér' jó az ember,
-[F]Valaki [E]mondja meg, [Am]miér' nem,
-[C]Valaki mondja meg, [G]mér' lesz gonosszá,
-[F]Valaki mondja meg, [C]miért nem!
+[A#]Valaki mondja meg, milyen az élet,
+[D#]Valaki mondja meg, [A#]mér' ilyen,
+[A#]Valaki mondja meg, mér' szép az élet,
+[D#]Valaki mondja meg, [A#]miért nem,
+[A#]Valaki mondja meg, mér' jó az ember,
+[D#]Valaki [D]mondja meg, [Gm]miér' nem,
+[A#]Valaki mondja meg, [F]mér' lesz gonosszá,
+[D#]Valaki mondja meg, [A#]miért nem!
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek.
 
 {V_2}
-[C]Valaki mondja meg, kinek kell hinnem,
-[F]Valaki mondja meg, [C]kinek nem,
-[C]Valaki mondja meg, ki hova érhet,
-[F]Milyen az íze az [C]élet vizének.
-[C]Valaki mondja meg, a hosszú évek,
-[F]Mért tűnnek [E]úgy mint egy [Am]pillanat,
-[C]Valaki mondja meg, [G]mi az, hogy elmúlt,
-[F]Valaki mondja meg, [C]hol maradt.
+[A#]Valaki mondja meg, kinek kell hinnem,
+[D#]Valaki mondja meg, [A#]kinek nem,
+[A#]Valaki mondja meg, ki hova érhet,
+[D#]Milyen az íze az [A#]élet vizének.
+[A#]Valaki mondja meg, a hosszú évek,
+[D#]Mért tűnnek [D]úgy mint egy [Gm]pillanat,
+[A#]Valaki mondja meg, [F]mi az, hogy elmúlt,
+[D#]Valaki mondja meg, [A#]hol maradt.
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek.
 
 {V_3}
-[C]Valaki mondja meg, hogyan kell élni,
-[F]Apám azt mondta, [C]ne bánts mást,
-[C]Valaki látta, hogy bántottalak már,
-[F]Valaki látta, hogy [C]bántottál.
-[C]Valaki mondja meg, miért vagyunk itt,
-[F]Anyám [E]azt mondta, hogy [Am]boldog légy, 
-[C]De anyám azt nem mondta, [G]mért nem e földön,
-[F]Anyám nem mondta, [C]mondd, miért.
+[A#]Valaki mondja meg, hogyan kell élni,
+[D#]Apám azt mondta, [A#]ne bánts mást,
+[A#]Valaki látta, hogy bántottalak már,
+[D#]Valaki látta, hogy [A#]bántottál.
+[A#]Valaki mondja meg, miért vagyunk itt,
+[D#]Anyám [D]azt mondta, hogy [Gm]boldog légy, 
+[A#]De anyám azt nem mondta, [F]mért nem e földön,
+[D#]Anyám nem mondta, [A#]mondd, miért.
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek.
 
 {B}
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Halálesőt permeteznek.
-[C]Madarak jönnek, [F]madarak jönnek,
-[G]Fekete könnyel megvéreznek
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Halálesőt permeteznek.
+[A#]Madarak jönnek, [D#]madarak jönnek,
+[F]Fekete könnyel megvéreznek
 
 {O}
-[C]
+[A#]
