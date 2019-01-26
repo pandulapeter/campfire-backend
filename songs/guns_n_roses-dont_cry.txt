@@ -1,69 +1,69 @@
 {I}
-[Am]        [Dm]        [G]        [C]    [C/B]
-[Am]        [Dm]        [G]        [Am]
+[G#m]        [C#m]        [F#]        [B]    [B/A#]
+[G#m]        [C#m]        [F#]        [G#m]
 
 {V_1}
-[Am]Talk to me [Dm]softly,
-There's [G]something in your [C]eyes.   [C/B]
-[Am]Don't hang your [Dm]head in sorrow,
-[G]And please don't [C]cry.   [C/B]
-[Am]I know how you [Dm]feel inside, I've,
-[G]I've been there be[C]fore.   [C/B]
-[Am]Somethin's [Dm]changin' inside you,
-[G]And don't you [C]kno[C/B]w.     [Am]
+[G#m]Talk to me [C#m]softly,
+There's [F#]something in your [B]eyes.   [B/A#]
+[G#m]Don't hang your [C#m]head in sorrow,
+[F#]And please don't [B]cry.   [B/A#]
+[G#m]I know how you [C#m]feel inside, I've,
+[F#]I've been there be[B]fore.   [B/A#]
+[G#m]Somethin's [C#m]changin' inside you,
+[F#]And don't you [B]kno[B/A#]w.     [G#m]
 
 {C}
-[F]Don't you [G]cry to[Am]night, I still love you baby.
-[F]Don't you [G]cry to[Am]night.
-[F]Don't you [G]cry to[C]night,
-There's a [C/B]heaven a[Am]bove you [G]baby,
-[F]And don't you [G]cry [Am]tonight.
+[E]Don't you [F#]cry to[G#m]night, I still love you baby.
+[E]Don't you [F#]cry to[G#m]night.
+[E]Don't you [F#]cry to[B]night,
+There's a [B/A#]heaven a[G#m]bove you [F#]baby,
+[E]And don't you [F#]cry [G#m]tonight.
 
 {V_2}
-[Am]Give me a [Dm]whisper,
-[G]And give me a [C]sigh.   [C/B]
-[Am]Give me a [Dm]kiss before you
-[G]Tell me good[C]bye.   [C/B]
-[Am]Don't you [Dm]take it so hard now,
-[G]And please don't take it so [C]bad.   [C/B]
-[Am]I'll still be [Dm]thinkin' of you,
-[G]And the times we [C]had[C/B], baby.[Am]    [G]
+[G#m]Give me a [C#m]whisper,
+[F#]And give me a [B]sigh.   [B/A#]
+[G#m]Give me a [C#m]kiss before you
+[F#]Tell me good[B]bye.   [B/A#]
+[G#m]Don't you [C#m]take it so hard now,
+[F#]And please don't take it so [B]bad.   [B/A#]
+[G#m]I'll still be [C#m]thinkin' of you,
+[F#]And the times we [B]had[B/A#], baby.[G#m]    [F#]
 
 {C}
-[F]And don't you [G]cry to[Am]night.
-[F]Don't you [G]cry to[Am]night.
-[F]Don't you [G]cry to[C]night,
-There's a [C/B]heaven a[Am]bove you [G]baby,
-[F]And don't you [G]cry [Am]tonight.
+[E]And don't you [F#]cry to[G#m]night.
+[E]Don't you [F#]cry to[G#m]night.
+[E]Don't you [F#]cry to[B]night,
+There's a [B/A#]heaven a[G#m]bove you [F#]baby,
+[E]And don't you [F#]cry [G#m]tonight.
 
 {S}
-[Dm]        [F]        [G]        [Am]    [G]
-[F]        [G]        [Am]        [Am]
-[F]        [G]        [Em]        [F]
-[F]        [G]        [Am]        [Am]
+[C#m]        [E]        [F#]        [G#m]    [F#]
+[E]        [F#]        [G#m]        [G#m]
+[E]        [F#]        [D#m]        [E]
+[E]        [F#]        [G#m]        [G#m]
 
 {B}
-[Dm]And please re[G]member,
-[C]That I [C/B]never [Am]lied.
-[Dm]And please re[G]member,
-[C]How I [C/B]felt in[Am]side now honey.
-[Dm]You gotta [G]make it your own way,
-[C]But you'll [C/B]be al[Am]right now sugar.
-[Dm]You'll feel [G]better tomorrow,
-[C]Come the [C/B]morning [Am]light now [G]baby.
+[C#m]And please re[F#]member,
+[B]That I [B/A#]never [G#m]lied.
+[C#m]And please re[F#]member,
+[B]How I [B/A#]felt in[G#m]side now honey.
+[C#m]You gotta [F#]make it your own way,
+[B]But you'll [B/A#]be al[G#m]right now sugar.
+[C#m]You'll feel [F#]better tomorrow,
+[B]Come the [B/A#]morning [G#m]light now [F#]baby.
 
 {C}
-[F]And don't you [G]cry to[Am]night.
-[F]And don't you [G]cry to[Am]night.
-[F]And don't you [G]cry to[C]night,
-There's a [C/B]heaven a[Am]bove you [G]baby,
+[E]And don't you [F#]cry to[G#m]night.
+[E]And don't you [F#]cry to[G#m]night.
+[E]And don't you [F#]cry to[B]night,
+There's a [B/A#]heaven a[G#m]bove you [F#]baby,
 
 {O}
-[F]And don't you [G]cry,
-[F]Don't you ever [G]cry,
-[F]Don't you [G]cry [Em]tonight.
-Baby, [F]maybe someday,
-[F]Don't you [G]cry,
-[F]Don't you ever [G]cry,
-[F]Don't you [G]cry,
-To[C]night.
+[E]And don't you [F#]cry,
+[E]Don't you ever [F#]cry,
+[E]Don't you [F#]cry [D#m]tonight.
+Baby, [E]maybe someday,
+[E]Don't you [F#]cry,
+[E]Don't you ever [F#]cry,
+[E]Don't you [F#]cry,
+To[B]night.
