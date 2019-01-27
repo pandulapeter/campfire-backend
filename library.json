@@ -185,5 +185,6 @@
 "id":"harry_chapin-cats_in_the_cradle","title":"Cats in the Cradle","artist":"Harry Chapin","language":"en","popularity":2},{
 "id":"the_marshall_tucker_band-cant_you_see","title":"Can't You See","artist":"The Marshall Tucker Band","language":"en","popularity":1},{
 "id":"mika-happy_ending","title":"Happy Ending","artist":"Mika","language":"en","popularity":4},{
-"id":"acdc-highway_to_hell","title":"Highway to Hell","artist":"AC/DC","language":"en","popularity":7}
+"id":"acdc-highway_to_hell","title":"Highway to Hell","artist":"AC/DC","language":"en","popularity":7},{
+"id":"bruno_mars-lazy_song","title":"Lazy Song","artist":"Bruno Mars","language":"en","isExplicit":"true","popularity":7}
 ]
