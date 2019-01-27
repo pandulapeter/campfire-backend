@@ -41,7 +41,8 @@
     "ozzy_osbourne-mama_im_coming_home",
     "ac_dc-whole_lotta_rosie",
     "dire_straits-walk_of_life",
-    "queen-i_want_to_break_free"
+    "queen-i_want_to_break_free",
+    "acdc-highway_to_hell"
 ],"language":["en"],"popularity":4,"isExplicit":"false","date":2},{
 "id":"best-of-glam-metal","title":"Best of Glam Metal","description":"Catchy riffs, high-pitched screams, makeup, spandex and hairspray","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=best-of-glam-metal","songs":[
     "bon_jovi-its_my_life",
