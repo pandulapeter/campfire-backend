@@ -2,28 +2,28 @@
 [-]     [-]     [-]     [G#]
 [G#]     [-]     [-]     [C#/F]
 [F#]     [-]     [-]     [C#/F]
-[F#]     [C#/F]     [F#]     [C#/F]
+[F#]    [C#/F]      [F#]     [C#/F]
 [G#]     [-]      [-]     [G#]
 [G#]     [-]     [-]     [C#/F]
 [F#]     [-]     [-]     [C#/F]
-[F#]     [C#/F]     [F#]     [C#/F]
+[F#]    [C#/F]      [F#]     [C#/F]
 [G#]     [-]      [-]     [G#]
 
 {V_1}
 [G#]Living easy,   [C#/F]
-[F#]Living free,   [C#/F]     [F#]
-[C#/F]Season [F#]ticket o[C#/F]n a o[G#]ne-way ride.   [G#]
+[F#]Living free,   [C#/F]      [F#]      [C#/F]
+Season [F#]ticket [C#/F]on a on[G#]e-way ride.   [G#]
 [G#]Asking nothing,   [C#/F]
-[F#]Leave me be,   [C#/F]     [F#]
-[C#/F]Taking [F#]everyt[C#/F]hing in[G#] my stride.   [G#]
+[F#]Leave me be,   [C#/F]      [F#]      [C#/F]
+Taking[F#] every[C#/F]thing in[G#] my stride.   [G#]
 
 {V_2}
 [G#]Don't need reason,   [C#/F]
-[F#]Don't need rhyme,   [C#/F]     [F#]
-[C#/F]Ain't n[F#]othing [C#/F]I would [G#]rather do.   [G#]
+[F#]Don't need rhyme,   [C#/F]      [F#]      [C#/F]
+Ain't [F#]nothing[C#/F] I would [G#]rather do.   [G#]
 [G#]Going down,   [C#/F]
-[F#]Party time,   [C#/F]     [F#]
-[C#/F]My fri[F#]ends are [C#/F]gonna b[D#]e there too!   [D#]
+[F#]Party time,   [C#/F]      [F#]      [C#/F]
+My [F#]friends are [C#/F]gonna b[D#]e there too!   [D#]
 
 {C}
 I'm on the [G#]highway to [C#]hell,   [F#]
@@ -33,19 +33,19 @@ I'm o[C#/F]n the [G#]highway to [C#]hell!
 
 {V_3}
 [G#]No stop signs,   [C#/F]
-[F#]Speed limit,   [C#/F]     [F#]
-[C#/F]Nobod[F#]y's g[C#/F]onna sl[G#]ow me down.   [G#]
+[F#]Speed limit,   [C#/F]      [F#]      [C#/F]
+No[F#]body's [C#/F]gonna s[G#]low me down.   [G#]
 [G#]Like a wheel,   [C#/F]
-[F#]Gonna spin it,   [C#/F]     [F#]
-[C#/F]Nobod[F#]y's g[C#/F]onna me[G#]ss me around.   [G#]
+[F#]Gonna spin it,   [C#/F]      [F#]      [C#/F]
+No[F#]body's [C#/F]gonna m[G#]ess me around.   [G#]
 
 {V_4}
 [G#]Hey Satan,   [C#/F]
-[F#]Paid my dues,   [C#/F]     [F#]    [C#/F]
-[F#]Playing [C#/F]in a ro[G#]cking band.   [G#]
+[F#]Paid my dues,   [C#/F]      [F#]     [C#/F]
+[F#]Playing [C#/F]in a roc[G#]king band.   [G#]
 [G#]Hey mama,   [C#/F]
-[F#]Look at me,   [C#/F]     [F#]
-[C#/F]I'm on my [F#]way [C#/F]to the [D#]promised land!   [D#]
+[F#]Look at me,   [C#/F]      [F#]      [C#/F]
+I'm on my[F#] way [C#/F]to the [D#]promised land!   [D#]
 
 {C}
 I'm on the [G#]highway to [C#]hell,   [F#]    [C#/F]
