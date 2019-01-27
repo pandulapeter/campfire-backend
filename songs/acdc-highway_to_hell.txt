@@ -1,85 +1,85 @@
 {I}
-[-]     [-]     [-]     [A]
-[A]     [-]     [-]     [D/F#]
-[G]     [-]     [-]     [D/F#]
-[G]     [D/F#]     [G]     [D/F#]
-[A]     [-]      [-]     [A]
-[A]     [-]     [-]     [D/F#]
-[G]     [-]     [-]     [D/F#]
-[G]     [D/F#]     [G]     [D/F#]
-[A]     [-]      [-]     [A]
+[-]     [-]     [-]     [G#]
+[G#]     [-]     [-]     [C#/F]
+[F#]     [-]     [-]     [C#/F]
+[F#]     [C#/F]     [F#]     [C#/F]
+[G#]     [-]      [-]     [G#]
+[G#]     [-]     [-]     [C#/F]
+[F#]     [-]     [-]     [C#/F]
+[F#]     [C#/F]     [F#]     [C#/F]
+[G#]     [-]      [-]     [G#]
 
 {V_1}
-[A]Living easy,   [D/F#]
-[G]Living free,   [D/F#]     [G]
-[D/F#]Season [G]ticket o[D/F#]n a o[A]ne-way ride.   [A]
-[A]Asking nothing,   [D/F#]
-[G]Leave me be,   [D/F#]     [G]
-[D/F#]Taking [G]everyt[D/F#]hing in[A] my stride.   [A]
+[G#]Living easy,   [C#/F]
+[F#]Living free,   [C#/F]     [F#]
+[C#/F]Season [F#]ticket o[C#/F]n a o[G#]ne-way ride.   [G#]
+[G#]Asking nothing,   [C#/F]
+[F#]Leave me be,   [C#/F]     [F#]
+[C#/F]Taking [F#]everyt[C#/F]hing in[G#] my stride.   [G#]
 
 {V_2}
-[A]Don't need reason,   [D/F#]
-[G]Don't need rhyme,   [D/F#]     [G]
-[D/F#]Ain't n[G]othing [D/F#]I would [A]rather do.   [A]
-[A]Going down,   [D/F#]
-[G]Party time,   [D/F#]     [G]
-[D/F#]My fri[G]ends are [D/F#]gonna b[E]e there too!   [E]
+[G#]Don't need reason,   [C#/F]
+[F#]Don't need rhyme,   [C#/F]     [F#]
+[C#/F]Ain't n[F#]othing [C#/F]I would [G#]rather do.   [G#]
+[G#]Going down,   [C#/F]
+[F#]Party time,   [C#/F]     [F#]
+[C#/F]My fri[F#]ends are [C#/F]gonna b[D#]e there too!   [D#]
 
 {C}
-I'm on the [A]highway to [D]hell,   [G]
-[D/F#]On the [A]highway to [D]hell,   [G]     [D/F#]
-[A]Highway to [D]hell,   [G]
-I'm o[D/F#]n the [A]highway to [D]hell!
+I'm on the [G#]highway to [C#]hell,   [F#]
+[C#/F]On the [G#]highway to [C#]hell,   [F#]     [C#/F]
+[G#]Highway to [C#]hell,   [F#]
+I'm o[C#/F]n the [G#]highway to [C#]hell!
 
 {V_3}
-[A]No stop signs,   [D/F#]
-[G]Speed limit,   [D/F#]     [G]
-[D/F#]Nobod[G]y's g[D/F#]onna sl[A]ow me down.   [A]
-[A]Like a wheel,   [D/F#]
-[G]Gonna spin it,   [D/F#]     [G]
-[D/F#]Nobod[G]y's g[D/F#]onna me[A]ss me around.   [A]
+[G#]No stop signs,   [C#/F]
+[F#]Speed limit,   [C#/F]     [F#]
+[C#/F]Nobod[F#]y's g[C#/F]onna sl[G#]ow me down.   [G#]
+[G#]Like a wheel,   [C#/F]
+[F#]Gonna spin it,   [C#/F]     [F#]
+[C#/F]Nobod[F#]y's g[C#/F]onna me[G#]ss me around.   [G#]
 
 {V_4}
-[A]Hey Satan,   [D/F#]
-[G]Paid my dues,   [D/F#]     [G]    [D/F#]
-[G]Playing [D/F#]in a ro[A]cking band.   [A]
-[A]Hey mama,   [D/F#]
-[G]Look at me,   [D/F#]     [G]
-[D/F#]I'm on my [G]way [D/F#]to the [E]promised land!   [E]
+[G#]Hey Satan,   [C#/F]
+[F#]Paid my dues,   [C#/F]     [F#]    [C#/F]
+[F#]Playing [C#/F]in a ro[G#]cking band.   [G#]
+[G#]Hey mama,   [C#/F]
+[F#]Look at me,   [C#/F]     [F#]
+[C#/F]I'm on my [F#]way [C#/F]to the [D#]promised land!   [D#]
 
 {C}
-I'm on the [A]highway to [D]hell,   [G]    [D/F#]
-[A]Highway to [D]hell,   [G]
-I'm [D/F#]on the [A]highway to [D]hell,   [G]    [D/F#]
-[A]Highway to [D]hell!
+I'm on the [G#]highway to [C#]hell,   [F#]    [C#/F]
+[G#]Highway to [C#]hell,   [F#]
+I'm [C#/F]on the [G#]highway to [C#]hell,   [F#]    [C#/F]
+[G#]Highway to [C#]hell!
 
 {B_1}
-[D]    [G]
-[D]Don't stop me!
-[D]    [G]    [D]
-[G]    [D]
+[C#]    [F#]
+[C#]Don't stop me!
+[C#]    [F#]    [C#]
+[F#]    [C#]
 
 {S}
-[(]  [A]        [A]
-    [D]        [G]    [D/F#]      [)]  [x4]
+[(]  [G#]        [G#]
+    [C#]        [F#]    [C#/F]      [)]  [x4]
 
 {C}
-I'm on the [A]highway to [D]hell,   [G]
-[D/F#]On the [A]highway to [D]hell,   [G]
-I'm [D/F#]on the [A]highway to [D]hell,   [G]
-[D/F#]On the [A]highway...
+I'm on the [G#]highway to [C#]hell,   [F#]
+[C#/F]On the [G#]highway to [C#]hell,   [F#]
+I'm [C#/F]on the [G#]highway to [C#]hell,   [F#]
+[C#/F]On the [G#]highway...
 
 {B2}
-[D-]
-[G]    [D/F#]
+[C#-]
+[F#]    [C#/F]
 
 {C}
-[A]Highway to [D]hell!   [G]
-I'm [D/F#]on the [A]highway to [D]hell,   [G]    [D/F#]
-[A]Highway to [D]hell,   [G]    [D/F#]
-[A]Highway to [D]hell!
+[G#]Highway to [C#]hell! (I'm on the [F#]highway [C#/F]to hell)
+[G#]Highway to [C#]hell! ([F#]Highway [C#/F]to hell!)
+[G#]Highway to [C#]hell!   [F#]     [C#/F]
+[G#]Highway to [C#]hell!
 
 {O}
 And I'm going down...
 All the way!
-[A]I'm on the highway to hell.
+[G#]I'm on the highway to hell.
