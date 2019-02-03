@@ -38,5 +38,8 @@ Purple rain, purple [F#]rain.
 I only want to see you, only want to see you, in the purple [Bsus2]rain.
 
 {S}
-[(]  [Bsus2]        [G#m7]        [F#]      [E]    [)]  [x8]
+[(]  [Bsus2]        [G#m7]        [F#]      [E]    [)]  [x4]
+
+{O}
+[(]  [Bsus2]        [G#m7]        [F#]      [E]    [)]  [x4]
     [B]
