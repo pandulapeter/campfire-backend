@@ -187,5 +187,6 @@
 "id":"mika-happy_ending","title":"Happy Ending","artist":"Mika","language":"en","popularity":4},{
 "id":"acdc-highway_to_hell","title":"Highway to Hell","artist":"AC/DC","language":"en","popularity":7},{
 "id":"bruno_mars-lazy_song","title":"Lazy Song","artist":"Bruno Mars","language":"en","isExplicit":"true","popularity":7},{
-"id":"bob_marley_and_the_wailers-no_woman_no_cry","title":"No Woman, No Cry","artist":"Bob Marley and the Wailers","language":"en","popularity":8}
+"id":"bob_marley_and_the_wailers-no_woman_no_cry","title":"No Woman, No Cry","artist":"Bob Marley and the Wailers","language":"en","popularity":8},{
+"id":"prince-purple_rain","title":"Purple Rain","artist":"Prince","language":"en","popularity":9}
 ]
