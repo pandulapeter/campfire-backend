@@ -25,7 +25,7 @@ Sha la la [C]la la la la [G]la la la la te [D]da, just like that,
 [G]Sha la la [C]la la la la [G]la la la la te [D]da, la te [G]da.
 
 {S}
-                    [G]    [G]
+                  [G]    [G]
 [G]    [C]    [G]    [D]
 
 {V_3}
@@ -43,6 +43,7 @@ Sha la la [C]la la la la [G]la la la la te [D]da, just like that,
 Sha la la [C]la la la la [G]la la la la te [D]da,
 [G]Sha la la [C]la la la la [G]la la la la te [D]da.
 
-{C}
-Sha la la [C]la la la la [G]la la la la te [D]da,
-[G]Sha la la [C]la la la la [G]la la la la te [D]da, la te [G]da.
+{O}
+[G]Sha la la [C]la la la la [G]la la la la te [D]da,
+[G]Sha la la [C]la la la la [G]la la la la te [D]da.
+[G]
