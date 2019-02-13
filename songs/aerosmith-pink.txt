@@ -1,7 +1,7 @@
 {I}
 [(]  [G]    [F]    [C]    [D]    [)]  [x3]
-    [Em]        [A]
-    [F]
+    [Em]    [Em]    [A]    [A]
+    [F]    [F]    [F]    [F]
 
 {V_1}
 [G]Pink it's [F]my new obses[C]sion,   [D]
@@ -20,10 +20,10 @@ Yeah, [G]pink it's not [F]even a ques[C]tion,   [D]
 I yell [G]pink when I [F]turn out the light,[C]    [D]
 Yeah, [G]pink gets me [F]high as a kite,[C]    [D]
 And I [Em]think everything is go[A]ing to be all [F]right,
-No matter what we do tonight.
+No matter what we do to[G]night.
 
 {V_3}
-[G]You could [F]be my flamin[C]go,   [D]
+You could [F]be my flamin[C]go,   [D]
 'Cause [G]pink is the [F]new kinda lin[C]go,   [D]
 [G]Pink like a [F]deco umbrel[C]la,   [D]
 It's [G]kink - but you [F]don't ever tell [C]her.   [D]
@@ -33,10 +33,10 @@ It's [G]kink - but you [F]don't ever tell [C]her.   [D]
 I yell [G]pink when I [F]turn out the light,[C]    [D]
 Yeah, [G]pink gets me [F]high as a kite,[C]    [D]
 And I [Em]think everything is go[A]ing to be all [F]right,
-No matter what we do tonight.
+No matter what we do to[G]night.
 
 {S}
-[G]    [F]    [C]    [C]
+        [F]    [C]    [C]
 [D#]    [G#]    [D#]    [D#]
 [C]    [A#]    [F]    [F]
 [D]    [D]    [D]    [D]
@@ -52,7 +52,4 @@ As [G]pink as the [F]sheets that we lay [C]on,   [D]
 I yell [G]pink when I [F]turn out the light,[C]    [D]
 Yeah, [G]pink gets me [F]high as a kite,[C]    [D]
 And I [Em]think everything is go[A]ing to be all [F]right,
-No matter what we do tonight.
-
-{O}
-[G]
+No matter what we do to[G]night.
