@@ -1,6 +1,6 @@
 {I}
-[E]    [B]    [C#m]    [A]
-[E]    [B]    [G#m]    [A]
+[E]    [B]   [C#m]     [A]
+[E]    [B]   [G#m]     [A]
 
 {V_1}
 [E]Just a small [B]town girl,
@@ -15,8 +15,8 @@ Goin'[G#m] anywhere.   [A]
 Goin'[G#m] anywhere.   [A]
 
 {B_1}
-[E]    [B]    [C#m]    [A]
-[E]    [B]    [G#m]    [A]
+[E]    [B]   [C#m]     [A]
+[E]    [B]   [G#m]     [A]
 
 {V_3}
 [E]A singer in a [B]smoky room,
@@ -31,7 +31,7 @@ Their [A]shadows searching in the [E]night.
 [A]Hiding somewhere in the [B]night.   [E]    [B]    [E]    [A]
 
 {B_2}
-[E]    [B]    [C#m]    [A]
+[E]    [B]   [C#m]     [A]
 
 {V_4}
 [E]Working hard to [B]get my fill,
@@ -52,8 +52,8 @@ Their [A]shadows searching in the [E]night.
 [A]Hiding somewhere in the [B]night.   [E]    [B]    [E]    [A]
 
 {S}
-[E]    [B]    [C#m]    [A]
-[E]    [B]    [G#m]    [A]
+[E]    [B]   [C#m]     [A]
+[E]    [B]   [G#m]     [A]
 
 {C}
 [E]Don't stop be[B]lievin',
@@ -64,7 +64,6 @@ Their [A]shadows searching in the [E]night.
 [E]Don't stop be[B]lievin',
 [C#m]Hold on!   [A]
 [E]Streetlights, [B]people.   [G#m]    [A]
-
 
 {C}
 [E]Don't stop be[B]lievin',
