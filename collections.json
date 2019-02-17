@@ -56,6 +56,7 @@
     "the_proclaimers-im_gonna_be",
     "daniel_powter-bad_day",
     "gnarls_barkley-crazy",
+    "lady_gaga_bradley_cooper-shallow",
     "nickelback-rockstar",
     "fools_garden-lemon_tree",
     "smokie-living_next_door_to_alice",
@@ -97,6 +98,7 @@
 "id":"classic-rock-collection","title":"Classic Rock Collection","description":"Old school rock songs from the 60s and 70s","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=classic-rock-collection","songs":[
     "creedence_clearwater_revival-have_you_ever_seen_the_rain",
     "don_mclean-american_pie",
+    "eagles-hotel_california",
     "the_beatles-get_back",
     "creedence_clearwater_revival-bad_moon_rising",
     "elvis_presley-jailhouse_rock",
