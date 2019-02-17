@@ -1,8 +1,8 @@
 {I}
-[Em7]    [D/F#]    [G]
-[C]        [G]    [D]
-[Em7]    [D/F#]    [G]
-[Em7]    [D/F#]    [G]
+[Em7]      [D/F#]      [G]
+[C]            [G]      [D]
+[Em7]      [D/F#]      [G]
+[Em7]      [D/F#]      [G]
 
 {V_1}
 [Em7]Tell me [D/F#]somethin', [G]girl,
@@ -11,14 +11,14 @@
 [C]Is there somethin' else you're [G]searchin' [D]for?
 
 {P}
-[Em7]  I'm [D/F#]fall[G]ing,
+[Em7]      I'm[D/F#] falli[G]ng,
 [C]In all the good times I [G]find my[D]self longin'
-[Em7]  [D/F#]For c[G]hange,
+[Em7]      [D/F#]For ch[G]ange,
 [C]And in the bad times I [G]fear my[D]self.
 
 {B_1}
-[Em7]    [D/F#]    [G]
-[Em7]    [D/F#]    [G]
+[Em7]      [D/F#]      [G]
+[Em7]      [D/F#]      [G]
 
 {V_2}
 [Em7]Tell me [D/F#]something, [G]boy,
@@ -27,9 +27,9 @@
 [C]Ain't it hard keeping it [G]so hard[D]core?
 
 {P}
-[Em7]  I'm [D/F#]fall[G]ing,
+[Em7]      I'm[D/F#] falli[G]ng,
 [C]In all the good times I [G]find my[D]self longin'
-[Em7]  [D/F#]For c[G]hange,
+[Em7]      [D/F#]For ch[G]ange,
 [C]And in the bad times I [G]fear my[D]self.
 
 {C}
@@ -43,8 +43,7 @@ I'm [Am]off the deep end, [D/F#]watch as I dive in,
 We're [G]far from the [D/F#]shallow [Em]now.
 
 {B_2}
-[Em]    [Bm]    [D]    [A]
-[Em]    [Bm]    [D]    [A]
+[(]  [Em]    [Bm]    [D]    [A]    [)]  [x2]
 
 {C}
 I'm [Am]off the deep end, [D/F#]watch as I dive in,
