@@ -2,7 +2,6 @@
 [Em7]      [D/F#]      [G]
 [C]            [G]      [D]
 [Em7]      [D/F#]      [G]
-[Em7]      [D/F#]      [G]
 
 {V_1}
 [Em7]Tell me [D/F#]somethin', [G]girl,
@@ -11,9 +10,9 @@
 [C]Is there somethin' else you're [G]searchin' [D]for?
 
 {P}
-[Em7]      I'[D/F#]m fallin[G]g,
+[Em7]      I'm[D/F#] fallin[G]g,
 [C]In all the good times I [G]find my[D]self longin'
-[Em7]    [D/F#]  For c[G]hange,
+[Em7]     [D/F#] For ch[G]ange,
 [C]And in the bad times I [G]fear my[D]self.
 
 {B_1}
@@ -29,14 +28,14 @@
 {P}
 [Em7]      I'm[D/F#] fallin[G]g,
 [C]In all the good times I [G]find my[D]self longin'
-[Em7]    [D/F#]  For c[G]hange,
+[Em7]     [D/F#] For ch[G]ange,
 [C]And in the bad times I [G]fear my[D]self.
 
 {C}
-I'm [Am]off the deep end, [D/F#]watch as I dive in,
+[Am]I'm off the deep end, [D/F#]watch as I dive in,
 [G]I'll never [D/F#]meet the [Em]ground.
 [Am]Crash through the surface, [D/F#]where they can't hurt us,
-[G]We're far from the [D/F#]shallow [Em]now.
+We're [G]far from the [D/F#]shallow [Em]now.
 [Am]In the sha-ha-[D/F#]sha-ha-low,
 [G]In the [D/F#]sha-ha-sha-la-[Em]la-la-low.
 [Am]In the sha-ha-[D/F#]sha-ha-low,
@@ -46,11 +45,14 @@ We're [G]far from the [D/F#]shallow [Em]now.
 [(]  [Em]    [Bm]    [D]    [A]    [)]  [x2]
 
 {C}
-I'm [Am]off the deep end, [D/F#]watch as I dive in,
+[Am]I'm off the deep end, [D/F#]watch as I dive in,
 [G]I'll never [D/F#]meet the [Em]ground.
 [Am]Crash through the surface, [D/F#]where they can't hurt us,
-[G]We're far from the [D/F#]shallow [Em]now.
+We're [G]far from the [D/F#]shallow [Em]now.
 [Am]In the sha-ha-[D/F#]sha-ha-low,
 [G]In the [D/F#]sha-ha-sha-la-[Em]la-la-low.
 [Am]In the sha-ha-[D/F#]sha-ha-low,
 We're [G]far from the [D/F#]shallow [Em]now.
+
+{O}
+[Em]
