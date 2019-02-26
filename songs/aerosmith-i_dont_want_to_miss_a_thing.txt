@@ -1,6 +1,6 @@
 {I}
-[(]  [Asus2/B]        [Asus2/C#]
-    [Asus2/E]        [Asus2/E]        [)]  [x4]
+[(]  [Asus2/B]          [Asus2/C#]
+    [Asus2/E]          [Asus2/E]          [)]  [x4]
 
 {V_1}
 I could [D]stay awake [A/C#]just to hear you [Bm7]breathing,
