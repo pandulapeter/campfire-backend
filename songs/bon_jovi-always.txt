@@ -1,6 +1,6 @@
 {I}
 [E]        [A]
-[C#m]    [B]    [A]
+[C#m]     [B]   [A]
 
 {V_1}
 [C#m]This Romeo is bleeding,
@@ -60,8 +60,8 @@ There's no price I won't [A]pay,
 To say these words to you.
 
 {S}
-[E]        [B]        [F#m]        [C#m]    [B]
-[E]        [B]        [A]        [B]    [A]  [B]
+[E]        [B]        [F#m]        [C#m]      [B]
+[E]        [B]        [A]        [B]      [A]    [B]
 
 {B_2}
 Well, there [A]ain't no luck in these loaded dice,
@@ -80,4 +80,4 @@ And I'll [B]love you, [A]alwa[B]ys.
 
 {O}
 [(]  [E]        [B]
-    [C#m]    [B]    [A]    [)]  [x2]
+    [C#m]     [B]   [A]   [)]  [x2]
