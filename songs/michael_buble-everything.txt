@@ -1,8 +1,8 @@
 {I}
-[D]    [Bm7]      [E7]     [Em7]
-[D]    [Bm7]      [E7]     [Em7]
-[D]    [Bm7]      [E7]     [E7]
-[G]    [A7sus4]      [D]     [Dsus4]
+[D]    [Bm7]         [E7]     [Em7]
+[D]    [Bm7]         [E7]     [Em7]
+[D]    [Bm7]         [E7]     [E7]
+[G]    [A7sus4]         [D]     [Dsus4]
 
 {V_1}
 You're a [D]falling star,[Bm7]
@@ -35,8 +35,8 @@ You're every [Gm6]word,
 You're every[D]thing.
 
 {B_1}
-        [Bm7]      [E7]     [E7]
-[G]    [A7sus4]      [D]     [Dsus4]
+        [Bm7]         [E7]     [E7]
+[G]    [A7sus4]         [D]     [Dsus4]
 
 {V_5}
 You're a [D]carousel,[Bm7]
@@ -69,16 +69,16 @@ You're every [Gm6]word,
 You're every[D]thing.
 
 {S}
-        [Bm7]      [E7]     [E7]
-[G]    [A7sus4]      [D]     [Dsus4]
-[D]    [Bm7]      [E7]     [E7]
-[G]    [A7sus4]      [D]     [Dsus4]
+        [Bm7]         [E7]     [E7]
+[G]    [A7sus4]         [D]     [Dsus4]
+[D]    [Bm7]         [E7]     [E7]
+[G]    [A7sus4]         [D]     [Dsus4]
 
 {B_2}
-So [D]la, [Bm7]la, l[E7]a, la,
-[G]La, [A7sus4]la, la.   [D]    [Dsus4]
-So [D]la, [Bm7]la, l[E7]a, la,
-[G]La, [A7sus4]la, la.   [D]    [-]
+So [D]laa, [Bm7]laa, l[E7]aa, laa,
+[G]Laa, [A7sus4]laa, la.   [D]    [Dsus4]
+So [D]laa, [Bm7]laa, l[E7]aa, laa,
+[G]Laa, [A7sus4]laa, la.   [D]    [-]
 
 {P}
 And in this[A] craz[B7sus4]y
@@ -88,14 +88,14 @@ And through these[A] craz[B7sus4]y
 You [G#7]make me [C#m7]sing,
 You're [E]every [F#7]line,
 You're every [Am6]word,
-You're every[C#m7]thing.    [C#m7/B]
+You're every[C#m7]thing...    [C#m7/B]
 
 {O}
 You're every [F#7]song,
 And I sing a[Am6]long,
 'Cause you're my every[E]thing.   [C#m7]      [F#7]     [A]
 Yeah, [E]yeah!    [C#m7]      [F#7]     [A]
-So [E]la, [C#m7]la, l[F#7]a, la,
-[A]La, [B7sus4]la, la.   [E]    [Esus4]
-So [E]la, [C#m7]la, l[F#7]a, la,
-[A]La, la-la-[B7sus4]la, la-la [E]la-la-la.
+So [E]laa, [C#m7]laa, l[F#7]aa, laa,
+[A]Laa, [B7sus4]laa, la.   [E]    [Esus4]
+So [E]laa, [C#m7]laa, l[F#7]aa, laa,
+[A]Laa, la-la-[B7sus4]laa, la-la [E]la-la-laa.
