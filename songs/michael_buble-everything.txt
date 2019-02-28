@@ -75,12 +75,12 @@ You're every[D]thing.
 [G]    [A7sus4]         [D]     [Dsus4]
 
 {B_2}
-So [D]laa, [Bm7]laa, l[E7]aa, laa,
-[G]Laa, [A7sus4]laa, la.   [D]    [Dsus4]
-So [D]laa, [Bm7]laa, l[E7]aa, laa,
-[G]Laa, [A7sus4]laa, la.   [D]    [-]
+So[D] laa,[Bm7] laa, la[E7]a, laa,
+[G]Laa, [A7sus4]laa, la.     [D]    [Dsus4]
+So[D] laa,[Bm7] laa, la[E7]a, laa,
+[G]Laa, [A7sus4]laa, la.     [D]    [-]
 
-{P}
+{C}
 And in this[A] craz[B7sus4]y
 [E]Life,   [C#m7]
 And through these[A] craz[B7sus4]y
@@ -95,7 +95,7 @@ You're every [F#7]song,
 And I sing a[Am6]long,
 'Cause you're my every[E]thing.   [C#m7]      [F#7]     [A]
 Yeah, [E]yeah!    [C#m7]      [F#7]     [A]
-So [E]laa, [C#m7]laa, l[F#7]aa, laa,
-[A]Laa, [B7sus4]laa, la.   [E]    [Esus4]
-So [E]laa, [C#m7]laa, l[F#7]aa, laa,
-[A]Laa, la-la-[B7sus4]laa, la-la [E]la-la-laa.
+So[E] laa,[C#m7] laa, la[F#7]a, laa,
+[A]Laa, [B7sus4]laa, la.     [E]    [Esus4]
+So[E] laa,[C#m7] laa, la[F#7]a, laa,
+[A]Laa, la-la[B7sus4]-laa, la-la [E]la-la-laa.
