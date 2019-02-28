@@ -1,32 +1,37 @@
 {I}
-[E7]
+[E7]        [E7]
+[E7]        [E7]
 
 {V_1}
-Well, [E]take me back down where cool water flow, yeah,
-[E]Let me remember things I love.
+Well, [E]take me back down where cool water flow, yeah,   [E7]
+[E]Let me remember things I love.   [E7]
 [E]Stoppin' at the log where catfish bite,
 [C]Walkin' along the river road at night,
-[A]Barefoot girls dancin' in the moonlight.   [E]
+[A]Barefoot girls dancin' in the moonlight.   [E7]
 
 {V_2}
-[E]I can hear the bull frog callin' me,
-[E]Wonder if my rope's still hangin' to the tree.
+[E]I can hear the bull frog callin' me,   [E7]
+[E]Wonder if my rope's still hangin' to the tree.   [E7]
 [E]Love to kick my feet way down the shallow water,
 [C]Shoe fly, dragon fly, get back to your mother,
-[A]Pick up a flat rock, skip it across Green [E]River.
+[A]Pick up a flat rock, skip it across Green [E7]River.
 
 {S}
-        [E7]
-[E]    [E]
-[E]    [C]
-[A]    [E]
+[E7]Well...
+[E]        [E]
+[E]        [C]
+[A]        [E]
 
 {V_3}
-[E]Up at Cody's camp I spent my days, oh,
-With [E]flat car riders and cross-tie walkers.
+[E]Up at Cody's camp I spent my days, oh,   [E7]
+With [E]flat car riders and cross-tie walkers.   [E7]
 [E]Old Cody, Junior took me over,
 [C]Said, you're gonna find the world is smouldrin'
-An' [A]if you get lost come on home to Green [E]River.
+An' [A]if you get lost come on home to Green [E7]River.
 
 {O}
-[E]Well...
+[E7]Well...
+[E]        [E]
+[E]        [E]
+[E]        [E]
+[E]        [E]
