@@ -1,5 +1,5 @@
 {I}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
     [D]
     [D]
 
@@ -11,7 +11,7 @@
 [G]Andrii [A]Popa, [D]cel vestit.
 
 {B}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
 
 {V_2}
 [D]Şapte ani cu voinicie
@@ -29,7 +29,7 @@
 [G]Andrii [A]Popa, [D]cel voinic.
 
 {B}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
 
 {V_3}
 [D]Zi şi noapte tot călare,
@@ -39,7 +39,7 @@
 [G]Fug ne[A]ferii [D]cât ce pot.
 
 {B}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
 
 {V_4}
 [D]Căci el are-o puşcă plină,
@@ -57,7 +57,7 @@
 [G]Andrii [A]Popa, [D]cel voinic.
 
 {B}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
 
 {V_5}
 Ş-[D]are fraţi de cruce şapte,
@@ -79,5 +79,5 @@
 [G]Andrii [A]Popa, [D]cel voinic.
 
 {O}
-[(]  [D]    [Dsus4]      [D]    [Dsus2]      [)]  [x2]
+[(]  [D]    [Dsus4]        [D]    [Dsus2]        [)]  [x2]
     [D]
