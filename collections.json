@@ -120,12 +120,13 @@
     "gloria_gaynor-i_will_survive",
     "katrina_the_waves-walking_on_sunshine"
 ],"language":["en"],"popularity":4,"isExplicit":"false","date":9},{
-"id":"colorful-songs","title":"Colorful songs","description":"These songs contain names of colors in their titles.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=colorful-songs","songs":[
+"id":"colorful-songs","title":"Colorful Songs","description":"These songs contain names of colors in their titles.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=colorful-songs","songs":[
     "prince-purple_rain",
     "kenny_wayne_shepherd-blue_on_black",
     "aerosmith-pink",
     "elvis_presley-blue_suede_shoes",
     "josh_turner-long_black_train",
+    "creedence_clearwater_revival-green_river",
     "van_morrison-brown_eyed_girl",
     "uriah_heep-lady_in_black"
 ],"language":["en"],"popularity":3,"isExplicit":"false","date":10}
