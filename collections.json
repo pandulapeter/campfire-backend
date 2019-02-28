@@ -121,6 +121,23 @@
     "gloria_gaynor-i_will_survive",
     "katrina_the_waves-walking_on_sunshine"
 ],"language":["en"],"popularity":4,"isExplicit":"false","date":9},{
+"id":"valentines-day","title":"Valentine's Day","description":"The perfect soundtrack for setting a romantic mood.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=valentines-day","songs":[
+    "michael_buble-everything",
+    "bon_jovi-always",
+    "aerosmith-i_dont_want_to_miss_a_thing",
+    "ben_e_king-stand_by_me",
+    "lady_gaga_bradley_cooper-shallow",
+    "jimmie_davis-you_are_my_sunshine",
+    "ronan_keating-if_tomorrow_never_comes",
+    "ronan_keating-when_you_say_nothing_at_all",
+    "counting_crows-accidentally_in_love",
+    "eric_clapton-wonderful_tonight",
+    "elvis_presley-cant_help_falling_in_love_with_you",
+    "kiss-forever",
+    "lady_gaga-you_and_i",
+    "bon_jovi-bed_of_roses",
+    "ed_sheeran-thinking_out_loud"
+],"language":["en"],"popularity":3,"isExplicit":"false","date":10},{
 "id":"colorful-songs","title":"Colorful Songs","description":"These songs contain names of colors in their titles.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=colorful-songs","songs":[
     "prince-purple_rain",
     "kenny_wayne_shepherd-blue_on_black",
@@ -130,5 +147,5 @@
     "creedence_clearwater_revival-green_river",
     "van_morrison-brown_eyed_girl",
     "uriah_heep-lady_in_black"
-],"language":["en"],"popularity":3,"isExplicit":"false","date":10}
+],"language":["en"],"popularity":3,"isExplicit":"false","date":11}
 ]
