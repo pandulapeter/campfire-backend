@@ -1,5 +1,5 @@
 {I}
-[A]    [C#m]    [F#m]    [D]
+[A]   [C#m]     [F#m]     [D]
 
 {V_1}
 I [A]heard, that you're [C#m]settled down,
@@ -54,7 +54,7 @@ Reg[F#m]rets and mistakes their memories made.
 
 {C}
 [A]Never mind I'll [E]find someone like [F#m]you,   [D]
-I wish [A]nothing but the [E]best for [F#m]you [D]two,
+I wish [A]nothing but the [E]best for [F#m]you,   [D]
 Don't for[A]get me, I [E]beg, I'll re[F#m]member you [D]said,
 \"Sometimes it [A]lasts in love, but [E]sometimes it hurts in[F#m]stead.\"   [D]
 
