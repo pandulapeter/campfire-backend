@@ -1,5 +1,5 @@
 {I}
-[F]        [Dm]    [x2]
+[F]        [Dm]            [x2]
 [C]        [Dm]    [Am]    [G]    [C]
 
 {V_1}
@@ -9,7 +9,7 @@ An August summer [Dm]night soldiers passing [C]by,
 Listening to the [Dm]wind of [Am]chan[G]ge.   [C]
 
 {B_1}
-[F]        [Dm]    [x2]
+[F]        [Dm]            [x2]
 [C]        [Dm]    [Am]    [G]    [C]
 
 {V_2}
@@ -75,5 +75,5 @@ Where the [Dm]children of to[G]morrow
 Dream a[Am]way [F]in the wind of [G]change.
 
 {O}
-[F]        [Dm]    [x2]
+[F]        [Dm]            [x2]
 [C]        [Dm]    [Am]    [G]    [C]
