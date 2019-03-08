@@ -1,6 +1,6 @@
 {I}
-[(]  [C]    [C/E]    [F]    [F]    [)]  [x2]
-[(]  [Am]    [C]    [F]    [F]    [)]  [x2]
+[(]  [C]      [C/E]      [F]     [F]    [)]  [x2]
+[(]  [Am]      [C]      [F]     [F]    [)]  [x2]
 
 {V_1}
 I've been roaming a[C]round, always looking [C/E]down at all I [F]see,
@@ -15,9 +15,9 @@ You know that I could [Am]use somebody, [C]    [F]
 You know that I could [Am]use somebody... [C]    [F]
 
 {C}
-Someone like [C]you!   [C/E]    [F]    [F]
-    [C]    [C/E]    [F]    [F]
-[(]  [Am]    [C]    [F]    [F]    [)]  [x2]
+Someone like [C]you!   [C/E]      [F]     [F]
+    [C]      [C/E]      [F]     [F]
+[(]  [Am]      [C]      [F]     [F]    [)]  [x2]
 
 {V_3}
 Off in the [C]night, while you live it [C/E]up, I'm off to [F]sleep,
@@ -26,23 +26,23 @@ I hope it's gonna [Am]make you notice, [C]    [F]
 I hope it's gonna [Am]make you notice... [C]    [F]
 
 {C}
-Someone like [C]me!   [C/E]    [F]    [F]
-Someone like [C]me!   [C/E]    [F]    [F]
-Someone like [Am]me, somebody. [C]    [F]    [F]
-[Am]    [C]    [F]    [F]
+Someone like [C]me!   [C/E]      [F]     [F]
+Someone like [C]me!   [C/E]      [F]     [F]
+Someone like [Am]me, somebody. [C]      [F]     [F]
+[Am]      [C]      [F]     [F]
 
 {B}
 [D]I'm ready now, I'm [F]ready now, I'm ready now,
 I'm [D]ready now, I'm ready now, I'm [F]ready now, I'm [Bm -]ready now!
 
 {S}
-[C]    [C/E]    [F]    [F]
-[Am]    [C]    [F]    [F]
+[C]      [C/E]      [F]     [F]
+[Am]      [C]      [F]     [F]
 
 {C}
-Someone like [Am]you, somebody. [C]    [F]    [F]
-Someone like [Am]you, somebody. [C]    [F]    [F]
-Someone like [Am]you, somebody. [C]    [F]
+Someone like [Am]you, somebody. [C]     [F]     [F]
+Someone like [Am]you, somebody. [C]     [F]     [F]
+Someone like [Am]you, somebody. [C]     [F]
 
 {O}
 I've been roaming a[C]round, always looking [C/E]down at all I [F]see...
