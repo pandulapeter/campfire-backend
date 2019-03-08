@@ -29,9 +29,8 @@ In the [C#]town where [B]I was [F#]born,
 [C#]Yellow submarine, [F#]yellow submarine.
 
 {S}
-[(]  [F#]    [C#]        [B]    [F#]
-    [D#m]    [G#m]        [B]    [C#]      [)]  [x2]
-
+[(]  [F#]     [C#]          [B]     [F#]
+    [D#m]     [G#m]          [B]     [C#]      [)]  [x2]
 
 {V_4}
 [F#]As we [C#]live a [B]life of [F#]ease,
