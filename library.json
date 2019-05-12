@@ -215,5 +215,6 @@
 "id":"bon_jovi-who_says_you_cant_go_home","title":"Who Says You Can't Go Home","artist":"Bon Jovi","language":"en","popularity":3},{
 "id":"magna_cum_laude-videki_sanzon","title":"Vidéki sanzon","artist":"Magna Cum Laude","language":"hu","popularity":5},{
 "id":"holograf-cat_de_departe","title":"Cât de departe","artist":"Holograf","language":"ro","popularity":4},{
-"id":"green_day-basket_case","title":"Basket Case","artist":"Green Day","language":"en","popularity":5}
+"id":"green_day-basket_case","title":"Basket Case","artist":"Green Day","language":"en","popularity":5},{
+"id":"lynyrd_skynyrd-free_bird","title":"Free Bird","artist":"Lynyrd Skynyrd","language":"en","popularity":5}
 ]
