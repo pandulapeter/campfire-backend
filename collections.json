@@ -150,6 +150,13 @@
     "van_morrison-brown_eyed_girl",
     "uriah_heep-lady_in_black"
 ],"language":["en"],"popularity":3,"isExplicit":"false","date":11},{
+"id":"punk-rock","title":"Punk Rock","description":"Well known punk hits from the past 30 years.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=punk-rock","songs":[
+    "green_day-basket_case",
+    "good_charlotte-the_anthem",
+    "sum_41-in_too_deep",
+    "blink_182-all_the_small_things",
+    "the_offspring-the_kids_arent_alright"
+],"language":["en"],"popularity":4,"isExplicit":"true","date":12},{
 "id":"summer-vibes","title":"Summer Vibes","description":"The perfect setlist for a warm summer evening.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=summer-vibes","songs":[
     "katrina_the_waves-walking_on_sunshine",
     "roxette-how_do_you_do",
@@ -171,28 +178,5 @@
     "nickelback_photograph",
     "dire_straits-walk_of_life",
     "the_rembrandts-ill_be_there_for_you"
-],"language":["en"],"popularity":4,"isExplicit":"false","date":12},{
-"id":"punk","title":"Summer Vibes","description":"The perfect setlist for a warm summer evening.","imageUrl":"https://campfire-test1.herokuapp.com/v1/image?id=summer-vibes","songs":[
-    "katrina_the_waves-walking_on_sunshine",
-    "roxette-how_do_you_do",
-    "johnny_nash-i_can_see_clearly_now",
-    "kid_rock-all_summer_long",
-    "sum_41-in_too_deep",
-    "george_harrison-got_my_mind_set_on_you",
-    "bryan_adams-summer_of_69",
-    "counting_crows-accidentally_in_love",
-    "walk_the_moon-shut_up_and_dance",
-    "jimmie_davis-you_are_my_sunshine",
-    "queen-crazy_little_thing_called_love",
-    "the_beatles-get_back",
-    "foo_fighters-learn_to_fly",
-    "the_monkees-im_a_believer",
-    "creedence_clearwater_revival-down_on_the_corner",
-    "blink_182-all_the_small_things",
-    "the_proclaimers-im_gonna_be",
-    "bon_jovi-have_a_nice_day",
-    "nickelback_photograph",
-    "dire_straits-walk_of_life",
-    "the_rembrandts-ill_be_there_for_you"
-],"language":["en"],"popularity":4,"isExplicit":"false","date":12}
+],"language":["en"],"popularity":4,"isExplicit":"false","date":13}
 ]

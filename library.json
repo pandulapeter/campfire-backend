@@ -221,5 +221,6 @@
 "id":"foo_fighters-learn_to_fly","title":"Learn to Fly","artist":"Foo Fighters","language":"en","popularity":5},{
 "id":"margaret_island-nem_voltal_jo","title":"Nem voltál jó","artist":"Margaret Island","language":"hu","popularity":4},{
 "id":"blink_182-all_the_small_things","title":"All the Small Things","artist":"Blink-182","language":"en","popularity":4},{
-"id":"sum_41-in_too_deep","title":"In Too Deep","artist":"Sum 41","language":"en","popularity":5}
+"id":"sum_41-in_too_deep","title":"In Too Deep","artist":"Sum 41","language":"en","popularity":5},{
+"id":"the_offspring-the_kids_arent_alright","title":"The Kids Aren't Alright","artist":"The Offspring","language":"en","popularity":3}
 ]
