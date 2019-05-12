@@ -17,7 +17,7 @@ Cât de de[D]parte? (cât de de[Bm]parte)
 Oricât de de[G]parte să-mi duc dragos[A]tea, departe de [D]tine.
 Cât de de[G]parte? (cât de de[A]parte)
 Cât de de[D]parte? (cât de de[Bm]parte)
-Oricât de de[A]parte aş fugi pe pă[G]mânt...   [G]
+Oricât de de[G]parte aş fugi pe pă[A]mânt...   [A]
 M-aş întoarce la [D]tine.   [D]
 
 {V_2}
@@ -36,7 +36,7 @@ Cât de de[D]parte? (cât de de[Bm]parte)
 Oricât de de[G]parte să-mi duc dragos[A]tea, departe de [D]tine.
 Cât de de[G]parte? (cât de de[A]parte)
 Cât de de[D]parte? (cât de de[Bm]parte)
-Oricât de de[A]parte aş fugi pe pă[G]mânt, m-aş întoarce la [D]tine.
+Oricât de de[G]parte aş fugi pe pă[A]mânt, m-aş întoarce la [D]tine.
 
 {C}
 Cât de de[G]parte? (cât de de[A]parte)
@@ -44,5 +44,5 @@ Cât de de[D]parte? (cât de de[Bm]parte)
 Oricât de de[G]parte să-mi duc dragos[A]tea, departe de [D]tine.
 Cât de de[G]parte? (cât de de[A]parte)
 Cât de de[D]parte? (cât de de[Bm]parte)
-Oricât de de[A]parte aş fugi pe pă[G]mânt...   [G]
+Oricât de de[G]parte aş fugi pe pă[A]mânt...   [A]
 M-aş întoarce la tine.
