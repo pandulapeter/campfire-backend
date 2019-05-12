@@ -1,5 +1,5 @@
 {I}
-[(]  [B]    [F#m]    [E]    [E]    [)]  [x2]
+[(]  [B]    [F#m]     [E]    [E]    [)]  [x2]
 
 {V_1}
 [B]Run and tell all of the [F#m]angels,
@@ -23,7 +23,7 @@ I'm [B]looking for a compli[F#m]cation,
 When I learn to fly high.
 
 {B_1}
-[(]  [B]    [F#m]    [E]    [E]    [)]  [x2]
+[(]  [B]    [F#m]     [E]    [E]    [)]  [x2]
 
 {V_3}
 [B]Think I'm done nursing the [F#m]patience,
